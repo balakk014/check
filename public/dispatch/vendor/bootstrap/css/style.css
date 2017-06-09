@@ -1,0 +1,335 @@
+#edit_booking .row, #add_booking .row{width: 50%; float:left;}
+a:hover{text-decoration:none;}
+.taxi_dispatcher_inner{position: relative;text-align: center;width: 100%;z-index: 9999;top: 0;}
+.taxi_dispatcher_inner .top_row{margin: 0; background: #171717; height: auto;}
+.taxi_dispatcher_inner .col-md-6{color: #fff; float: none; display: inline-block; width: auto;}
+.taxi_dispatcher_inner .col-lg-5{position: absolute; width: auto;}
+.container.taxi_dispatcher .col-md-8{margin-top: 0;width: 100%; overflow-y: hidden !important; height:100% !important;}
+.container.taxi_dispatcher .col-lg-9{width: auto; margin: 0 10px 10px;}
+.map_addbooking_outer, .manage_booking_filder{width: 100%; float: left;}
+.manage_booking_filder label{font: 12px arial; color:#333;}
+.lft_outer{float: left;height: 90%;position: relative;width: 100%;}
+.manage_booking_outer.col-md-12 .form-control{height: 25px; width: 150px; padding: 2px 12px;}
+.manage_booking_outer.col-md-12 .form-control_bott {float: left;width: 100%;}
+ .col-lg-80 {margin-left: 15px;}
+.col-lg-80 > a {background: #0073b5;color: #fff;font: 12px arial;margin-right: 16px;padding: 6px 10px;transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s; -o-transition: all 0.5s ease 0s;}
+.head_leftmenu a {background: none;padding: 0;display: inline-block;vertical-align: top;overflow: hidden;}
+.head_leftmenu a.head_dash {width: 22px;height: 22px;position: relative;}
+.head_leftmenu a.head_msgbook {width: 22px;height: 22px;position: relative;}
+.head_leftmenu a.head_setting {width: 22px;height: 22px;margin-top: 1px;position: relative;}
+.show_menu {position: absolute;left: 35px;top: 5px;}
+.head_leftmenu .head_dash:hover {padding-right: 100px;}
+.head_leftmenu .head_msgbook:hover {padding-right: 95px;}
+.head_leftmenu .head_setting:hover {padding-right: 95px;}
+.head_leftmenu .head_setting:hover .show_menu, .head_leftmenu .head_msgbook:hover .show_menu, .head_leftmenu .head_dash:hover .show_menu {left: 35px;top: 5px;}
+
+.head_leftmenu a.head_dash:hover .icon_22,.head_leftmenu a.head_dash.active .icon_22,
+.head_leftmenu a.head_msgbook:hover .icon_22,.head_leftmenu a.head_msgbook.active .icon_22,
+.head_leftmenu a.head_setting:hover .icon_22,.head_leftmenu a.head_setting.active .icon_22{fill: #ee3324;}
+.head_leftmenu a.head_dash:hover .show_menu,.head_leftmenu a.head_dash.active .show_menu,
+.head_leftmenu a.head_setting:hover .show_menu,.head_leftmenu a.head_setting.active .show_menu,
+.head_leftmenu a.head_msgbook:hover .show_menu,.head_leftmenu a.head_msgbook.active .show_menu
+{color: #ee3324;}
+
+
+/*.rgt_outer{width: 19%; position: absolute; right: 0; bottom: 0; background: #fff; height: 252px;}*/
+.tab-content span{float: left;padding: 0 10px;width: 115px; font-size: 12px;}
+.tab-content ul{float: left; width: 100%; margin: 0 0 4px 0; padding:0; background: #fff;}
+.tab-content ul li{padding: 10px 0;list-style-type: none; float: left; width: 100%; border-bottom: 1px solid #ccc;}
+.container.taxi_dispatcher h4{position: fixed;}
+.tab-content ul li:first-child{margin-top: 37px;}
+.tab-content ul li:first-child span.status{text-align: right;}
+/*.tab-content ul li.no_driver{padding: 10px;margin-top: 40px;color: #2C2B2B;text-align: center;border: none;font-weight: bold; font-size: 13px;}*/
+.tab-content ul li.no_driver{margin-top: 60px;padding: 10px;color: #ff0000;border: none;padding-top: 25px;height: 140px;background: url("../images/nodriver_found.png") no-repeat;background-position: center 65px;font: 15px arial;text-align: center;}
+.nodata td{padding: 10px 0; border: none;}
+.tab-content{font-size: 12px;}
+.driver_status_height{padding: 0 !important; width: 100% !important;}
+.recent_activity, .driver_status, .driver_status_bottom{float: left;width: 100%;}
+.recent_activity{padding: 0;}
+.container.taxi_dispatcher span.pro_pic{background: url("../images/status_icon.png") no-repeat -37px -29px; width: 23px; height: 23px; float: left; margin-right: 15px; font: 14px arial; color: #666; margin-top: 5px;}
+.container.taxi_dispatcher span.number{float: left; margin-right: 15px; font: 14px arial; color: #666; margin-top: 9px;}
+.container.taxi_dispatcher span.phone_icon{background: url("../images/status_icon.png") no-repeat -60px -27px; width: 40px; height: 32px; float: right; margin-right: 15px; font: 14px arial; color: #666;}
+.container.taxi_dispatcher h4, .driver_details h4, .container.taxi_dispatcher .caller_id h4, .container.taxi_dispatcher .recent_activity h4{background: #f9c213;color: #222222;font: 16px arial;margin: 0;padding: 10px 1%;}
+.caller_id ul{padding: 0;}
+.caller_id ul li{padding: 10px; float: left; list-style-type: none; width: 100%;}
+.recent_activity ul{margin: 0;overflow: hidden !important;padding: 0 !important;width: 100% !important;}
+.recent_activity ul li:first-child{border: none;}
+.recent_activity ul li{list-style-type: none; padding: 10px;border-top: 1px solid #b2b2b2; float: left; width: 100%;}
+.container.taxi_dispatcher #free_out_driver li span, .container.taxi_dispatcher #active_driver li span{width: 120px;}
+.container.taxi_dispatcher #free_in_driver li span{width: 115px;}
+.recent_activity ul li.rec_active{background: #dfdfdf;}
+.recent_activity ul li span{color: #666666;float: left;width: 130px;}
+.overflow-block thead tr td{padding: 5px; font: bold 11px arial;background:#ddd;color: #222;line-height: 15px;}
+.overflow-block .dispatch_icons tr td{font: bold 12px arial;background:#fff;border-top: 1px solid #ccc;border-bottom: 1px solid #ccc;}
+#taxi_scroll_one, #taxi_scroll_manage{padding: 0 !important;}
+.manage_booking_outer.col-md-12{width: 100% !important;}
+.manage_booking_outer.col-md-12.map_manage_booking_scroll{height:auto;}
+.overflow-block .dispatch_icons label{float: left;font-size: 12px;font-weight: normal;margin: 0;color: #666; padding: 8px 5px 0 5px;}
+.dispatch_icons tr td div{float: left;padding:5px 10px;width: auto;}
+/*.heading_icon_one{background: #1298ff;}
+.heading_icon_two{background: #1339f9;}
+.heading_icon_three{background: #eb13f9;}
+.heading_icon_four{background: #12ff00;}
+.heading_icon_five{background: #f9c213;}
+.heading_icon_six{background: #ff9600;}
+.heading_icon_sevan{background: #07841e;}
+.heading_icon_eight{background: #f91313;}
+.heading_icon_nine{background: #844d06;}*/
+
+.heading_icon_one{background: #63c9fb;}
+.heading_icon_two{background: #66dde3;}
+.heading_icon_three{background: #80c783;}
+.heading_icon_four{background: #ad72fc;}
+.heading_icon_five{background: #f46dd0;}
+.heading_icon_six{background: #efbb69;}
+.heading_icon_sevan{background: #bad356;}
+.heading_icon_eight{background: #78b2ca;}
+.heading_icon_nine{background: #ea6e64;}
+
+.dispatch_table .table_body .assign_icon .tbl_status div,.dispatch_table .table_body .assign_icon .tbl_status a div{background: url(../images/status_icon.png) no-repeat;width: 23px;height: 24px;text-indent: -9999px;display: inline-block;}
+.dispatch_table .table_body .reassign_icon .tbl_status div,.dispatch_table .table_body .reassign_icon .tbl_status div{background: url("../images/status_icon.png") no-repeat -30px 0;height: 21px;text-indent: -9999px;width: 19px;display: inline-block;}
+.dispatch_table .table_body .waiting_response_icon .tbl_status div,.dispatch_table .table_body .waiting_response_icon .tbl_status div{background: url("../images/status_icon.png") no-repeat -30px 0;height: 21px;text-indent: -9999px;width: 19px;display: inline-block;}
+.dispatch_table .table_body .confirm_icon .tbl_status div,.dispatch_table .table_body .confirm_icon .tbl_status div{background: url("../images/status_icon.png") no-repeat -75px 0;height: 21px;text-indent: -9999px;width: 21px;display: inline-block;}
+.dispatch_table .table_body .start_to_pickup_icon .tbl_status div,.dispatch_table .table_body .start_to_pickup_icon .tbl_status div{background: url("../images/status_icon.png") no-repeat -100px 0;height: 14px;text-indent: -9999px;width: 25px;display: inline-block;}
+.dispatch_table .table_body .inprogress_icon .tbl_status div,.dispatch_table .table_body .inprogress_icon .tbl_status div{background: url("../images/status_icon.png") no-repeat -129px 0;height: 15px;text-indent: -9999px;width: 23px;display: inline-block;}
+.dispatch_table .table_body .complete_icon .tbl_status div,.dispatch_table .table_body .complete_icon .tbl_status div{background: url("../images/status_icon.png") no-repeat -151px 0;height: 18px;text-indent: -9999px;width: 19px;display: inline-block;}
+.dispatch_table .table_body .waiting_payment_icon .tbl_status div,.dispatch_table .table_body .waiting_payment_icon .tbl_status div{background: url("../images/status_icon.png") no-repeat -170px 0;height: 19px;text-indent: -9999px;width: 20px;display: inline-block;}
+.dispatch_table .table_body .cancel_icon .tbl_status div,.dispatch_table .table_body .cancel_icon .tbl_status div{background: url("../images/status_icon.png") no-repeat -190px 0;height: 14px;text-indent: -9999px;width: 15px;display: inline-block;}
+
+.info-content button.btn.btn-outline.btn-primary.btn-xs{margin: 5px 0 0;}
+.container.taxi_dispatcher span.driver_status_busy, .container.taxi_dispatcher span.driver_status_out, .container.taxi_dispatcher span.driver_status_in, .container.taxi_dispatcher span.driver_status_active{margin-left: 10px;}
+.container.taxi_dispatcher span.driver_status_busy, .container.taxi_dispatcher span.driver_status_out, .container.taxi_dispatcher span.driver_status_in, .container.taxi_dispatcher span.driver_status_active, .overflow-block.overflow-block_outer tr td button{width: auto; border-radius: 4px; color: #fff; box-shadow: 0 0 1px #ffffff inset; padding: 2px 8px; cursor: default;}
+.tab-content span.driver_status_out, .overflow-block.overflow-block_outer tr td button.btn.btn-outline.btn-primary.btn-xs.update_dispatch{border: none; border-radius: 4px; color: #fff;cursor: pointer; padding: 2px 8px;
+background: #46b9f2;} 
+
+.tab-content .driver_details span.driver_status_in{background: #07c445;}
+.tab-content .driver_details span.driver_status_active{background: #ee7408;}
+.tab-content .driver_details span.driver_status_out{background: #46b9f2;}
+.tab-content .driver_details span.driver_status_busy{background: #ff0000;}
+
+/*.overflow-block.overflow-block_outer tr.cancel_icon td button{border:none;color: #fff;background: #ea6e64;}
+.container.taxi_dispatcher span.driver_status_active, .overflow-block.overflow-block_outer tr.inprogress_icon td button{border: none;color: #fff;background: #efbb69;}
+.overflow-block.overflow-block_outer tr.start_to_pickup_icon td button{border:none;color: #fff;background: #f46dd0; }
+.container.taxi_dispatcher span.driver_status_in{color: #fff;background: #bad356;}
+.container.taxi_dispatcher span.driver_status_busy, .overflow-block.overflow-block_outer tr.waiting_payment_icon td button{color: #fff;background: #78b2ca;border: none;}
+.overflow-block.overflow-block_outer tr.confirm_icon td button{border: none;color: #fff;background: #ad72fc; }
+.overflow-block.overflow-block_outer tr.complete_icon td button{border: none;color: #fff;background: #bad356;}*/
+
+.dispatch_table .table_body .assign_icon button{border: none;color: #fff;background: #63c9fb;}
+.dispatch_table .table_body .complete_icon button{border: none;color: #fff;background: #bad356;}
+.dispatch_table .table_body .confirm_icon button{border: none;color: #fff;background: #ad72fc;}
+.dispatch_table .table_body .cancel_icon button{border: none;color: #fff;background: #ea6e64;}
+.dispatch_table .table_body .driver_status_busy button,
+.dispatch_table .table_body .waiting_payment_icon button{border: none;color: #fff;background: #78b2ca;}
+.dispatch_table .table_body .driver_status_in button{border: none;color: #fff;background: #bad356;}
+.dispatch_table .table_body .start_to_pickup_icon button{border: none;color: #fff;background: #f46dd0;}
+.dispatch_table .table_body .driver_status_active button,
+.dispatch_table .table_body .inprogress_icon button{border: none;color: #fff;background: #efbb69;}
+
+
+.col-md-4.col-md-4-inner .enscroll-track.track3{display: none;}
+.col-md-4.col-md-4-inner:hover .enscroll-track.track3{display: block;}
+.col-lg-5.rgt_menu {float: none;margin-top: 15px;position: absolute;right: 10px;top: 0;}
+.col-lg-5.rgt_menu ul li{float: left; width: auto; margin: 0 10px;list-style: none;}
+.col-lg-5.rgt_menu ul li a{display: inline-block;vertical-align: top;text-decoration: none;}
+.col-lg-5.rgt_menu ul li a.goto_admin {width: 20px;height: 20px;}
+.icon_20{width: 20px;height: 20px;fill: #fff;}
+.icon_22{width: 22px;height: 22px;fill: #fff;}
+.col-lg-5.rgt_menu ul li a:hover .icon_20{fill: #ee3324;}
+.goto_company{background: url(../images/company.png) no-repeat; width: 20px;height: 20px;}
+.col-lg-5.rgt_menu ul li a.logout {width: 20px;height: 20px;}
+
+.icon-menu { color: #fff;cursor: pointer;font-family: 'Open Sans', sans-serif;font-size: 16px;padding: 0;height: 100% !important;text-decoration: none;text-transform: uppercase;}
+.icon-menu i {position: relative;display: inline-block;}
+.icon-menu i:before{position: absolute;border-right: 8px solid #fff;border-top: 8px solid transparent;border-bottom: 8px solid transparent;top: -10px;left: 10px;content: "";}    
+.icon-menu i:after{position: absolute;border-right: 8px solid #e36159;border-top: 8px solid transparent;border-bottom: 8px solid transparent;top: -10px;left: 12px;content: "";}    
+.lft_outer {float: left;height: 100%;position: relative;width: 100%;}
+.manage_booking_bottom_outer{float: left;position: relative;width: 100%;background: #fff;height: 100%;}
+#left_slide_panel{float: left;position: relative;width: 70%;background: #fff;height: 100%;border-right: 1px solid #ccc;}
+body *{transition-duration: 0.5s;}
+.map_fluied .icon-menu i:before{position: absolute;border-left: 8px solid #fff;border-top: 8px solid transparent;border-bottom: 8px solid transparent;top: -10px;left: 12px;content: "";border-right: 0;}    
+.map_fluied .icon-menu i:after{position: absolute;border-left: 8px solid #e36159;border-top: 8px solid transparent;border-bottom: 8px solid transparent;top: -10px;left: 10px;content: "";border-right: 0;}    
+.map_fluied #left_slide_panel{margin-left: -70%;}
+.map_fluied  #map-section{width: 100%;}
+#map-section {height: 100% !important;position: relative;}
+.container.taxi_dispatcher .col-md-8 {margin-top: 0;width: 30%;overflow-y: hidden !important;height: 100% !important;padding: 0;transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-o-transition: all 0.5s ease 0s;}
+
+/*.css_checkbox input[type="checkbox"] {display:none;}
+.css_checkbox input[type="checkbox"] + label{margin:0 !important;}
+.css_checkbox input[type="checkbox"] + label span {float: left;background: url(../images/check_closed.jpg) no-repeat;width:18px;height: 18px;cursor:pointer;margin: 0;}
+.css_checkbox input[type="checkbox"]:checked + label span {background: url(../images/check_cheked.jpg) no-repeat;}*/
+.dispatcher_details{float: left;width: 100%;}
+.all_booking_manage_scroll_one{width: 100%;overflow: auto;}
+.lft_outer .nav-tabs{background: #ddd;border: 1px solid #fff;float: left;width: auto;overflow: auto;}
+.row_payment .payment_inner label{margin: 0;}
+.all_company{width:210px;padding:0 17px 0 15px;overflow: hidden;position: relative;background: #fff;}
+.all_company:after{content: "";position: absolute;right:10px; top:15px;z-index: 1;border-top: 5px solid #000;border-left: 5px solid transparent;border-right: 5px solid transparent;} 
+.all_company select{ width:109%;background: transparent;border:1px solid #fff;font:normal 12px/32px arial;color:#999;height: 32px; -webkit-appearance: none; -moz-appearance: none;appearance: none;border-radius: 3px;padding: 0 5px !important;}
+.all_company select option{border-bottom:1px solid #ddd;font:normal 12px/32px arial;color:#999;height: 32px;padding: 7px 10px;float: left; -webkit-appearance: none; -moz-appearance: none;appearance: none;}
+select:focus,select:active, select:hover,input:focus{outline: none;}
+select::-ms-expand {display: none;}
+#edit_book_tab, #add_book_tab{float: left;height:auto;margin:-225px 0 0 -325px;position: fixed;z-index: 9999;top: 50%;left: 50%;width: 650px;display: none;}
+.container.taxi_dispatcher{width: 100%; padding: 0;}
+.container.taxi_dispatcher .col-lg-5{margin-right: 8px; width: 48%;}
+.container.taxi_dispatcher .payment_inner{padding: 0;}
+.container.taxi_dispatcher .row.row_payment{margin: 0; float: left; clear: bot;width: 100%;} 
+.container.taxi_dispatcher .row.row_payment li span{float: left;}
+.container.taxi_dispatcher .row.row_payment .col-lg-5, #edit_booking .row.row_payment, #add_booking .row.row_payment{width: 100%;}
+.container.taxi_dispatcher .payment_inner li{list-style: none;}
+.container.taxi_dispatcher{margin-bottom: 15px; margin-top: 0;}
+.col-md-4.col-md-4-inner .row,.col-md-12.col-md-4-inner .row{margin-bottom: 0; padding: 0 10px 5px; width: 50%;float: left;}
+.container.taxi_dispatcher h4{font-size: 16px; font-weight: normal; margin: 0;}
+.tab-content .tab-pane{float: left;width: 100%;}
+.container.taxi_dispatcher .tab-content h4{background: #e36159; width: 297px;color: #fff;box-sizing: border-box;padding: 10px;}
+.container.taxi_dispatcher #defaultForm h4{font-size: 12px; font-weight: bold; padding-bottom:5px;}
+.container.taxi_dispatcher #edit_book_tab h4, .container.taxi_dispatcher #add_book_tab h4{margin: 5px 0; padding: 0; position: relative; background: #fff; font:bold 12px arial;}
+.container_content .taxi_scroll_one_top label, .container.taxi_dispatcher label{font-size: 12px; font-weight: normal; float: left;}  
+.container.taxi_dispatcher .payment_inner li{border:none; padding: 5px 0;width: 100%;float:left;}
+.container.taxi_dispatcher .payment_inner li span{width:auto;}
+.modal-header button.close{background: url("../images/status_icon.png") no-repeat scroll -185px -24px rgba(0, 0, 0, 0);border: 0 none;cursor: pointer;padding: 0;width: 20px;opacity: 0.5;}
+.modal-dialog{width: 500px;}
+.btn.btn-default, .container.taxi_dispatcher .form-group .btn-primary{background: #ddd; border: none; color: #222;}
+.container.taxi_dispatcher .form-group div{float: left;}
+.container.taxi_dispatcher span{font-size: 11px; font-weight: normal;} 
+.container.taxi_dispatcher .driver_details span{margin-top: 4px;}
+.container.taxi_dispatcher span.badge{background: url("../images/status_icon.png") no-repeat -192px -43px; margin-left: 8px;padding-left: 15px;padding-right: 0;font-style: italic;width: auto;}
+.container.taxi_dispatcher .form-control{height: 30px; font-size: 12px; padding: 0 10px; margin-bottom: 5px; color: #000;}
+.col-md-4.col-md-4-inner{width: 99% !important;padding: 0 !important;margin: 10px 7px 0 0;}
+.widget.margin-bottom{height:100% !important;}
+.col-lg-5.col-lg-5_map{display: none;}
+.overflow-block.overflow-block_outer tr td{font-size: 11px;}
+.overflow-block.overflow-block_outer tr td{padding: 5px ;}
+.overflow-block.overflow-block_outer tr{background: #fff;}
+.overflow-block.overflow-block_outer tr.show_tr_one{background: #fff;}
+.overflow-block.overflow-block_outer tr.show_tr_two{background: #ececec;}
+.overflow-block.overflow-block_outer button.status{background:none; height: 23px; border: none;}
+.overflow-block.overflow-block_outer  button.edit-ico,.overflow-block.overflow-block_outer button.remove-ico{background: none;padding: 0;margin: 0;display: inline-block;}
+.edit-ico i, .remove-ico i {color: #b4b4b4;font-size: 16px;margin: 13px 0;display: inline;}
+a.remove-ico:focus{text-decoration:none;}
+.form-group.col-lg-5_taxi_dispatcher .col-lg-5{width: 100%; margin: 0;}
+.pac-container{z-index: 9999999;}
+.close_side_bar:before{background: url("../images/status_icon.png") no-repeat -185px -24px; width: 20px; height: 20px; display: inline-block; content:''; position: absolute; top: 20px; right: 10px;}
+.popup_close_button.close_side_bar:before{top: 5px; right: 5px;}
+#map_addbooking{display: block;width: 100%;height: 150px;margin-top:5px;margin: 0 auto;-moz-box-shadow: 0px 5px 20px #ccc;-webkit-box-shadow: 0px 5px 20px #ccc;box-shadow: 0px 5px 20px #ccc;}
+#map_addbooking.large{height:100px;}
+#driver_details{padding:10px 0;}
+.modal-body{padding: 15px 15px 0;}
+.modal-footer{padding-right: 0;}
+.modal-title{font: 20px sans-serif;}
+#search_driver{border: 1px solid #cccccc;border-radius: 5px;padding: 3px 10px;}
+#driver_details a{color: #555;}
+#driver_details a:hover{color: #000; text-decoration: none;}
+.success_flash{background: #dff2bf;left: 0;padding: 5px 0;position: absolute;text-align: center;top: 6px;width: 100%;z-index: 9990;border: 1px solid #adde5c; border-left: none; border-right: none;}
+.success_flash li{list-style-type: none;}
+.goto_driver{background: url("../images/status_icon.png") no-repeat -104px -28px;float: right;height: 15px;margin-right: 15px;margin-top: 2px;width: 15px;}
+/*Scrool style*/
+.track3{width: 10px;background: rgba(0, 0, 0, 0);margin-right: 2px;border-radius: 10px;-webkit-transition: background 250ms linear;transition: background 250ms linear;}
+.track3:hover,.track3.dragging{background: #d9d9d9;background: rgba(0, 0, 0, 0.15);}
+.handle3{width: 7px;right: 0;background: #999;background: rgba(0, 0, 0, 0.4);border-radius: 7px;-webkit-transition:width 250ms;transition: width 250ms;}
+.track3:hover .handle3,.track3.dragging .handle3{width: 10px;}
+#on_going_trip{background: #fff;color: #ff0000;float: left;text-align: center;width: 100%;}
+#on_going_trip_map{position: relative; height:100% !important;}
+#map-canvas{height:100% !important;}
+.ongoing{float: left;position: absolute;text-align: center;top: 0;width: 100%;z-index: 1;}
+#all_drivers ul li a{color: #555;}
+#all_drivers ul li a:hover{color: #000; text-decoration: none;}
+.taxi_scroll_one_top{float: left;width: 100%;}
+.manage_booking_search{margin: 0; padding-top: 5px;}
+.form.form_manage_booking{padding: 10px;}
+.form.form_manage_booking input{padding: 3px 10px; border: 1px solid #ccc; border-radius: 3px; width: 200px;}
+.form.form_manage_booking label{font:normal 14px arial; margin-right: 5px;}
+/*.container_content .taxi_scroll_one_top label, .container.taxi_dispatcher .taxi_scroll_one_top label{margin: 8px 0 0 10px;}*/
+.container.taxi_dispatcher span.driver_status_active, .container.taxi_dispatcher span.driver_status_in, .container.taxi_dispatcher span.driver_status_out, .container.taxi_dispatcher span.driver_status_busy{cursor:default !important; float:right; margin-right:10px;}
+.error{color:red;}
+.nav.nav-tabs select{padding: 4px; border: 1px solid #cccccc;}
+.hover_tool_tip{float: left;width: auto;position: relative;}
+.hover_tool_tip ul{padding: 0; width: auto;border: 1px solid #E5E2DA;border-radius: 3px;background: #fff;float: left;}
+.hover_tool_tip span{background: url("../images/status_icon.png") no-repeat -123px -31px;bottom: -9px;height: 20px;left: 40%;position: absolute;width: 25px;}
+.hover_tool_tip ul li{float: left; list-style-type: none;width: auto; clear: both; padding: 5px 15px;}
+.hover_tool_tip ul li a{color: #333;outline: none;}
+.hover_tool_tip ul li a:hover{color: #000; text-decoration: none;}
+.friends-blog.driver_status_bottom{width: 100% !important; padding: 0 !important; border-left: 1px solid #b2b2b2; border-top: 1px solid #b2b2b2;}
+.driver_status.driver_status_height{background: #ffffff;position: absolute;right: 5px;top: 11px;width: 298px !important;border: 1px solid #b2b2b2;z-index:1; height: 250px !important;}
+#driver_dets_count{width: auto;margin-top: 0;top: 12px;position: absolute;}
+.rgt_outer{background: #ffffff;position: relative;z-index: 9;}
+.driver_status.driver_status_height .lft_outer .tab-content{height: auto;}
+/*.manage_booking_bottom_outer, .manage_booking_bottom{bottom: 0;float: left;position: fixed;width: 100% !important;height: 270px;background: #fff;}*/
+.gmnoprint{margin-top: 140px !important;}
+.nodata p{font:bold 13px arial; padding: 15px 0; text-align: center;}
+
+/* Loading Style */
+.loader{position: fixed;left: 0px;top: 0px;width: 100%;height: 100%;z-index: 2147483647;background: #333;}
+.loader_inner{position:absolute; top:40%; left:44%;}
+/* Loading Style */
+
+/* Manage Booking */
+#taxi_scroll_new{width:100% !important;float:left;overflow:auto;}
+
+.taxi_dispatcher_inner{position:fixed;}
+.taxi_scroll_one_top{border-left:none; border-right:none;}
+table.scroll, table.scroll_manage {
+    /* width: 100%; */ /* Optional */
+    /* border-collapse: collapse; */
+    border-spacing: 0;
+}
+table.scroll thead {display: inline-block;}
+table.scroll tbody {display: block;}
+/*table.scroll tbody,table.scroll thead, table.scroll_manage tbody, table.scroll_manage thead {display: block;}*/
+table.scroll thead#list_thead, table.scroll_manage thead#list_thead{background: #f9c213;}
+thead tr th {height: 30px;line-height: 30px;}
+table.scroll tbody {overflow-y: auto;overflow-x: hidden;width: 100% !important;padding-right: 0px !important;}
+table.scroll_manage tbody {overflow-y: auto;overflow-x: hidden;padding-right: 0px !important;}
+tbody td:last-child, thead th:last-child {border-right: none;}
+.reset-part, .to-reset-part{position:relative;float: left;}
+.reset-part span .glyphicon, .to-reset-part span .glyphicon{color:#b4b4b4;}
+.to-reset-part span, .reset-part span {position: absolute;right: 2px;border-left: 1px solid #ddd;padding-left: 4px;bottom: 0;line-height: 25px;}
+.taxi_scroll_one_top table > tbody > tr > td > label{margin: 8px 0 0 5px;}
+.butt_dispatch{clear: both;display: inline-block;}
+.lft_outer .nav-tabs {float: right;}
+.form.manage_book_dispatch {padding: 10px;float: left;}
+.form.manage_book_dispatch table td {padding-right: 5px;}
+.form.manage_book_dispatch label{margin: 0 0 5px;font-size: 14px;line-height: 14px;}
+.form.manage_book_dispatch input, .form.manage_book_dispatch select {padding: 3px 10px;border: 1px solid #ccc;border-radius: 3px;width: 100%;font-size: 13px;
+    transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-o-transition: all 0.5s ease 0s;}
+.form.manage_book_dispatch #submit_filter {background: url(../images/filter_icon.jpg) no-repeat;width: 19px;height: 20px;border: none;margin: 2px 0 0 5px;
+    padding: 0;float: left;}
+.form.manage_book_dispatch #reset_date {background: url(../images/reset.png) no-repeat;width: 17px;height: 17px;border: none;margin: 2px 0 0 10px;padding: 0;float: left;}
+.form.manage_book_dispatch table{margin: 0;}
+.dispatch_icons {border-top: 1px solid #ccc;}
+#add_share_tab:before, #add_book_tab:before, #edit_book_tab:before {background: rgba(0,0,0,0.7);left: 0;top: 0;width: 100%;height: 100%;position: fixed;content: '';}
+.add_book_tabinner, .edit_book_tabinner {width: 100%;background: #FFF;padding: 2%;height: 465px;border: 3px solid #ccc;position: relative;overflow: auto;}
+.container.taxi_dispatcher .form-group .btn-primary:hover {background: #333;color: #fff;}
+.dispatcher_details .btn-xs,.btn-group-xs > .btn{font-size: 11px;}
+
+
+.all_booking_manage_scroll_one{overflow: auto;width: 100%;}
+.table_body{width: 100% !important;float: left;padding: 0 !important;}
+.dispatch_table{float: left;width: 100%;}
+.table_head{float: left;width: 100%;background: #ddd;border-left: 5px solid #ddd;display: flex;align-items: center;}
+.tbl_row{float: left;width: 100%;display: flex;align-items: center;}
+.tbl_book_time,.tbl_pickup_time,.tbl_act_pickup_time,.tbl_book_type,.tbl_driver{float: left;width: 7%;padding: 5px 3px;text-align: center;}
+.tbl_vehicle,.tbl_fare,.tbl_status,.tbl_distance{float: left;width: 5%;padding: 5px 3px;text-align: center;word-wrap: break-word;}
+.tbl_company_name{float: left;width: 6%;padding: 5px 3px;text-align: center;}
+.tbl_cur_Loc,.tbl_drop_Loc,.tbl_action{float: left;width: 8%;padding: 5px 3px;text-align: center;}
+.tbl_trip_id{float: left;width: 4%;padding: 5px 3px;text-align: center;}
+.tbl_passenger{float: left;width: 11%;padding: 5px 3px;text-align: center;}
+.table_head label{float: none !important;display: inline-block;vertical-align: middle;margin: 0;font:bold 11px/16px arial !important;color: #222;}
+.table_body span{float: none !important;display: inline-block;vertical-align: middle;margin: 0;font:normal 11px/17px arial !important;color: #222;width: 100%;word-wrap:break-word;}
+.show_tr_one{border-top: 1px solid #ddd;}
+.show_tr_two{background: #ececec;border-top: 1px solid #ddd;}
+.tbl_action span button{margin: 0;white-space: normal;width: 100%;}
+.overall_scroll thead,.overall_scroll tbody{display: block;}
+/*#scrollbox3{overflow: auto;width: 100% !important;height: calc(100vh - 232px);}*/
+/*.overall_scroll .newtable table,.overflow-block.overflow-block_outer.overall_scroll table{width: 100% !important;}*/
+.container.taxi_dispatcher span.driver_status_busy, .overflow-block.overflow-block_outer tr.waiting_payment_icon td button,
+.overflow-block.overflow-block_outer tr.confirm_icon td button,.overflow-block.overflow-block_outer tr.start_to_pickup_icon td button,
+.container.taxi_dispatcher span.driver_status_active, .overflow-block.overflow-block_outer tr.inprogress_icon td button,.overflow-block.overflow-block_outer tr.cancel_icon td button{white-space: normal;margin:0;}
+.container.taxi_dispatcher .tab-content .driver_status_busy,.container.taxi_dispatcher .tab-content .driver_status_active{margin-right: 10px;}
+.text_box{display: inline-block;width: 200px;position: relative;}
+.text_box span {font-size: 11px;font-weight: normal;}
+.enscroll-track.track3{background: rgba(0,0,0,0) !important;}
+#content{margin-top: 50px;}
+#add_book_tab .add_book_tabinner .form-control,#edit_book_tab .edit_book_tabinner .form-control[readonly]{background: #fff;cursor: pointer;}
+.tbl_action span{width:100%!important;float:left!important;}

@@ -1,0 +1,28 @@
+# Turn on URL rewriting
+RewriteEngine On
+
+# Installation directory
+# RewriteBase /
+
+# Protect hidden files from being viewed
+<Files .*>
+	Order Deny,Allow
+	Deny From All
+</Files>
+
+RewriteCond %{HTTP_HOST} ^taximobility.com [NC]
+RewriteRule ^(.*)$ http://www.taximobility.com/$1 [L,R=301]
+#RewriteCond %{HTTP_HOST} ^108\.168\.228\.195
+#RewriteRule (.*) http://www.taximobility.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} ^162\.222\.183\.145
+RewriteRule (.*) http://www.taximobility.com/$1 [R=301,L]
+
+# Protect application and system files from being viewed
+RewriteRule ^(?:application|modules|system)\b.* index.php/$0 [L]
+
+# Allow any files or directories that exist to be displayed directly
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Rewrite all other URLs to index.php/URL
+RewriteRule .* index.php?/$0 [PT,L,QSA]

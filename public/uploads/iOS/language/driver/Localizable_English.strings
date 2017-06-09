@@ -1,0 +1,263 @@
+/* 
+  Localizable.strings
+  Taximobility Driver
+
+  Created by Mahesh on 2/23/16.
+  Copyright © 2016 Ndot. All rights reserved.
+*/
+
+"APP TITLE" = "Message";
+"Language Settings" = "Language Settings";
+"STATISTICS" = "Statistics";
+"Profile" = "Profile";
+"Total completed jobs" = "Total Completed Jobs";
+"Cancelled" = "Cancelled";
+"Rejected"="Rejected";
+"Time Driven"="Time Driven";
+"Today Earning"="Today's Earnings";
+"Total earning" = "Total Earnings";
+"Total trip" = "Total Trips";
+"MY LOCATION" = "My Location";
+"Taxi Details" = "Taxi Details";
+
+"First Name"="First Name";
+"Last Name"="Last Name";
+"Email"="Email";
+"Confirm Password"="Confirm Password";
+"Bank"="Bank";
+"Bank A/C no"="Bank A/C no";
+"Mobile Number"="Mobile Number";
+"Password"="Password";
+"ERROR"="ERROR";
+"Take Photo"="Take Photo";
+"Choose from Library"="Choose from Library";
+"This device doesn't have a camera."="This device doesn't have a camera.";
+"This device doesn't support photo libraries."="This device doesn't support photo libraries.";
+"CANCEL" = "Cancel";
+
+"Show" = "Show";
+"Hide" = "Hide";
+"Are you sure you want to logout?" = "Are you sure you want to log out?";
+"YES" = "Yes";
+"No Data Found" = "No Data Found";
+"Trip History" = "Trip History";
+"Past Bookings" = "Past Bookings";
+"PICKUP LOCATION" = "Pick up Location";
+"NEW PICKUP LOCATION" = "PICKUP LOCATION";
+"DROP LOCATION" = "Drop off Location";
+"Driver Location" = "Driver Location";
+"Distance" = "Distance";
+"Amount" = "Amount";
+"TRIP REQUEST" = "Trip Request";
+
+"Landmark" = "Landmark";
+"I'VE ARRIVED" = "I've Arrived";
+"START TRIP" = "Start Trip";
+"END TRIP" = "End Trip";
+"SECONDS LEFT TO ACCEPT" = "Seconds Left To Accept";
+"Min" = "Min";
+
+"Pickup passenger" = "Pickup Passenger";
+"Trip in progress" = "Trip in Progress";
+"Waiting For Passenger" = "Waiting For Passenger";
+"UNREGISTERED CARD" = "Unregistered Card";
+"CVV" = "CVV";
+"Card No" = "Card No";
+"3 Digit" = "3 Digits";
+"Done" = "Done";
+"Enter valid credit card number" = "Enter valid credit card number";
+"Enter valid expiry date" = "Enter valid expiry date";
+"Enter valid CVV number" = "Enter valid CVV number";
+
+
+
+"Waiting Time" = "Waiting Time";
+"Are you sure you want to complete this trip?" = "Are you sure you want to complete this trip?";
+"Trip cancel" = "Cancel Trip";
+"Are you sure you want to cancel this trip?" = "Are you sure you want to cancel this trip?";
+"Enter your mobile number" = "Enter your mobile number";
+"Forgot Password" = "Forgot Password?";
+"Speed" = "Speed";
+"Total %@" = "Total %@";
+"TURN ON" = "Please go to Settings and turn on Location Service for this app.";
+"Enable Gps" = "Enable GPS";
+"Request From Passenger" = "Request From Passenger";
+
+"Home" = "Home";
+"Earnings" = "Earnings";
+"Street Pickup" = "Street Pickup";
+"Trip History" = "Trip History";
+
+"Online" = "Online";
+"Offline" = "Offline";
+"Today" = "Today";
+"Referal" = "Referral";
+"Trip" = "Trip";
+"Date" = "Date";
+"View" = "View";
+"Payment request in Pending" = "Payment request in pending";
+"No tracking available!" = "No tracking available!";
+"Trip Withdraw Request" = "Trip Withdrawal Request";
+"Payment Availed" = "Payment Availed";
+"Payment Request in Pending" = "Payment request in pending";
+"Withdraw Requesting Amount" = "Requesting Withdrawal Amount";
+"Referal Withdraw Request" = "Referral Withdrawal Request";
+"Submit" = "Submit";
+"Cancel" = "Cancel";
+"Pending" = "Pending";
+"Reject" = "Rejected";
+"Approved" = "Approved";
+"Last" = "Last";
+"Distance Fare" = "Distance Fare";
+"Vehicle Distance Fare" = "Vehicle Distance Fare";
+"Waiting" = "Waiting";
+"Vehicle Waiting Time" = "Vehicle Waiting Time";
+"Sub Total" = "Sub Total";
+"Promo Code" = "Promo Code";
+"Paid By" = "Paid By";
+"Tax" = "Tax";
+"Completed" = "Completed";
+"Cancelled" = "Cancelled";
+"You have no sufficient amount!" = "You have no sufficient amount!";
+"Withdraw Request View" = "Withdrawal Request View";
+"Status Details" = "Status Details";
+"Filter" = "Filter";
+"From Date:" = "From Date:";
+"To Date:" = "To Date:";
+"Status Type:" = "Status Type:";
+"Please Select Your Date" = "Please Select Your Date";
+"Select" = "Select";
+"Select Status Type" = "Select Status Type";
+"Cancel" = "Cancel";
+"Start Trip" = "Start Trip";
+"Fare Details" = "Fare Details";
+"Fare" = "Fare";
+"Vehicle Min's Fare" = "Vehicle Mins Fare";
+"Min Fare" = "Min Fare";
+"Min(s)" = "Min(s)";
+"Card" = "Card";
+"Fetching Address..." = "Fetching Address...";
+"Mins" = "Mins";
+"Withdraw History" = "Withdrawal History";
+"No sim card installed" = "No SIM card installed";
+
+
+
+//Missed Keys
+
+
+"Select Language" = "Select Language";
+"Taxi Model" = "Taxi Model";
+"Taxi number" = "Taxi number";
+"Taxi from date" = "Taxi From Date";
+"Taxi to date" = "Taxi To Date";
+"No changes has been made" = "No changes made.";
+"ACCEPT" = "Accept";
+"DECLINE" = "Decline";
+"Expiry" = "Expiry";
+"OK" = "OK";
+"Enter CVV number" = "Enter CVV number";
+"Trip Details" = "Trip Details";
+
+
+
+"Log Out" = "Log out";
+"Save" = "Save";
+"Invite Friends" = "Invite Friends";
+"Sign In" = "Sign In Daaaa";
+"When a driver join with your code" = "When a driver joins with your code";
+"When a driver rides the trip with your code" = "When a driver rides with your code";
+"you Earn" = "you earn";
+//Missed
+"Drop Location is not specified" = "Drop off location is not specified";
+"Please wait till the location update gets completed" = "Please wait till the location update gets completed";
+"Wallet History" = "Wallet History";
+"History" = "History";
+"Skip" = "Skip";
+"Withdraw" = "Withdraw";
+"Wallet History" = "Wallet History";
+"Disapproved" = "Disapproved";
+"Pending" = "Pending";
+"Approved" = "Approved";
+"Requested Amount" = "Requested Amount";
+"Requested Date" = "Requested Date";
+"Status" = "Status";
+"Share Via" = "Share Via";
+"Facebook" = "Facebook";
+"Twitter" = "Twitter";
+"Email" = "Email";
+"Whats App" = "WhatsApp";
+"SMS" = "SMS";
+"Your device has no WhatsApp installed." = "Your device has no WhatsApp installed.";
+"Your device doesn't support SMS!" = "Your device doesn't support SMS!";
+//Referral
+"Enter the referral Code" = "Enter the referral Code";
+//Missed
+"Call" = "Call";
+//Validation
+"Please enter your first name" = "Please enter your first name";
+"Please enter your last name" = "Please enter your last name";
+"Please enter your email" = "Please enter your email";
+"Please enter your mobile number" = "Please enter your mobile number";
+"Please enter the password" = "Please enter the password";
+"Please enter the confirm password" = "Please enter the confirm password";
+"Please enter valid email address" = "Please enter valid email address";
+"Please enter valid mobile number" = "Please enter valid mobile number";
+"Password should be minimum 6 characters" = "Password should be minimum 6 characters";
+"Password does not match" = "Password and Confirm password do not match";
+"First name must contain atleast 4 characters";
+//Missed
+"Please enter your old password" = "Please enter your old password";
+"Please enter your new password" = "Please enter your new password";
+//Wallet
+"Do you want to withdraw" = "Do you want to withdraw?";
+"Sorry,Your wallet balance is too low" = "Sorry, Your wallet balance is too low";
+"Trip Completed" = "Trip Completed";
+"First name must contain atleast 4 characters" = "First name must contain atleast 4 characters";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@.%@" = "Sign up with the referral code %@ and earn %@.%@";
+"Excuse my brevity,Sign up with the referral code %@ and earn %@" = "Sign up with the referral code %@ and earn %@";
+"Taximobility - Invite a Friend" = "TaxiMobility - Invite a Friend";
+"KM" = "KM";
+"MILES" = "MILES";
+//Withdraw
+"Withdraw" = "Withdraw";
+"Referal Amount" = "Referal Amount";
+"Trip Amount" = "Trip Amount";
+"Payment request in Pending" = "Payment request in pending";
+"Withdraw Amount" = "Withdrawal Amount";
+"Referal Withdraw Request" = "Referral Withdrawal Request";
+// Trip details
+"Waiting Fare" = "Waiting Fare";
+"Track Now" = "Track Now";
+//Api Download
+"Unable to proceed your request,Please try again" = "Unable to proceed your request. Please try again.";
+"Search Location" = "Search Location";
+"Minimum Fare" = "Minimum Fare";
+"Below" = "Below";
+"Above" = "Above";
+"Estimated Amount" = "Estimated Amount";
+"Trips" = "Trips";
+"This Week" = "This Week";
+"Tap the trip history link to see your ongoing and past trip details" = "Tap the trip history link to see your ongoing and past trip details.";
+"Submit" = "Submit";
+"Enter your subdomain" = "Enter your subdomain";
+"Domain name must contain atleast 3 characters" = "Domain name must contain at least 3 characters";
+
+"Minutes Traveled" = "Minutes Travelled";
+"Minute Fare" = "Minute Fare";
+"Vehicle Minute Fare" = "Vehicle Minute Fare";
+"Trip Id"="Trip ID";
+"Trip ID"="Trip ID";
+"Select Language" = "Select Language";
+"Drop Location(Optional)" = "Drop Location(Optional)";
+"Back To Home" = "Back To Home";
+"Total Distance" = "Total Distance";
+"Trip Fare" = "Trip Fare";
+"Waiting Time Cost" = "Waiting Time Cost";
+"Tax" = "Tax";
+"PAYMENT BY" = "PAYMENT BY";
+"Total" = "Total";
+"Discount" = "Discount";
+"Your device date and time is seems to be incorrect.Please set the correct time in order to continue" = "Your device date and time is seems to be incorrect.Please set the correct time in order to continue";
+
+"Okay" = "Ok";

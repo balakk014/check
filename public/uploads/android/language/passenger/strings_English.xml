@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="waiting_fare_">Waiting Fare</string>
+    <string name="promo">Promo</string>
+    <string name="skip_favourite">Skip Favourite</string>
+    <string name="skip_popular">Skip Popular</string>
+    <string name="capacity">Capacity</string>
+    <string name="droploc_c">Drop Location ?</string>
+    <string name="tap_to_edit">Tap to edit your pickup or drop location</string>
+    <string name="move_map_to">Move map to adjust pickup</string>
+    <string name="confirm_pickup_to">Confirm your pickup at</string>
+    <string name="confirm_pickup">Confirm Pickup</string>
+    <string name="skip_fav_on">Skip Favourite option is enabled</string>
+    <string name="skip_fav_off">Skip Favourite option is disabled</string>
+    <string name="skip_fav">Skip Favourite Places</string>
+    <string name="skip_drop_location">Skip Drop Location</string>
+    <string name="date_change">Your phone date is inaccurate! Adjust your clock and try again.</string>
+
+    <string name="waiting_fare">Waiting fare per hour</string>
+    <string name="fav_driver_on">Favourite driver option is enabled</string>
+    <string name="fav_driver_off">Favourite driver option is disabled</string>
+    <string name="app_nametm">TM</string>
+    <string name="your_card_expiry">Your card expired</string>
+    <string name="approx_fare">Approximate Fare</string>
+    <string name="enter_the_confirmation_phoneno">Please enter your valid mobile number</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="max_size">Maximum Size</string>
+    <string name="track_now">Track Now</string>
+    <string name="dist_fare">Distance Fare</string>
+    <string name="fare2">123</string>
+    <string name="enter_valid_comment">Enter valid comment</string>
+    <string name="hour">Hour</string>
+    <string name="promotion">Promotion</string>
+    <string name="calldriver">Are you sure you want to call the driver?</string>
+    <string name="min_trav">Minutes Travelled</string>
+
+
+    <string name="excuse_me_brevity"> Sign up with the referral code </string>
+    <string name="and_earn"> and earn </string>
+    <string name="download_from">Download the app from:</string>
+
+
+    <string name="promo_code_empty"> You did\'t apply any promo code
+    </string>
+    <string name="app_id" translatable="false">1426426867386452
+    </string>
+    <string name="facebook_app_name" translatable="false">TaxiMobility</string>
+    <string name="app_buildversion">Version</string>
+    <!-- Splash act -->
+    <string name="english">English</string>
+    <string name="russian">русский</string>
+    <string name="arabic">العربية</string>
+    <string name="turkey">Türk</string>
+    <string name="german">Deutsch</string>
+    <string name="france">France</string>
+    <string name="location_disable">Location Services Disabled</string>
+    <string name="location_enable">Please enable location services.</string>
+    <string name="enable">Enable</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="pressBack">Please click BACK again to exit</string>
+    <string name="server_con_error" translatable="false">Server connetion error</string>
+
+    <!-- login act -->
+
+    <string name="mobileno">Mobile number</string>
+    <string name="password">Password</string>
+    <string name="done">Done</string>
+    <string name="signin">Sign In</string>
+    <string name="signins">Sign In</string>
+    <string name="enter_the_mobile_number">Please enter your mobile number</string>
+    <string name="enter_the_password">Please enter your password</string>
+    <string name="password_min_character">Password should be minimum 6 characters</string>
+    <string name="password_max_character">Password should be less than 32 characters</string>
+    <string name="profilecmp">Profile not completed</string>
+    <string name="userphno">User Mobile Number</string>
+    <string name="forgotpswd">Forgot Password?</string>
+    <string name="confirmlogout">Are you sure you want to logout?</string>
+
+
+    <!-- Registration Act -->
+    <string name="create_account">Create an Account</string>
+    <string name="plzselect">Please select</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="choose_an_image">Choose an Image</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="please_select_your_salutation">Please select your salutation</string>
+    <string name="enter_the_first_name">Please enter your first name</string>
+    <string name="enter_the_last_name">Please enter your last name</string>
+    <string name="enter_the_card_number">Please enter your card number</string>
+    <string name="enter_the_expiry_date">Please enter expiry date</string>
+    <string name="enter_the_cvv">Please enter your CVV</string>
+    <string name="enter_the_valid_CVV">Please enter valid CVV</string>
+    <string name="enter_the_email">Please enter your email</string>
+    <string name="enter_the_valid_email">Please enter valid email</string>
+    <string name="enter_the_confirmation_password">Please enter confirm password</string>
+    <string name="confirmation_password_mismatch_with_password">Password and Confirm password do not match
+    </string>
+    <string name="old_password_mismatch_with_password">Old password does not match</string>
+    <string name="please_select_image_from_valid_path">Please select image from valid path(Galler folder)</string>
+    <string name="please_complete_registration">Yet to complete the registration process...</string>
+    <string name="salutation">Salutation</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="email">Email</string>
+    <string name="confimpswd">Confirm Password</string>
+    <string name="acctxt">We only use your email and mobile number to send your ride notifications
+        and receipts.
+    </string>
+    <string name="cardnumber">Card XXXX XXXX XXXX XXXX</string>
+    <string name="expiry">Expiry MM/YY</string>
+    <string name="cvv">CVV</string>
+    <string name="securecard">CARD INFO STORED SECURELY. IT WILL BE USED ONLY FOR PAYMENTS.
+    </string>
+    <string name="readterms">
+        <u>I have read and understood the Terms and Conditions</u>
+    </string>
+    <string name="payby_cash">Pay By Cash?</string>
+    <string name="skip">Skip for now</string>
+
+
+    <!-- Taxi Search -->
+    <string name="go_to_pin">Go To Pin</string>
+    <string name="device_not_support_map">Device does not support map version!</string>
+    <string name="app_name">TaxiMobility Passenger</string>
+
+
+    <string name="taxiname">TaxiMobility</string>
+    <string name="select_the_pickup_location">Please select the pick up location</string>
+    <string name="select_the_drop_location">Please select the drop off location</string>
+    <string name="enter_the_pickup_location">Please enter your pick up location</string>
+    <string name="book_taxi">Book Taxi</string>
+    <string name="bookedtaxi">You have booked the taxi.</string>
+    <string name="avaiable_car">Cars Available</string>
+    <string name="min">min</string>
+    <string name="requesttaxi">Request Taxi</string>
+    <string name="nodrivers">0 Cars Available</string>
+    <string name="droplocnew">Drop off Location(Optional)</string>
+    <string name="dropoffcabs">DROP OFF</string>
+    <string name="book_now">Book Now</string>
+    <string name="book_later">Book Later</string>
+    <string name="confirm_booking">Confirm later booking?</string>
+    <string name="fetching_address">Fetching address...</string>
+    <string name="select_payment">Please select the payment type</string>
+
+
+    <!-- Search Location Acts -->
+    <string name="location">Location</string>
+    <string name="choose_place">Select type</string>
+    <string name="delete_fdrivers">Do you want to delete the driver from Favourites?</string>
+
+    <!-- Ongoing Act -->
+    <string name="back">Back</string>
+    <string name="Trip_in_progress">Trip in Progress</string>
+    <string name="intransit">Trip in Progress</string>
+    <string name="Confirmation">Confirmation</string>
+    <string name="estimated_arrival">Estimate Time of Arrival:</string>
+    <string name="est">EST : </string>
+    <string name="mins">Min(s)</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel_in_going_trip">Are you sure you want to cancel the trip?</string>
+    <string name="cancel_registration">Are you sure you want to cancel the registration?</string>
+    <!-- If you cancel the trip, cancellation fee will be detected from your card ! -->
+    <string name="ok">OK</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="driver_location">Driver Location</string>
+    <string name="droplocation">Drop off Location</string>
+    <string name="picklocation">Pickup Location</string>
+    <string name="call">Call</string>
+    <string name="canceled_from">Debit from :</string>
+    <string name="canceled_amount">Cancelled amount :</string>
+    <!-- PayCard Act -->
+
+    <string name="defaultcard1">Default Card</string>
+    <string name="zerofee">PAY VIA CARD AT FREE OF COST</string>
+    <string name="confirmdelete">Are you sure you want to delete card?</string>
+    <string name="delete_card">Delete card</string>
+
+    <string name="edit">Edit</string>
+    <string name="select_card_type">Please select Card Type</string>
+    <string name="enter_the_valid_card_number">Please enter valid card number</string>
+
+    <!-- Profile Act -->
+    <string name="mobile">Mobile</string>
+    <string name="phnnum">Phone Number</string>
+    <string name="enter_the_old_password">Please enter your old password</string>
+    <string name="enter_the_new_password">Please enter your new password</string>
+    <string name="no_changes">No changes made</string>
+
+    <!-- Receipt Act -->
+    <string name="sendmail">Send mail</string>
+    <string name="there_is_no_email_client_installed">There is no email client installed</string>
+    <string name="successfully_completed">Successfully completed my trip from</string>
+    <string name="payment_complete">Trip Completed</string>
+    <string name="thanksforflag">Thank you for using TaxiMobility. Make your next trip even more
+        enjoyable.
+    </string>
+    <string name="ratedriver">Rate Your Driver</string>
+    <string name="shareride">Share it</string>
+
+    <!-- Trip History Act -->
+    <string name="today">Today</string>
+    <string name="month">Month</string>
+    <string name="summary">Summary</string>
+    <string name="menu_trip_history">Trip History</string>
+    <string name="edit_favourites">Edit Favourites</string>
+    <string name="add_favourites">Add Favourite</string>
+    <string name="date_greater_current_date">Date must be greater than the Current Date</string>
+    <string name="date_greater_current_month">Date must be greater than the Current Month</string>
+    <string name="register">Sign Up</string>
+    <string name="registers">Register</string>
+    <string name="submit">Submit</string>
+    <string name="agree_the_terms_and_condition">Please agree with the Terms and Condition</string>
+
+    <!-- Fare Display -->
+    <string name="details">Details</string>
+    <string name="fare_txt">Fare</string>
+    <string name="base_fare">Base Fare</string>
+    <string name="min_fare">Minute Fare</string>
+    <string name="below">Below</string>
+    <string name="above">Above</string>
+    <string name="nit_fare">Night Charges</string>
+    <string name="nit_fare_to">to</string>
+
+
+    <!-- menu -->
+    <string name="menu">Menu</string>
+    <string name="menu_gettaxi">Track my taxi</string>
+    <string name="menu_mybooking">My Bookings</string>
+    <string name="menu_payment">Payment Options</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_favourites">Favourites</string>
+    <string name="menu_fare">Fare</string>
+    <string name="menu_about">About</string>
+    <string name="menu_about_us">About Us</string>
+    <string name="book_a_taxi">Book a Taxi</string>
+    <string name="menu_logout">Log Out</string>
+
+    <!-- Booking list -->
+    <string name="pickup">Pickup</string>
+    <string name="drop">Drop off</string>
+    <string name="time">Time</string>
+    <string name="book_time">Booking Date &amp; Time</string>
+    <string name="no_pending_trip">No data available!</string>
+
+    <!-- trip details -->
+    <string name="place">Place</string>
+    <string name="amount">Amount</string>
+    <string name="payment">Payment</string>
+    <string name="jobref">Trip ID</string>
+    <string name="t_passname">Driver name</string>
+    <string name="t_pickloc">Pick up Location</string>
+    <string name="t_book">Booking Time</string>
+    <string name="t_picktime">Pick up Time</string>
+    <string name="t_droploc">Drop off Location</string>
+    <string name="t_droptime">Drop off Time</string>
+    <string name="t_distance">Distance</string>
+    <string name="t_tripduration">Trip Duration</string>
+
+    <!-- Aboutact -->
+    <string name="rateapp">Rate us in Play Store</string>
+    <string name="likefb">Like us on Facebook</string>
+    <string name="followtw">Follow us on Twitter</string>
+    <string name="legal">Legal</string>
+    <string name="termcond">Terms &amp; Condition</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="link">Links</string>
+    <string name="menu_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="requestingtaxi">Requesting Taxi</string>
+    <string name="landmark">Landmark</string>
+    <string name="chpwd">Change Password</string>
+    <string name="conpwd">Confirm Password</string>
+    <string name="oldpwd">Old Password</string>
+    <string name="newpwd">New Password</string>
+    <string name="addcard">Add New Card</string>
+    <string name="home">Home</string>
+    <string name="office">Office</string>
+    <string name="airport">Airport</string>
+    <string name="others">Others</string>
+    <string name="reason_title">Reason for Cancellation</string>
+    <!--<string name="reason1">Change the travel plan</string>
+    <string name="reason2">Booking place in error</string>
+    <string name="reason3">Cab delay/issues</string>-->
+
+    <string name="reason1">1.Cab delay</string>
+    <string name="reason2">2.Driver did not respond</string>
+    <string name="reason3">3.Wrong address shown</string>
+    <string name="reason4">4.Changed the travel plan</string>
+    <string name="reason5">5.Booking placed in error</string>
+    <string name="reason6">6.Others</string>
+
+    <string name="menu_account">Account</string>
+    <string name="you">You</string>
+    <string name="card">Card</string>
+    <string name="message">Message</string>
+    <string name="no_taxi">Taxi is not available for the selected model at the moment.</string>
+    <string name="book_again">Book Again</string>
+    <string name="tripdetail">Trip Details</string>
+    <string name="canceling_taxi">Cancelling Request</string>
+    <string name="add">Add</string>
+    <string name="fav_pick_location">Favourite Pick up Location</string>
+    <string name="fav_drop_location">Favourite Drop off Location</string>
+    <string name="enter_other_details">Please select the location details</string>
+    <string name="personalcard">Personal Card</string>
+    <string name="businesscard">Business Card</string>
+    <string name="no_info">No information to update</string>
+    <string-array name="sal_type">
+        <item>Mr</item>
+        <item>Mrs</item>
+        <item>Miss</item>
+    </string-array>
+    <string-array name="percent_type">
+        <item>0%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>0%</item>
+    </string-array>
+    <string-array name="percent_type_u">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string name="select_date_time">Select Date Time</string>
+    <string name="eta">ETA</string>
+    <string name="minutes">\n Minutes</string>
+    <string name="minimum_fare">Minimum Fare</string>
+    <string name="minimum_size">Minimum Size</string>
+    <string name="ppl">PPL</string>
+    <string name="mph">MPH\n</string>
+    <string name="fare_min">/MIN</string>
+    <string name="mile">/MILE</string>
+    <string name="hour_must_greater_than">Please make sure that the ride is scheduled after atleast an hour from now.
+    </string>
+    <string name="on_going">On Going</string>
+    <string name="up_coming">Upcoming</string>
+    <string name="past_booking">Past Bookings</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions are
+        not granted.
+    </string>
+    <string name="success">Success</string>
+    <string name="successfully_posted_post">Successfully posted \'%1$s\'.\nPost ID: %2$s</string>
+    <string name="error">Error</string>
+    <!-- Below strings maximum unused -->
+
+    <string name="about_sub_title">Ride from Anywhere \n TaxiMobility</string>
+    <string name="site_name">Taximobility.com</string>
+    <string name="check_internet_connection">Check your Internet connection</string>
+
+
+    <!-- menu -->
+
+    <string name="no_going_trip">Currently no tracking available!</string>
+    <!-- activity main -->
+    <string name="connection_error">Connection Error</string>
+    <string name="try_again">Try Again</string>
+
+    <!-- signup -->
+    <string name="OTP">OTP</string>
+    <string name="resend">DIDN\'T RECEIVE? RESEND</string>
+    <string name="defaultcard">Set as Default</string>
+    <string name="referal">Referral code</string>
+    <string name="keyincode">KEY IN CODE IF YOU HAVE BEEN REFERRED</string>
+
+    <!-- edit favourite -->
+
+    <string name="comment">Comments</string>
+    <!-- flgger lay -->
+
+    <string name="picklocationcabs">PICKUP</string>
+    <string name="now">Now</string>
+    <string name="after">Future</string>
+
+    <!-- about us lay -->
+    <string name="headtitle_below">Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry
+    </string>
+    <string name="fblink">facebook.com/Taximobility</string>
+    <string name="twlink">twitter.com/Taximobility</string>
+
+    <!-- forgot_popup -->
+    <string name="forgotpassw">Forgot Password?</string>
+    <!-- intransit -->
+    <string name="droploc">Drop off Location</string>
+    <string name="picktime">Pickup Time:</string>
+    <!-- booking details -->
+
+
+    <!-- <color name="opaque_back">#474541</color> -->
+    <string-array name="cardtype">
+        <item>Card Type Personal</item>
+        <item>Card Type Business</item>
+    </string-array>
+
+    <!-- upcoming lay -->
+    <string name="approxifare">Approximate fare</string>
+    <string name="approxifareex">:$222222.58</string>
+    <!-- forgotpassword -->
+
+    <string name="action_settings">Settings</string>
+    <string name="pass_app_link">https://play.google.com/store/apps/details?id=com.Taximobility
+    </string>
+    <string name="driver_app_link">
+        https://play.google.com/store/apps/details?id=com.Taximobility.driver
+    </string>
+    <!-- version upadte -->
+    <string name="version_up_message">There is a new version of TaxiMobility available. This version
+        is no longer supported.
+    </string>
+    <string name="version_up_title">Update</string>
+    <string name="version_up_now">Update now</string>
+    <string name="version_up_later">Later</string>
+    <!-- invite friend -->
+    <string name="invite_sms">SMS</string>
+    <string name="invite_email">Email</string>
+    <string name="invite_fb">Facebook</string>
+    <string name="invite_whatsapp">WhatsApp</string>
+    <string name="invite_twitter">Twitter</string>
+    <string name="invite_sharevia">Share Via</string>
+    <string name="invite_frdrides">When a friend rides with your code</string>
+    <string name="invite_youearn">You Earn</string>
+    <!-- card registration -->
+    <string name="reg_creditcard">Pay by Credit Card</string>
+    <string name="reg_cash">Pay by Cash</string>
+    <string name="reg_promocode">Pay by Referral Code</string>
+    <string name="reg_cardnumber">Card Number</string>
+    <string name="reg_month">MM</string>
+    <string name="reg_year">YY</string>
+    <string name="reg_cc">CVV</string>
+    <string name="reg_cardname">Name on the card</string>
+    <string name="reg_entercardname">Please enter your card name</string>
+    <string name="reg_savecard">Save Card Details</string>
+    <string name="reg_terms">
+        <u>Terms and Conditions</u>
+    </string>
+    <string name="reg_expmonth">Please select expiry month</string>
+    <string name="reg_expyear">Please select expiry year</string>
+    <string name="invite_friend">Invite Friends</string>
+
+    <string name="reg_enter_referral">Please enter your referral code</string>
+    <string name="reg_referal">Enter referral code here to earn free ride coupons. Note: Referral
+        scheme is only applicable for users who have never booked on TaxiMobility before.
+    </string>
+    <!-- wallet -->
+    <string name="wallet">Wallet</string>
+    <string name="walletmsg">Cashless, hassle-free rides with TaxiMobility wallet</string>
+
+
+    <!-- verify mobile -->
+    <string name="verify_mobile">Verify Mobile</string>
+    <string name="verify_enter_code">A four digit authentication code has been sent to</string>
+    <string name="verify_valid_code">Aw,Snap! Can we try again?</string>
+    <string name="verify_code_sent">that is sent to</string>
+    <string name="verify_resend">Resend OTP</string>
+    <!-- add money -->
+    <string name="addmoney">Add Money</string>
+    <string name="addmoney_paypal">Paypal</string>
+    <string name="addmoney_braintree">Braintree</string>
+    <string name="recharge_money">Recharge Money</string>
+    <string name="amount_between">Enter the amount between</string>
+    <string name="enter_amount">Please enter valid amount</string>
+    <string name="have_promocode">HAVE A PROMOCODE?</string>
+
+    <!-- add newly -->
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+
+    <string name="payment_cash">Cash</string>
+    <string name="payment_card">Credit Card</string>
+
+    <string name="wallet_amt">Wallet Amount</string>
+    <string name="paid_amt">Paid Amount</string>
+    <string name="payment_type">Payment type</string>
+
+
+    <string name="nagaaa">fssds </string>
+    <string name="fare_estimate">Fare Estimate</string>
+    <string name="getfare_estimate">Get Fare Estimate</string>
+    <string name="cash_card">Cash/Card</string>
+    <string name="promo_code">Promo Code</string>
+    <string name="request_taxi">Request Taxi</string>
+    <string name="ride_now">Ride Now</string>
+    <string name="ride_later">Ride Later</string>
+    <string name="pick_up_aprox_text">Pickup time is approximately </string>
+    <string name="minutes_"> minutes </string>
+    <string name="reg_enterprcode">Please enter your Promo code</string>
+    <string name="apply">Apply</string>
+    <string name="or">Or</string>
+    <string name="taxi__empty">Or</string>
+    <string name="Language">Language</string>
+    <string name="split_with_friends">Split Fare with Friends</string>
+    <string name="total_aprox_fare">Total Approximate Fare: </string>
+    <string name="ur_approx_fare">Approximate Fare:</string>
+    <string name="Mins">Mins</string>
+    <string name="card_reg">Card Register</string>
+    <string name="verify_email">Verify Code</string>
+    <string name="enter_dest">Enter drop off Location</string>
+    <string name="enter_pickup">Enter pickup Location</string>
+    <string name="enter_promo_code">Enter Promo Code</string>
+    <string name="may_vary">This is an estimate. Actual fare may vary slightly based on traffic or discounts</string>
+    <string name="type_your_comment">Type your comments</string>
+    <string name="contact_number">Contact number</string>
+    <string name="accept">Accept</string>
+    <string name="z_split_fare_with">Split Fare with</string>
+    <string name="z_split_charged">Your ride will be charged</string>
+    <string name="fblogin">Sign in with Facebook</string>
+    <string name="fbsignup">Sign Up with Facebook</string>
+    <string name="cancel_fare">Cancel Fare</string>
+    <string name="even_charge">Evening Charges</string>
+    <string name="estimate_fare">Estimated Fare</string>
+
+    <string name="e_receipt">E-Receipt</string>
+    <string name="mybookings">My Bookings</string>
+    <string name="add_card">Add Card</string>
+    <string name="edit_card">Edit Card</string>
+    <string name="nocard">You don\'t have credit card details</string>
+    <string name="ontxt">ON</string>
+    <string name="offtxt">OFF</string>
+    <string name="split_status">Split Fare Status</string>
+    <string name="split_">Split Fare </string>
+    <string name="favoritedriver_">Favourite Drivers</string>
+    <string name="inprogress">Pending</string>
+    <string name="accepted">Accepted</string>
+    <string name="rejected">Rejected</string>
+    <string name="default_card_cant">Cannot delete default card</string>
+    <string name="Select_friend">Please select your friend</string>
+    <string name="Select_percent">Please select percentage for </string>
+    <string name="percentTotal">Total percentage should be 100</string>
+    <string name="split_with">Split fare with</string>
+    <string-array name="monthary">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <!-- year list -->
+    <string-array name="yearary">
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+        <item>2031</item>
+    </string-array>
+    <!-- month list -->
+    <string-array name="monthlistary">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <!--<string-array name="CountryCodes">-->
+    <!--<item>	+93 	Afghanistan	</item>-->
+    <!--<item>	+355 	Albania	</item>-->
+    <!--<item>	+213 	Algeria	</item>-->
+    <!--<item>	+1(684)	American Samoa	</item>-->
+    <!--<item>	+376 	Andorra	</item>-->
+    <!--<item>	+244 	Angola	</item>-->
+    <!--<item>	+1(264) Anguilla	</item>-->
+    <!--<item>	+672 	Antarctica	</item>-->
+    <!--<item>	+1(268) Antigua and Barbuda	</item>-->
+    <!--<item>	+54 	Argentina	</item>-->
+    <!--<item>	+374 	Armenia	</item>-->
+    <!--<item>	+297 	Aruba	</item>-->
+    <!--<item>	+61 	Australia	</item>-->
+    <!--<item>	+43 	Austria	</item>-->
+    <!--<item>	+994 	Azerbaijan	</item>-->
+    <!--<item>	+1(242)	Bahamas	</item>-->
+    <!--<item>	+973 	Bahrain	</item>-->
+    <!--<item>	+880 	Bangladesh	</item>-->
+    <!--<item>	+1(246) Barbados	</item>-->
+    <!--<item>	+375 	Belarus	</item>-->
+    <!--<item>	+32 	Belgium	</item>-->
+    <!--<item>	+501 	Belize	</item>-->
+    <!--<item>	+229 	Benin	</item>-->
+    <!--<item>	+1(441) Bermuda	</item>-->
+    <!--<item>	+975 	Bhutan	</item>-->
+    <!--<item>	+591 	Bolivia	</item>-->
+    <!--<item>	+387 	Bosnia and Herzegovina	</item>-->
+    <!--<item>	+267 	Botswana	</item>-->
+    <!--<item>	+55 	Brazil	</item>-->
+    <!--<item>	+1(284) British Virgin Islands	</item>-->
+    <!--<item>	+673 	Brunei	</item>-->
+    <!--<item>	+359 	Bulgaria	</item>-->
+    <!--<item>	+226 	Burkina Faso	</item>-->
+    <!--<item>	+95 	Burma (Myanmar)	</item>-->
+    <!--<item>	+257 	Burundi	</item>-->
+    <!--<item>	+855 	Cambodia	</item>-->
+    <!--<item>	+237 	Cameroon	</item>-->
+    <!--<item>	+1(403)	Canada	</item>-->
+    <!--<item>	+238 	Cape Verde	</item>-->
+    <!--<item>	+1(345) Cayman Islands	</item>-->
+    <!--<item>	+236 	Central African Republic	</item>-->
+    <!--<item>	+235 	Chad	</item>-->
+    <!--<item>	+56 	Chile	</item>-->
+    <!--<item>	+86 	China	</item>-->
+    <!--<item>	+61 	Christmas Island	</item>-->
+    <!--<item>	+61 	Cocos (Keeling) Islands	</item>-->
+    <!--<item>	+57 	Colombia	</item>-->
+    <!--<item>	+269 	Comoros	</item>-->
+    <!--<item>	+682 	Cook Islands	</item>-->
+    <!--<item>	+506 	Costa Rica	</item>-->
+    <!--<item>	+385 	Croatia	</item>-->
+    <!--<item>	+53 	Cuba	</item>-->
+    <!--<item>	+357 	Cyprus	</item>-->
+    <!--<item>	+420 	Czech Republic	</item>-->
+    <!--<item>	+243 	Democratic Republic of the Congo	</item>-->
+    <!--<item>	+45 	Denmark	</item>-->
+    <!--<item>	+253 	Djibouti	</item>-->
+    <!--<item>	+1(767)	Dominica	</item>-->
+    <!--<item>	+1(809) Dominican Republic	</item>-->
+    <!--<item>	+593 	Ecuador	</item>-->
+    <!--<item>	+20 	Egypt	</item>-->
+    <!--<item>	+503 	El Salvador	</item>-->
+    <!--<item>	+240 	Equatorial Guinea	</item>-->
+    <!--<item>	+291 	Eritrea	</item>-->
+    <!--<item>	+372 	Estonia	</item>-->
+    <!--<item>	+251 	Ethiopia	</item>-->
+    <!--<item>	+500 	Falkland Islands	</item>-->
+    <!--<item>	+298 	Faroe Islands	</item>-->
+    <!--<item>	+679 	Fiji	</item>-->
+    <!--<item>	+358 	Finland	</item>-->
+    <!--<item>	+33 	France	</item>-->
+    <!--<item>	+689 	French Polynesia	</item>-->
+    <!--<item>	+241 	Gabon	</item>-->
+    <!--<item>	+220 	Gambia	</item>-->
+    <!--<item>	+970 	Gaza Strip	</item>-->
+    <!--<item>	+995 	Georgia	</item>-->
+    <!--<item>	+49 	Germany	</item>-->
+    <!--<item>	+233 	Ghana	</item>-->
+    <!--<item>	+350 	Gibraltar	</item>-->
+    <!--<item>	+30 	Greece	</item>-->
+    <!--<item>	+299 	Greenland	</item>-->
+    <!--<item>	+1(473) Grenada	</item>-->
+    <!--<item>	+1(671) Guam	</item>-->
+    <!--<item>	+502 	Guatemala	</item>-->
+    <!--<item>	+224 	Guinea	</item>-->
+    <!--<item>	+245 	Guinea-Bissau	</item>-->
+    <!--<item>	+592 	Guyana	</item>-->
+    <!--<item>	+509 	Haiti	</item>-->
+    <!--<item>	+39 	Holy See (Vatican City)	</item>-->
+    <!--<item>	+504 	Honduras	</item>-->
+    <!--<item>	+852 	Hong Kong	</item>-->
+    <!--<item>	+36 	Hungary	</item>-->
+    <!--<item>	+354 	Iceland	</item>-->
+    <!--<item>	+91 	India	</item>-->
+    <!--<item>	+62 	Indonesia	</item>-->
+    <!--<item>	+98 	Iran	</item>-->
+    <!--<item>	+964 	Iraq	</item>-->
+    <!--<item>	+353 	Ireland	</item>-->
+    <!--<item>	+44 	Isle of Man	</item>-->
+    <!--<item>	+972 	Israel	</item>-->
+    <!--<item>	+39 	Italy	</item>-->
+    <!--<item>	+225 	Ivory Coast	</item>-->
+    <!--<item>	+1(876) Jamaica	</item>-->
+    <!--<item>	+81 	Japan	</item>-->
+    <!--<item>	+962 	Jordan	</item>-->
+    <!--<item>	+7(317) Kazakhstan	</item>-->
+    <!--<item>	+254 	Kenya	</item>-->
+    <!--<item>	+686 	Kiribati	</item>-->
+    <!--<item>	+381 	Kosovo	</item>-->
+    <!--<item>	+965 	Kuwait	</item>-->
+    <!--<item>	+996 	Kyrgyzstan	</item>-->
+    <!--<item>	+856 	Laos	</item>-->
+    <!--<item>	+371 	Latvia	</item>-->
+    <!--<item>	+961 	Lebanon	</item>-->
+    <!--<item>	+266 	Lesotho	</item>-->
+    <!--<item>	+231 	Liberia	</item>-->
+    <!--<item>	+218 	Libya	</item>-->
+    <!--<item>	+423 	Liechtenstein	</item>-->
+    <!--<item>	+370 	Lithuania	</item>-->
+    <!--<item>	+352 	Luxembourg	</item>-->
+    <!--<item>	+853 	Macau	</item>-->
+    <!--<item>	+389 	Macedonia	</item>-->
+    <!--<item>	+261 	Madagascar	</item>-->
+    <!--<item>	+265 	Malawi	</item>-->
+    <!--<item>	+60 	Malaysia	</item>-->
+    <!--<item>	+960 	Maldives	</item>-->
+    <!--<item>	+223 	Mali	</item>-->
+    <!--<item>	+356 	Malta	</item>-->
+    <!--<item>	+692 	Marshall Islands	</item>-->
+    <!--<item>	+222 	Mauritania	</item>-->
+    <!--<item>	+230 	Mauritius	</item>-->
+    <!--<item>	+262 	Mayotte	</item>-->
+    <!--<item>	+52 	Mexico	</item>-->
+    <!--<item>	+691 	Micronesia	</item>-->
+    <!--<item>	+373 	Moldova	</item>-->
+    <!--<item>	+377 	Monaco	</item>-->
+    <!--<item>	+976 	Mongolia	</item>-->
+    <!--<item>	+382 	Montenegro	</item>-->
+    <!--<item>	+1(664) Montserrat	</item>-->
+    <!--<item>	+212 	Morocco	</item>-->
+    <!--<item>	+258 	Mozambique	</item>-->
+    <!--<item>	+264 	Namibia	</item>-->
+    <!--<item>	+674 	Nauru	</item>-->
+    <!--<item>	+977 	Nepal	</item>-->
+    <!--<item>	+31 	Netherlands	</item>-->
+    <!--<item>	+599 	Netherlands Antilles	</item>-->
+    <!--<item>	+687 	New Caledonia	</item>-->
+    <!--<item>	+64 	New Zealand	</item>-->
+    <!--<item>	+505 	Nicaragua	</item>-->
+    <!--<item>	+227 	Niger	</item>-->
+    <!--<item>	+234 	Nigeria	</item>-->
+    <!--<item>	+683 	Niue	</item>-->
+    <!--<item>	+672 	Norfolk Island	</item>-->
+    <!--<item>	+850 	North Korea	</item>-->
+    <!--<item>	+1(670)	Northern Mariana Islands	</item>-->
+    <!--<item>	+47 	Norway	</item>-->
+    <!--<item>	+968 	Oman	</item>-->
+    <!--<item>	+92 	Pakistan	</item>-->
+    <!--<item>	+680 	Palau	</item>-->
+    <!--<item>	+507 	Panama	</item>-->
+    <!--<item>	+675 	Papua New Guinea	</item>-->
+    <!--<item>	+595 	Paraguay	</item>-->
+    <!--<item>	+51 	Peru	</item>-->
+    <!--<item>	+63 	Philippines	</item>-->
+    <!--<item>	+870 	Pitcairn Islands	</item>-->
+    <!--<item>	+48 	Poland	</item>-->
+    <!--<item>	+351 	Portugal	</item>-->
+    <!--<item>	+974 	Qatar	</item>-->
+    <!--<item>	+242 	Republic of the Congo	</item>-->
+    <!--<item>	+40 	Romania	</item>-->
+    <!--<item>	+7 	   	Russia	</item>-->
+    <!--<item>	+250 	Rwanda	</item>-->
+    <!--<item>	+590 	Saint Barthelemy	</item>-->
+    <!--<item>	+290 	Saint Helena	</item>-->
+    <!--<item>	+1(869) Saint Kitts and Nevis	</item>-->
+    <!--<item>	+1(758) Saint Lucia	</item>-->
+    <!--<item>	+1(599) Saint Martin	</item>-->
+    <!--<item>	+508 	Saint Pierre and Miquelon	</item>-->
+    <!--<item>	+1(784) Saint Vincent and the Grenadines	</item>-->
+    <!--<item>	+685 	Samoa	</item>-->
+    <!--<item>	+378 	San Marino	</item>-->
+    <!--<item>	+239 	Sao Tome and Principe	</item>-->
+    <!--<item>	+966 	Saudi Arabia	</item>-->
+    <!--<item>	+221 	Senegal	</item>-->
+    <!--<item>	+381 	Serbia	</item>-->
+    <!--<item>	+248 	Seychelles	</item>-->
+    <!--<item>	+232 	Sierra Leone	</item>-->
+    <!--<item>	+65 	Singapore	</item>-->
+    <!--<item>	+421 	Slovakia	</item>-->
+    <!--<item>	+386 	Slovenia	</item>-->
+    <!--<item>	+677 	Solomon Islands	</item>-->
+    <!--<item>	+252 	Somalia	</item>-->
+    <!--<item>	+27 	South Africa	</item>-->
+    <!--<item>	+82 	South Korea	</item>-->
+    <!--<item>	+34 	Spain	</item>-->
+    <!--<item>	+94 	Sri Lanka	</item>-->
+    <!--<item>	+249 	Sudan	</item>-->
+    <!--<item>	+597 	Suriname	</item>-->
+    <!--<item>	+268 	Swaziland	</item>-->
+    <!--<item>	+46 	Sweden	</item>-->
+    <!--<item>	+41 	Switzerland	</item>-->
+    <!--<item>	+963 	Syria	</item>-->
+    <!--<item>	+886 	Taiwan	</item>-->
+    <!--<item>	+992 	Tajikistan	</item>-->
+    <!--<item>	+255 	Tanzania	</item>-->
+    <!--<item>	+66 	Thailand	</item>-->
+    <!--<item>	+670 	Timor-Leste	</item>-->
+    <!--<item>	+228 	Togo		</item>-->
+    <!--<item>	+690 	Tokelau		</item>-->
+    <!--<item>	+676 	Tonga		</item>-->
+    <!--<item>	+1(868) Trinidad and Tobago	</item>-->
+    <!--<item>	+216 	Tunisia		</item>-->
+    <!--<item>	+90 	Turkey		</item>-->
+    <!--<item>	+993 	Turkmenistan	</item>-->
+    <!--<item>	+1(649) Turks and Caicos Islands	</item>-->
+    <!--<item>	+688 	Tuvalu		</item>-->
+    <!--<item>	+256 	Uganda		</item>-->
+    <!--<item>	+380 	Ukraine		</item>-->
+    <!--<item>	+971 	United Arab Emirates	</item>-->
+    <!--<item>	+44 	United Kingdom	</item>-->
+    <!--<item>	+1(325) United States	</item>-->
+    <!--<item>	+598 	Uruguay		</item>-->
+    <!--<item>	+1(340) US Virgin Islands	</item>-->
+    <!--<item>	+998 	Uzbekistan	</item>-->
+    <!--<item>	+678 	Vanuatu		</item>-->
+    <!--<item>	+58 	Venezuela	</item>-->
+    <!--<item>	+84 	Vietnam		</item>-->
+    <!--<item>	+681 	Wallis and Futuna	</item>-->
+    <!--<item>	+970 	West Bank	</item>-->
+    <!--<item>	+967 	Yemen		</item>-->
+    <!--<item>	+260 	Zambia		</item>-->
+    <!--<item>	+263	Zimbabwe	</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="areacode">-->
+    <!--<item>93,AF</item>-->
+    <!--<item>355,AL</item>-->
+    <!--<item>213,DZ</item>-->
+    <!--<item>376,AD</item>-->
+    <!--<item>244,AO</item>-->
+    <!--<item>672,AQ</item>-->
+    <!--<item>54,AR</item>-->
+    <!--<item>374,AM</item>-->
+    <!--<item>297,AW</item>-->
+    <!--<item>61,AU</item>-->
+    <!--<item>43,AT</item>-->
+    <!--<item>994,AZ</item>-->
+    <!--<item>973,BH</item>-->
+    <!--<item>880,BD</item>-->
+    <!--<item>375,BY</item>-->
+    <!--<item>32,BE</item>-->
+    <!--<item>501,BZ</item>-->
+    <!--<item>229,BJ</item>-->
+    <!--<item>975,BT</item>-->
+    <!--<item>591,BO</item>-->
+    <!--<item>387,BA</item>-->
+    <!--<item>267,BW</item>-->
+    <!--<item>55,BR</item>-->
+    <!--<item>673,BN</item>-->
+    <!--<item>359,BG</item>-->
+    <!--<item>226,BF</item>-->
+    <!--<item>95,MM</item>-->
+    <!--<item>257,BI</item>-->
+    <!--<item>855,KH</item>-->
+    <!--<item>237,CM</item>-->
+    <!--<item>1,CA</item>-->
+    <!--<item>238,CV</item>-->
+    <!--<item>236,CF</item>-->
+    <!--<item>235,TD</item>-->
+    <!--<item>56,CL</item>-->
+    <!--<item>86,CN</item>-->
+    <!--<item>61,CX</item>-->
+    <!--<item>61,CC</item>-->
+    <!--<item>57,CO</item>-->
+    <!--<item>269,KM</item>-->
+    <!--<item>242,CG</item>-->
+    <!--<item>243,CD</item>-->
+    <!--<item>682,CK</item>-->
+    <!--<item>506,CR</item>-->
+    <!--<item>385,HR</item>-->
+    <!--<item>53,CU</item>-->
+    <!--<item>357,CY</item>-->
+    <!--<item>420,CZ</item>-->
+    <!--<item>45,DK</item>-->
+    <!--<item>253,DJ</item>-->
+    <!--<item>670,TL</item>-->
+    <!--<item>593,EC</item>-->
+    <!--<item>20,EG</item>-->
+    <!--<item>503,SV</item>-->
+    <!--<item>240,GQ</item>-->
+    <!--<item>291,ER</item>-->
+    <!--<item>372,EE</item>-->
+    <!--<item>251,ET</item>-->
+    <!--<item>500,FK</item>-->
+    <!--<item>298,FO</item>-->
+    <!--<item>679,FJ</item>-->
+    <!--<item>358,FI</item>-->
+    <!--<item>33,FR</item>-->
+    <!--<item>689,PF</item>-->
+    <!--<item>241,GA</item>-->
+    <!--<item>220,GM</item>-->
+    <!--<item>995,GE</item>-->
+    <!--<item>49,DE</item>-->
+    <!--<item>233,GH</item>-->
+    <!--<item>350,GI</item>-->
+    <!--<item>30,GR</item>-->
+    <!--<item>299,GL</item>-->
+    <!--<item>502,GT</item>-->
+    <!--<item>224,GN</item>-->
+    <!--<item>245,GW</item>-->
+    <!--<item>592,GY</item>-->
+    <!--<item>509,HT</item>-->
+    <!--<item>504,HN</item>-->
+    <!--<item>852,HK</item>-->
+    <!--<item>36,HU</item>-->
+    <!--<item>91,IN</item>-->
+    <!--<item>62,ID</item>-->
+    <!--<item>98,IR</item>-->
+    <!--<item>964,IQ</item>-->
+    <!--<item>353,IE</item>-->
+    <!--<item>44,IM</item>-->
+    <!--<item>972,IL</item>-->
+    <!--<item>39,IT</item>-->
+    <!--<item>225,CI</item>-->
+    <!--<item>81,JP</item>-->
+    <!--<item>962,JO</item>-->
+    <!--<item>7,KZ</item>-->
+    <!--<item>254,KE</item>-->
+    <!--<item>686,KI</item>-->
+    <!--<item>965,KW</item>-->
+    <!--<item>996,KG</item>-->
+    <!--<item>856,LA</item>-->
+    <!--<item>371,LV</item>-->
+    <!--<item>961,LB</item>-->
+    <!--<item>266,LS</item>-->
+    <!--<item>231,LR</item>-->
+    <!--<item>218,LY</item>-->
+    <!--<item>423,LI</item>-->
+    <!--<item>370,LT</item>-->
+    <!--<item>352,LU</item>-->
+    <!--<item>853,MO</item>-->
+    <!--<item>389,MK</item>-->
+    <!--<item>261,MG</item>-->
+    <!--<item>265,MW</item>-->
+    <!--<item>60,MY</item>-->
+    <!--<item>960,MV</item>-->
+    <!--<item>223,ML</item>-->
+    <!--<item>356,MT</item>-->
+    <!--<item>692,MH</item>-->
+    <!--<item>222,MR</item>-->
+    <!--<item>230,MU</item>-->
+    <!--<item>262,YT</item>-->
+    <!--<item>52,MX</item>-->
+    <!--<item>691,FM</item>-->
+    <!--<item>373,MD</item>-->
+    <!--<item>377,MC</item>-->
+    <!--<item>976,MN</item>-->
+    <!--<item>382,ME</item>-->
+    <!--<item>212,MA</item>-->
+    <!--<item>258,MZ</item>-->
+    <!--<item>264,NA</item>-->
+    <!--<item>674,NR</item>-->
+    <!--<item>977,NP</item>-->
+    <!--<item>31,NL</item>-->
+    <!--<item>599,AN</item>-->
+    <!--<item>687,NC</item>-->
+    <!--<item>64,NZ</item>-->
+    <!--<item>505,NI</item>-->
+    <!--<item>227,NE</item>-->
+    <!--<item>234,NG</item>-->
+    <!--<item>683,NU</item>-->
+    <!--<item>850,KP</item>-->
+    <!--<item>47,NO</item>-->
+    <!--<item>968,OM</item>-->
+    <!--<item>92,PK</item>-->
+    <!--<item>680,PW</item>-->
+    <!--<item>507,PA</item>-->
+    <!--<item>675,PG</item>-->
+    <!--<item>595,PY</item>-->
+    <!--<item>51,PE</item>-->
+    <!--<item>63,PH</item>-->
+    <!--<item>870,PN</item>-->
+    <!--<item>48,PL</item>-->
+    <!--<item>351,PT</item>-->
+    <!--<item>1,PR</item>-->
+    <!--<item>974,QA</item>-->
+    <!--<item>40,RO</item>-->
+    <!--<item>7,RU</item>-->
+    <!--<item>250,RW</item>-->
+    <!--<item>590,BL</item>-->
+    <!--<item>685,WS</item>-->
+    <!--<item>378,SM</item>-->
+    <!--<item>239,ST</item>-->
+    <!--<item>966,SA</item>-->
+    <!--<item>221,SN</item>-->
+    <!--<item>381,RS</item>-->
+    <!--<item>248,SC</item>-->
+    <!--<item>232,SL</item>-->
+    <!--<item>65,SG</item>-->
+    <!--<item>421,SK</item>-->
+    <!--<item>386,SI</item>-->
+    <!--<item>677,SB</item>-->
+    <!--<item>252,SO</item>-->
+    <!--<item>27,ZA</item>-->
+    <!--<item>82,KR</item>-->
+    <!--<item>34,ES</item>-->
+    <!--<item>94,LK</item>-->
+    <!--<item>290,SH</item>-->
+    <!--<item>508,PM</item>-->
+    <!--<item>249,SD</item>-->
+    <!--<item>597,SR</item>-->
+    <!--<item>268,SZ</item>-->
+    <!--<item>46,SE</item>-->
+    <!--<item>41,CH</item>-->
+    <!--<item>963,SY</item>-->
+    <!--<item>886,TW</item>-->
+    <!--<item>992,TJ</item>-->
+    <!--<item>255,TZ</item>-->
+    <!--<item>66,TH</item>-->
+    <!--<item>228,TG</item>-->
+    <!--<item>690,TK</item>-->
+    <!--<item>676,TO</item>-->
+    <!--<item>216,TN</item>-->
+    <!--<item>90,TR</item>-->
+    <!--<item>993,TM</item>-->
+    <!--<item>688,TV</item>-->
+    <!--<item>971,AE</item>-->
+    <!--<item>256,UG</item>-->
+    <!--<item>44,GB</item>-->
+    <!--<item>380,UA</item>-->
+    <!--<item>598,UY</item>-->
+    <!--<item>1,US</item>-->
+    <!--<item>998,UZ</item>-->
+    <!--<item>678,VU</item>-->
+    <!--<item>39,VA</item>-->
+    <!--<item>58,VE</item>-->
+    <!--<item>84,VN</item>-->
+    <!--<item>681,WF</item>-->
+    <!--<item>967,YE</item>-->
+    <!--<item>260,ZM</item>-->
+    <!--<item>263,ZW</item>-->
+    <!--</string-array>-->
+    <string-array name="country_code">
+        <!--<item>+93     &amp; Afghanistan</item>-->
+        <!--<item>+355    &amp; Albania</item>-->
+        <!--<item>+213    &amp; Algeria</item>-->
+        <!--<item>+1(684) &amp; American Samoa</item>-->
+        <!--<item>+376    &amp; Andorra</item>-->
+        <!--<item>+244    &amp; Angola</item>-->
+        <!--<item>+1(264) &amp; Anguilla</item>-->
+        <!--<item>+672    &amp; Antarctica</item>-->
+        <!--<item>+1(268) &amp; Antigua and Barbuda</item>-->
+        <!--<item>+54     &amp; Argentina</item>-->
+        <!--<item>+374    &amp; Armenia</item>-->
+        <!--<item>+297    &amp; Aruba</item>-->
+        <!--<item>+61     &amp; Australia</item>-->
+        <!--<item>+43     &amp; Austria</item>-->
+        <!--<item>+994    &amp; Azerbaijan</item>-->
+        <!--<item>+1(242) &amp; Bahamas</item>-->
+        <!--<item>+973    &amp; Bahrain</item>-->
+        <!--<item>+880    &amp; Bangladesh</item>-->
+        <!--<item>+1(246) &amp; Barbados</item>-->
+        <!--<item>+375    &amp; Belarus</item>-->
+        <!--<item>+32     &amp; Belgium</item>-->
+        <!--<item>+501    &amp; Belize</item>-->
+        <!--<item>+229    &amp; Benin</item>-->
+        <!--<item>+1(441) &amp; Bermuda</item>-->
+        <!--<item>+975    &amp; Bhutan</item>-->
+        <!--<item>+591    &amp; Bolivia</item>-->
+        <!--<item>+387    &amp; Bosnia and Herzegovina</item>-->
+        <!--<item>+267    &amp; Botswana</item>-->
+        <!--<item>+55     &amp; Brazil</item>-->
+        <!--<item>+1(284) &amp; British Virgin Islands</item>-->
+        <!--<item>+673    &amp; Brunei</item>-->
+        <!--<item>+359    &amp; Bulgaria</item>-->
+        <!--<item>+226    &amp; Burkina Faso</item>-->
+        <!--<item>+95     &amp; Burma (Myanmar)</item>-->
+        <!--<item>+257    &amp; Burundi</item>-->
+        <!--<item>+855    &amp; Cambodia</item>-->
+        <!--<item>+237    &amp; Cameroon</item>-->
+        <!--<item>+1(403) &amp; Canada</item>-->
+        <!--<item>+238    &amp; Cape Verde</item>-->
+        <!--<item>+1(345) &amp; Cayman Islands</item>-->
+        <!--<item>+236    &amp; Central African Republic</item>-->
+        <!--<item>+235    &amp; Chad</item>-->
+        <!--<item>+56     &amp; Chile</item>-->
+        <!--<item>+86     &amp; China</item>-->
+        <!--<item>+61     &amp; Christmas Island</item>-->
+        <!--<item>+61     &amp; Cocos (Keeling) Islands</item>-->
+        <!--<item>+57     &amp; Colombia</item>-->
+        <!--<item>+269    &amp; Comoros</item>-->
+        <!--<item>+682    &amp; Cook Islands</item>-->
+        <!--<item>+506    &amp; Costa Rica</item>-->
+        <!--<item>+385    &amp; Croatia</item>-->
+        <!--<item>+53     &amp; Cuba</item>-->
+        <!--<item>+357    &amp; Cyprus</item>-->
+        <!--<item>+420    &amp; Czech Republic</item>-->
+        <!--<item>+243    &amp; Democratic Republic of the Congo</item>-->
+        <!--<item>+45     &amp; Denmark</item>-->
+        <!--<item>+253    &amp; Djibouti</item>-->
+        <!--<item>+1(767) &amp; Dominica</item>-->
+        <!--<item>+1(809) &amp; Dominican Republic</item>-->
+        <!--<item>+593    &amp; Ecuador</item>-->
+        <!--<item>+20     &amp; Egypt</item>-->
+        <!--<item>+503    &amp; El Salvador</item>-->
+        <!--<item>+240    &amp; Equatorial Guinea</item>-->
+        <!--<item>+291    &amp; Eritrea</item>-->
+        <!--<item>+372    &amp; Estonia</item>-->
+        <!--<item>+251    &amp; Ethiopia</item>-->
+        <!--<item>+500    &amp; Falkland Islands</item>-->
+        <!--<item>+298    &amp; Faroe Islands</item>-->
+        <!--<item>+679    &amp; Fiji</item>-->
+        <!--<item>+358    &amp; Finland</item>-->
+        <!--<item>+33     &amp; France</item>-->
+        <!--<item>+689    &amp; French Polynesia</item>-->
+        <!--<item>+241    &amp; Gabon</item>-->
+        <!--<item>+220    &amp; Gambia</item>-->
+        <!--<item>+970    &amp; Gaza Strip</item>-->
+        <!--<item>+995    &amp; Georgia</item>-->
+        <!--<item>+49     &amp; Germany</item>-->
+        <!--<item>+233    &amp; Ghana</item>-->
+        <!--<item>+350    &amp; Gibraltar</item>-->
+        <!--<item>+30     &amp; Greece</item>-->
+        <!--<item>+299    &amp; Greenland</item>-->
+        <!--<item>+1(473) &amp; Grenada</item>-->
+        <!--<item>+1(671) &amp; Guam</item>-->
+        <!--<item>+502    &amp; Guatemala</item>-->
+        <!--<item>+224    &amp; Guinea</item>-->
+        <!--<item>+245    &amp; Guinea-Bissau</item>-->
+        <!--<item>+592    &amp; Guyana</item>-->
+        <!--<item>+509    &amp; Haiti</item>-->
+        <!--<item>+39     &amp; Holy See (Vatican City)</item>-->
+        <!--<item>+504    &amp; Honduras</item>-->
+        <!--<item>+852    &amp; Hong Kong</item>-->
+        <!--<item>+36     &amp; Hungary</item>-->
+        <!--<item>+354    &amp; Iceland</item>-->
+        <!--<item>+91     &amp; India</item>-->
+        <!--<item>+62     &amp; Indonesia</item>-->
+        <!--<item>+98     &amp; Iran</item>-->
+        <!--<item>+964    &amp; Iraq</item>-->
+        <!--<item>+353    &amp; Ireland</item>-->
+        <!--<item>+44     &amp; Isle of Man</item>-->
+        <!--<item>+972    &amp; Israel</item>-->
+        <!--<item>+39     &amp; Italy</item>-->
+        <!--<item>+225    &amp; Ivory Coast</item>-->
+        <!--<item>+1(876) &amp; Jamaica</item>-->
+        <!--<item>+81     &amp; Japan</item>-->
+        <!--<item>+962    &amp; Jordan</item>-->
+        <!--<item>+7(317) &amp; Kazakhstan</item>-->
+        <!--<item>+254    &amp; Kenya</item>-->
+        <!--<item>+686    &amp; Kiribati</item>-->
+        <!--<item>+381    &amp; Kosovo</item>-->
+        <!--<item>+965    &amp; Kuwait</item>-->
+        <!--<item>+996    &amp; Kyrgyzstan</item>-->
+        <!--<item>+856    &amp; Laos</item>-->
+        <!--<item>+371    &amp; Latvia</item>-->
+        <!--<item>+961    &amp; Lebanon</item>-->
+        <!--<item>+266    &amp; Lesotho</item>-->
+        <!--<item>+231    &amp; Liberia</item>-->
+        <!--<item>+218    &amp; Libya</item>-->
+        <!--<item>+423    &amp; Liechtenstein</item>-->
+        <!--<item>+370    &amp; Lithuania</item>-->
+        <!--<item>+352    &amp; Luxembourg</item>-->
+        <!--<item>+853    &amp; Macau</item>-->
+        <!--<item>+389    &amp; Macedonia</item>-->
+        <!--<item>+261    &amp; Madagascar</item>-->
+        <!--<item>+265    &amp; Malawi</item>-->
+        <!--<item>+60     &amp; Malaysia</item>-->
+        <!--<item>+960    &amp; Maldives</item>-->
+        <!--<item>+223    &amp; Mali</item>-->
+        <!--<item>+356    &amp; Malta</item>-->
+        <!--<item>+692    &amp; Marshall Islands</item>-->
+        <!--<item>+222    &amp; Mauritania</item>-->
+        <!--<item>+230    &amp; Mauritius</item>-->
+        <!--<item>+262    &amp; Mayotte</item>-->
+        <!--<item>+52     &amp; Mexico</item>-->
+        <!--<item>+691    &amp; Micronesia</item>-->
+        <!--<item>+373    &amp; Moldova</item>-->
+        <!--<item>+377    &amp; Monaco</item>-->
+        <!--<item>+976    &amp; Mongolia</item>-->
+        <!--<item>+382    &amp; Montenegro</item>-->
+        <!--<item>+1(664) &amp; Montserrat</item>-->
+        <!--<item>+212    &amp; Morocco</item>-->
+        <!--<item>+258    &amp; Mozambique</item>-->
+        <!--<item>+264    &amp; Namibia</item>-->
+        <!--<item>+674    &amp; Nauru</item>-->
+        <!--<item>+977    &amp; Nepal</item>-->
+        <!--<item>+31     &amp; Netherlands</item>-->
+        <!--<item>+599    &amp; Netherlands Antilles</item>-->
+        <!--<item>+687    &amp; New Caledonia</item>-->
+        <!--<item>+64     &amp; New Zealand</item>-->
+        <!--<item>+505    &amp; Nicaragua</item>-->
+        <!--<item>+227    &amp; Niger</item>-->
+        <!--<item>+234    &amp; Nigeria</item>-->
+        <!--<item>+683    &amp; Niue</item>-->
+        <!--<item>+672    &amp; Norfolk Island</item>-->
+        <!--<item>+850    &amp; North Korea</item>-->
+        <!--<item>+1(670) &amp; Northern Mariana Islands</item>-->
+        <!--<item>+47     &amp; Norway</item>-->
+        <!--<item>+968    &amp; Oman</item>-->
+        <!--<item>+92     &amp; Pakistan</item>-->
+        <!--<item>+680    &amp; Palau</item>-->
+        <!--<item>+507    &amp; Panama</item>-->
+        <!--<item>+675    &amp; Papua New Guinea</item>-->
+        <!--<item>+595    &amp; Paraguay</item>-->
+        <!--<item>+51     &amp; Peru</item>-->
+        <!--<item>+63     &amp; Philippines</item>-->
+        <!--<item>+870    &amp; Pitcairn Islands</item>-->
+        <!--<item>+48     &amp; Poland</item>-->
+        <!--<item>+351    &amp; Portugal</item>-->
+        <!--<item>+974    &amp; Qatar</item>-->
+        <!--<item>+242    &amp; Republic of the Congo</item>-->
+        <!--<item>+40     &amp; Romania</item>-->
+        <!--<item>+7      &amp; Russia</item>-->
+        <!--<item>+250    &amp; Rwanda</item>-->
+        <!--<item>+590    &amp; Saint Barthelemy</item>-->
+        <!--<item>+290    &amp; Saint Helena</item>-->
+        <!--<item>+1(869) &amp; Saint Kitts and Nevis</item>-->
+        <!--<item>+1(758) &amp; Saint Lucia</item>-->
+        <!--<item>+1(599) &amp; Saint Martin</item>-->
+        <!--<item>+508    &amp; Saint Pierre and Miquelon</item>-->
+        <!--<item>+1(784) &amp; Saint Vincent and the Grenadines</item>-->
+        <!--<item>+685    &amp; Samoa</item>-->
+        <!--<item>+378    &amp; San Marino</item>-->
+        <!--<item>+239    &amp; Sao Tome and Principe</item>-->
+        <!--<item>+966    &amp; Saudi Arabia</item>-->
+        <!--<item>+221    &amp; Senegal</item>-->
+        <!--<item>+381    &amp; Serbia</item>-->
+        <!--<item>+248    &amp; Seychelles</item>-->
+        <!--<item>+232    &amp; Sierra Leone</item>-->
+        <!--<item>+65     &amp; Singapore</item>-->
+        <!--<item>+421    &amp; Slovakia</item>-->
+        <!--<item>+386    &amp; Slovenia</item>-->
+        <!--<item>+677    &amp; Solomon Islands</item>-->
+        <!--<item>+252    &amp;  Somalia</item>-->
+        <!--<item>+27     &amp; South Africa</item>-->
+        <!--<item>+82     &amp; South Korea</item>-->
+        <!--<item>+34     &amp; Spain</item>-->
+        <!--<item>+94     &amp; Sri Lanka</item>-->
+        <!--<item>+249    &amp; Sudan</item>-->
+        <!--<item>+597    &amp; Suriname</item>-->
+        <!--<item>+268    &amp; Swaziland</item>-->
+        <!--<item>+46     &amp; Sweden</item>-->
+        <!--<item>+41     &amp; Switzerland</item>-->
+        <!--<item>+963    &amp; Syria</item>-->
+        <!--<item>+886    &amp; Taiwan</item>-->
+        <!--<item>+992    &amp; Tajikistan</item>-->
+        <!--<item>+255    &amp; Tanzania</item>-->
+        <!--<item>+66     &amp; Thailand</item>-->
+        <!--<item>+670    &amp; Timor-Leste</item>-->
+        <!--<item>+228    &amp; Togo</item>-->
+        <!--<item>+690    &amp; Tokelau</item>-->
+        <!--<item>+676    &amp; Tonga</item>-->
+        <!--<item>+1(868) &amp; Trinidad and Tobago</item>-->
+        <!--<item>+216    &amp; Tunisia</item>-->
+        <!--<item>+90     &amp; Turkey</item>-->
+        <!--<item>+993    &amp; Turkmenistan</item>-->
+        <!--<item>+1(649) &amp; Turks and Caicos Islands</item>-->
+        <!--<item>+688    &amp; Tuvalu</item>-->
+        <!--<item>+256    &amp; Uganda</item>-->
+        <!--<item>+380    &amp; Ukraine</item>-->
+        <!--<item>+971    &amp; United Arab Emirates</item>-->
+        <!--<item>+44     &amp; United Kingdom</item>-->
+        <!--<item>+1(325) &amp; United States</item>-->
+        <!--<item>+598    &amp; Uruguay</item>-->
+        <!--<item>+1(340) &amp; US Virgin Islands</item>-->
+        <!--<item>+998    &amp; Uzbekistan</item>-->
+        <!--<item>+678    &amp; Vanuatu</item>-->
+        <!--<item>+58     &amp; Venezuela</item>-->
+        <!--<item>+84     &amp; Vietnam</item>-->
+        <!--<item>+681    &amp; Wallis and Futuna</item>-->
+        <!--<item>+970    &amp; West Bank</item>-->
+        <!--<item>+967    &amp; Yemen</item>-->
+        <!--<item>+260    &amp; Zambia</item>-->
+        <!--<item>+263    &amp; Zimbabwe</item>-->
+        <item> +93 &amp;Afghanistan</item>
+        <item> +355 &amp;Albania</item>
+        <item> +213 &amp;Algeria</item>
+        <item> +1(684) &amp;American Samoa</item>
+        <item> +376 &amp;Andorra</item>
+        <item> +244 &amp;Angola</item>
+        <item> +1(264) &amp;Anguilla</item>
+        <item> +672 &amp;Antarctica</item>
+        <item> +1(268) &amp;Antigua and Barbuda</item>
+        <item> +54 &amp;Argentina</item>
+        <item> +374 &amp;Armenia</item>
+        <item> +297 &amp;Aruba</item>
+        <item> +61 &amp;Australia</item>
+        <item> +43 &amp;Austria</item>
+        <item> +994 &amp;Azerbaijan</item>
+        <item> +1(242) &amp;Bahamas</item>
+        <item> +973 &amp;Bahrain</item>
+        <item> +880 &amp;Bangladesh</item>
+        <item> +1(246) &amp;Barbados</item>
+        <item> +375 &amp;Belarus</item>
+        <item> +32 &amp;Belgium</item>
+        <item> +501 &amp;Belize</item>
+        <item> +229 &amp;Benin</item>
+        <item> +1(441) &amp;Bermuda</item>
+        <item> +975 &amp;Bhutan</item>
+        <item> +591 &amp;Bolivia</item>
+        <item> +387 &amp;Bosnia and Herzegovina</item>
+        <item> +267 &amp;Botswana</item>
+        <item> +55 &amp;Brazil</item>
+        <item> +246 &amp;British Indian Ocean Territory</item>
+        <item> +1(284) &amp;British Virgin Islands</item>
+        <item> +673 &amp;Brunei</item>
+        <item> +359 &amp;Bulgaria</item>
+        <item> +226 &amp;Burkina Faso</item>
+        <item> +257 &amp;Burundi</item>
+        <item> +855 &amp;Cambodia</item>
+        <item> +237 &amp;Cameroon</item>
+        <item> +1 &amp;Canada</item>
+        <item> +238 &amp;Cape Verde</item>
+        <item> +1(345) &amp;Cayman Islands</item>
+        <item> +236 &amp;Central African Republic</item>
+        <item> +235 &amp;Chad</item>
+        <item> +56 &amp;Chile</item>
+        <item> +86 &amp;China</item>
+        <item> +61 &amp;Christmas Island</item>
+        <item> +61 &amp;Cocos Islands</item>
+        <item> +57 &amp;Colombia</item>
+        <item> +269 &amp;Comoros</item>
+        <item> +682 &amp;Cook Islands</item>
+        <item> +506 &amp;Costa Rica</item>
+        <item> +385 &amp;Croatia</item>
+        <item> +53 &amp;Cuba</item>
+        <item> +599 &amp;Curacao</item>
+        <item> +357 &amp;Cyprus</item>
+        <item> +420 &amp;Czech Republic</item>
+        <item> +243 &amp;Democratic Republic of the Congo</item>
+        <item> +45 &amp;Denmark</item>
+        <item> +253 &amp;Djibouti</item>
+        <item> +1(767) &amp;Dominica</item>
+        <item> +1(809) &amp;Dominican Republic</item>
+        <item> +670 &amp;East Timor</item>
+        <item> +593 &amp;Ecuador</item>
+        <item> +20 &amp;Egypt</item>
+        <item> +503 &amp;El Salvador</item>
+        <item> +240 &amp;Equatorial Guinea</item>
+        <item> +291 &amp;Eritrea</item>
+        <item> +372 &amp;Estonia</item>
+        <item> +251 &amp;Ethiopia</item>
+        <item> +500 &amp;Falkland Islands</item>
+        <item> +298 &amp;Faroe Islands</item>
+        <item> +679 &amp;Fiji</item>
+        <item> +358 &amp;Finland</item>
+        <item> +33 &amp;France</item>
+        <item> +689 &amp;French Polynesia</item>
+        <item> +241 &amp;Gabon</item>
+        <item> +220 &amp;Gambia</item>
+        <item> +995 &amp;Georgia</item>
+        <item> +49 &amp;Germany</item>
+        <item> +233 &amp;Ghana</item>
+        <item> +350 &amp;Gibraltar</item>
+        <item> +30 &amp;Greece</item>
+        <item> +299 &amp;Greenland</item>
+        <item> +1(473) &amp;Grenada</item>
+        <item> +1(671) &amp;Guam</item>
+        <item> +502 &amp;Guatemala</item>
+        <item> +44(1481) &amp;Guernsey</item>
+        <item> +224 &amp;Guinea</item>
+        <item> +245 &amp;Guinea-Bissau</item>
+        <item> +592 &amp;Guyana</item>
+        <item> +509 &amp;Haiti</item>
+        <item> +504 &amp;Honduras</item>
+        <item> +852 &amp;Hong Kong</item>
+        <item> +36 &amp;Hungary</item>
+        <item> +354 &amp;Iceland</item>
+        <item> +91 &amp;India</item>
+        <item> +62 &amp;Indonesia</item>
+        <item> +98 &amp;Iran</item>
+        <item> +964 &amp;Iraq</item>
+        <item> +353 &amp;Ireland</item>
+        <item> +44(1624) &amp;Isle of Man</item>
+        <item> +972 &amp;Israel</item>
+        <item> +39 &amp;Italy</item>
+        <item> +225 &amp;Ivory Coast</item>
+        <item> +1(876) &amp;Jamaica</item>
+        <item> +81 &amp;Japan</item>
+        <item> +44(1534) &amp;Jersey</item>
+        <item> +962 &amp;Jordan</item>
+        <item> +7 &amp;Kazakhstan</item>
+        <item> +254 &amp;Kenya</item>
+        <item> +686 &amp;Kiribati</item>
+        <item> +383 &amp;Kosovo</item>
+        <item> +965 &amp;Kuwait</item>
+        <item> +996 &amp;Kyrgyzstan</item>
+        <item> +856 &amp;Laos</item>
+        <item> +371 &amp;Latvia</item>
+        <item> +961 &amp;Lebanon</item>
+        <item> +266 &amp;Lesotho</item>
+        <item> +231 &amp;Liberia</item>
+        <item> +218 &amp;Libya</item>
+        <item> +423 &amp;Liechtenstein</item>
+        <item> +370 &amp;Lithuania</item>
+        <item> +352 &amp;Luxembourg</item>
+        <item> +853 &amp;Macau</item>
+        <item> +389 &amp;Macedonia</item>
+        <item> +261 &amp;Madagascar</item>
+        <item> +265 &amp;Malawi</item>
+        <item> +60 &amp;Malaysia</item>
+        <item> +960 &amp;Maldives</item>
+        <item> +223 &amp;Mali</item>
+        <item> +356 &amp;Malta</item>
+        <item> +692 &amp;Marshall Islands</item>
+        <item> +222 &amp;Mauritania</item>
+        <item> +230 &amp;Mauritius</item>
+        <item> +262 &amp;Mayotte</item>
+        <item> +52 &amp;Mexico</item>
+        <item> +691 &amp;Micronesia</item>
+        <item> +373 &amp;Moldova</item>
+        <item> +377 &amp;Monaco</item>
+        <item> +976 &amp;Mongolia</item>
+        <item> +382 &amp;Montenegro</item>
+        <item> +1(664) &amp;Montserrat</item>
+        <item> +212 &amp;Morocco</item>
+        <item> +258 &amp;Mozambique</item>
+        <item> +95 &amp;Myanmar</item>
+        <item> +264 &amp;Namibia</item>
+        <item> +674 &amp;Nauru</item>
+        <item> +977 &amp;Nepal</item>
+        <item> +31 &amp;Netherlands</item>
+        <item> +599 &amp;Netherlands Antilles</item>
+        <item> +687 &amp;New Caledonia</item>
+        <item> +64 &amp;New Zealand</item>
+        <item> +505 &amp;Nicaragua</item>
+        <item> +227 &amp;Niger</item>
+        <item> +234 &amp;Nigeria</item>
+        <item> +683 &amp;Niue</item>
+        <item> +850 &amp;North Korea</item>
+        <item> +1(670) &amp;Northern Mariana Islands</item>
+        <item> +47 &amp;Norway</item>
+        <item> +968 &amp;Oman</item>
+        <item> +92 &amp;Pakistan</item>
+        <item> +680 &amp;Palau</item>
+        <item> +970 &amp;Palestine</item>
+        <item> +507 &amp;Panama</item>
+        <item> +675 &amp;Papua New Guinea</item>
+        <item> +595 &amp;Paraguay</item>
+        <item> +51 &amp;Peru</item>
+        <item> +63 &amp;Philippines</item>
+        <item> +64 &amp;Pitcairn</item>
+        <item> +48 &amp;Poland</item>
+        <item> +351 &amp;Portugal</item>
+        <item> +1(787) &amp;Puerto Rico</item>
+        <item> +974 &amp;Qatar</item>
+        <item> +242 &amp;Republic of the Congo</item>
+        <item> +262 &amp;Reunion</item>
+        <item> +40 &amp;Romania</item>
+        <item> +7 &amp;Russia</item>
+        <item> +250 &amp;Rwanda</item>
+        <item> +590 &amp;Saint Barthelemy</item>
+        <item> +290 &amp;Saint Helena</item>
+        <item> +1(869) &amp;Saint Kitts and Nevis</item>
+        <item> +1(758) &amp;Saint Lucia</item>
+        <item> +590 &amp;Saint Martin</item>
+        <item> +508 &amp;Saint Pierre and Miquelon</item>
+        <item> +1(784) &amp;Saint Vincent and the Grenadines</item>
+        <item> +685 &amp;Samoa</item>
+        <item> +378 &amp;San Marino</item>
+        <item> +239 &amp;Sao Tome and Principe</item>
+        <item> +966 &amp;Saudi Arabia</item>
+        <item> +221 &amp;Senegal</item>
+        <item> +381 &amp;Serbia</item>
+        <item> +248 &amp;Seychelles</item>
+        <item> +232 &amp;Sierra Leone</item>
+        <item> +65 &amp;Singapore</item>
+        <item> +1(721) &amp;Sint Maarten</item>
+        <item> +421 &amp;Slovakia</item>
+        <item> +386 &amp;Slovenia</item>
+        <item> +677 &amp;Solomon Islands</item>
+        <item> +252 &amp;Somalia</item>
+        <item> +27 &amp;South Africa</item>
+        <item> +82 &amp;South Korea</item>
+        <item> +211 &amp;South Sudan</item>
+        <item> +34 &amp;Spain</item>
+        <item> +94 &amp;Sri Lanka</item>
+        <item> +249 &amp;Sudan</item>
+        <item> +597 &amp;Suriname</item>
+        <item> +47 &amp;Svalbard and Jan Mayen</item>
+        <item> +268 &amp;Swaziland</item>
+        <item> +46 &amp;Sweden</item>
+        <item> +41 &amp;Switzerland</item>
+        <item> +963 &amp;Syria</item>
+        <item> +886 &amp;Taiwan</item>
+        <item> +992 &amp;Tajikistan</item>
+        <item> +255 &amp;Tanzania</item>
+        <item> +66 &amp;Thailand</item>
+        <item> +228 &amp;Togo</item>
+        <item> +690 &amp;Tokelau</item>
+        <item> +676 &amp;Tonga</item>
+        <item> +1(868) &amp;Trinidad and Tobago</item>
+        <item> +216 &amp;Tunisia</item>
+        <item> +90 &amp;Turkey</item>
+        <item> +993 &amp;Turkmenistan</item>
+        <item> +1(649) &amp;Turks and Caicos Islands</item>
+        <item> +688 &amp;Tuvalu</item>
+        <item> +1(340) &amp;U.S. Virgin Islands</item>
+        <item> +256 &amp;Uganda</item>
+        <item> +380 &amp;Ukraine</item>
+        <item> +971 &amp;United Arab Emirates</item>
+        <item> +44 &amp;United Kingdom</item>
+        <item> +1 &amp;United States</item>
+        <item> +598 &amp;Uruguay</item>
+        <item> +998 &amp;Uzbekistan</item>
+        <item> +678 &amp;Vanuatu</item>
+        <item> +379 &amp;Vatican</item>
+        <item> +58 &amp;Venezuela</item>
+        <item> +84 &amp;Vietnam</item>
+        <item> +681 &amp;Wallis and Futuna</item>
+        <item> +212 &amp;Western Sahara</item>
+        <item> +967 &amp;Yemen</item>
+        <item> +260 &amp;Zambia</item>
+        <item> +263 &amp;Zimbabwe</item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="picklocation_header">PICKUP LOCATION</string>
+    <string name="searching">Searching...</string>
+
+
+    <string name="no_data">No data found</string>
+
+
+    <string name="vehicle_dist">Vehicle Distance Fare</string>
+    <string name="waiting">Waiting</string>
+    <string name="waiting_time">Waiting Time Cost</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="Tax">Tax</string>
+    <string name="total">Total</string>
+    <string name="paid_by">Paid By</string>
+    <string name="cash">Cash</string>
+    <string name="trip_id">Trip ID</string>
+
+    <string name="trip_fare">Trip Fare</string>
+    <string name="help">Help</string>
+    <string name="vehicle_min">Vehicle Mins Fare</string>
+
+    <string name="vehicle_wait">Vehicle Waiting Time</string>
+
+
+    <string name="completed">Completed</string>
+
+    <string name="paymentoptions">Payment Option</string>
+
+
+    <string name="server_error">Server connection error</string>
+    <string name="zerorating">Do you want to post your feedback without rating?</string>
+    <string name="message_alert_back">Your registration is not yet completed. If you click back, you must login again to complete the registration. Do you want to move back?</string>
+
+
+    <string name="select_date_arab">حدد التاريخ الوقت</string>
+    <string name="submit_arab">عرض</string>
+    <string name="mode_selection_split">You can\'t change the payment type when the split fare facility enabled</string>
+
+</resources>

@@ -1,0 +1,799 @@
+@media screen and (max-width:1279px){.footer_products.footer_rgt .we_hire,.footer_products.footer_rgt .become_a_partner{position:inherit;margin:40px 0 15px;display:block;}
+.we_hire, .become_a_partner{display:none;}
+.read_more{text-align:left;}
+.feature_bannner{background-size:cover;}
+.header_menus_common ul li.language{margin-top:0;position:absolute;right:0;top:60px;}
+}
+@media screen and (max-width:1200px){.banner_app{display:none;}
+.taxi_mobility_homepage_banner .banner_left{padding:0;width:67%;}
+.feature_bannner.feature_bannner_delivery .banner_left{width:80%;padding:0;}
+.fc_block{text-align:center;width:100%;}
+.fc_block.fc_block_full_view .fc_info, .fc_block.fc_block_full_view .fc_image, .fc_block.fc_block_full_view .fc_info.fc_info_1{width:95%;float:none;display:inline-block;padding-left:0;}
+.portfolio_img a, .portfolio_img img{border-radius:250px;}
+.chat_req{padding-bottom:0;}
+.company_chat_form input.chat_submit{margin-top:10px;}
+.taxi_bussiness_outer, .footer_outer_inner,.testimonial_taxi_inner,.copy_r_outer_inner,.client_inner,.slid_inn,.header_outer_inner,.taxi_mobility_homepage_banner,.center,.banner_info,.taxi_mobility_banner_block{width:97%;}
+.taxi_mob_img{width:100%;}
+.taxi_mob_img img{max-width:100%;}
+.step_rgt{width:100%;}
+.rgt_lst{width:93%;}
+.feature_lft{width:55%;}
+.feature_rgt{width:43%;}
+.feature_txt::before{font-size:200pt;line-height:205px;left:0;}
+.feature_txt{margin-bottom:15px;padding:115px 0 0 110px;}
+.demo_inner{width:97%;}
+.demo_contact_form{width:34%;right:25px !important;}
+}
+@media screen and (max-width:1100px){.subscribe strong{margin-right:2%;}
+.foot_subscribe{width:45%;}
+.taxi_mobility_homepage_banner .ban_title{font-size:26px;line-height:34px;}
+.taxi_mobility_homepage_banner .banner_button_new{margin-right:15px;}
+}
+@media screen and (max-width:1024px){.service_sub_title a br{display:none;}
+.feature_banner_left{background:hsla(0, 0%, 98%, 0.5) none repeat scroll 0 0;display:inline-block;padding:10px 20px;width:96%;}
+body{padding:0!important;}
+.fc_block_arrange .fc_image{padding:0 1% 0 0;}
+.fc_image_6 img{margin:0 0 -40px;}
+.fc_block_arrange .fc_info{padding:0 0 0 1%;}
+.feature_sub_title{font-size:30px;}
+.pricing_inner.pricing_inner_tab{padding:0;}
+.pricing_des{padding:10px;}
+.pricing_head .pricing_list2{padding:10px 5px;}
+.pricing_table li.pricing_foot{display:table-row;}
+.pricing_foot .pricing_list2{padding:20px 5px 10px;}
+.faq_tabres_block, .demo_fc_block{display:block;}
+.demo_content_outer .fc_info{display:inline-block;}
+.ceo_info_block .team_img{width:24%;}
+.team_info{width:74%;}
+.team_img{background-size:100%;}
+.about_bottom_common ul li{width:96% !important;}
+.about_bottom_common .key_list1 li{width:90% !important;}
+.about_bottom_inner .yellow_bg, .err{margin:0;}
+.btn.btn-inverse, .reg_form_left .confirm input[type="submit"]{margin:10px 0 0;}
+.faq_tab_block, .company_chat_title:before{display:none;}
+.company_chatform_title{padding:0 0 10px;}
+.companychat_form_content li{margin:3px 0 0 !important;}
+.chat_inbx input[type="text"]{width:75%;}
+.portfolio_info{width:64%;}
+.about_bottom_common .portfolio_list .portfolio_info a.pricing_app{margin-right:15px;}
+.portfolio_list span{background-size:contain;}
+.header_left_menu{margin:15px 0 15px 0;}
+.root_header_left_menu{float:right;}
+.video_outer{position:absolute;}
+.about_bottom_inner, .feature_tab_inner, .feature_artical_inner, .feature_banner_block, .key_block_tab, .taxi_mobility_banner_block{width:auto;}
+.key_block_outer, .hnav li:hover .product_list_nav ul, .company_chat_form em{height:auto;}
+.pricing_outer .feature_tab_inner, .reg_form_left .contact_select, .clinet_says_video img, .claculate_popup, .portfolio_sec.portfolio_sec_port, .key_block_img > img, .global_country_list, .global_locations img, .global_locations, .chgcapchafont, .input_bx, .about_left, .about_common{width:100%;}
+.pricing_list2, .pricing_foot .pricing_des,.pricing_foot .pricing_list1,.pricing_foot .pricing_list2{display:table-cell;}
+.view_demo_but{margin:10px 20px 0 0;}
+.guide_but{margin:10px 0 0 0;}
+.banner_right{width:49%;padding:0 0 0 1%;}
+.banner_right_image{right:auto;left:0;}
+.key_block_tab_inner, .taxi_service_block{width:96%;padding:0 2%;}
+.key_block{width:96%;padding:30px 2%;height:auto;}
+.key_block_tab_outer, .key_block_img{position:static;display:block;text-align:center;}
+.calculate_frm, .key_block_left{width:49%;padding:0 1% 0 0;}
+.key_block_tab li{width:40%;}
+.calculate_frm_info{width:49%;padding:0 0 0 1%;}
+.key_block_outer.support_block_outer{background:#fff;}
+.client_logo li a{margin:10px 5px;}
+.feature_bannner{padding:0 2%;}
+.feature_tab_list{display:none!important;}
+.r_featuretab option{padding:5px 0 0;}
+.feature_artical{padding:30px 2%;}
+.feature_tab{padding:0 2%;}
+.feature_tab_list li{width:18%;}
+.feature_tab_list li.ftab_divider{width:1%;}
+.home_howit_block_outer{background:#F2F3F7 url(../images/support_info_bg_res.jpg) no-repeat center top;}
+.home_howit_block{width:96%;padding:45px 2% 0;}
+.g_steps_list li{width:30%;padding:0 1%;}
+.footer_outer_inner, .gsteps_btm_block{width:96%;padding:0 2%;}
+.g_steps_btm_lft{width:100%;padding:0;}
+.g_steps_btm_rgt{width:100%;text-align:center;}
+.feature_tab{background:none;height:auto;margin:5px 0;}
+.r_featuretab_outer{background:#f9f9f9;padding:5px;position:relative;}
+.r_featuretab_outer:before{content:"";position:absolute;width:25px;height:30px;right:10px;top:10px;pointer-events:none;}
+.r_featuretab_inner{background:rgb(252,251,251);background:-moz-linear-gradient(top, rgba(252,251,251,1) 0%, rgba(246,244,245,1) 50%, rgba(243,241,241,1) 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,251,251,1)), color-stop(50%,rgba(246,244,245,1)), color-stop(100%,rgba(243,241,241,1)));background:-webkit-linear-gradient(top, rgba(252,251,251,1) 0%,rgba(246,244,245,1) 50%,rgba(243,241,241,1) 100%);background:-o-linear-gradient(top, rgba(252,251,251,1) 0%,rgba(246,244,245,1) 50%,rgba(243,241,241,1) 100%);background:-ms-linear-gradient(top, rgba(252,251,251,1) 0%,rgba(246,244,245,1) 50%,rgba(243,241,241,1) 100%);background:linear-gradient(to bottom, rgba(252,251,251,1) 0%,rgba(246,244,245,1) 50%,rgba(243,241,241,1) 100%);box-shadow:0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);-webkit-box-shadow:0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);-o-box-shadow:0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);border-radius:2px;-webkit-border-radius:2px;-o-border-radius:2px;border:1px solid #cccccc;overflow:hidden;}
+.r_featuretab{display:block;width:100%;border:0;height:auto;padding:9px;margin:0;background:none;}
+.feature_tab_list li a{padding:25px 0 20px;}
+.feature_tab_list li a b{font-size:17px;line-height:24px;}
+.feature_content_inner{width:auto;padding:0 2%;margin-bottom:25px;}
+.fc_info{width:40%;padding:0 1% 0 0;}
+.fc_image{width:48%;min-height:0;padding:0 0 0 1%;text-align:center;}
+.fc_image img{position:static;max-width:100%;}
+.pricing_inner{width:auto;padding:0 2%;}
+.pricing_outer .feature_tab{height:auto;margin-bottom:15px;}
+.package_licence_details.package_licence_details_bottom, .price_infolist.price_infolist_tab{width:95%;padding:10px;}
+.pricing_table{width:100%;display:table;}
+.about_inner{width:auto;padding:0 2%;}
+.about_bottom_outer{padding:0 2%;width:96%;}
+.team_img{width:24%;padding:0;margin:0 2% 0 0;}
+.reg_form_left{width:45%;padding:0 2% 0 0;}
+.name2 b{float:none;width:auto;display:block;padding:0 0 10px;text-align:left;}
+.reg_form_left input[type="text"], .reg_form_left textarea{width:96%;padding:4px 2%;}
+.country_list{width:33%;padding:0 2%;min-height:145px;height:auto;box-sizing:border-box;}
+.global_country_list div.new_icon1 p{height:40px;line-height:25px;}
+.company_chat_form{float:none;width:auto;}
+.company_chat{width:auto;height:auto;top:80px;z-index:9;}
+.company_chat_title{background:url("/public/common/images/free_quote_res.png") no-repeat;width:28px;height:115px;}
+.company_chat_form .company_chat_title{background:#fff url(../../images/popup_close.png) no-repeat center center;width:25px;height:25px;position:absolute;left:-10px;top:-10px;border-radius:20px;-moz-border-radius:20px;-webkit-border-radius:20px;}
+.company_chat_form_right{display:block;width:300px;padding:10px 20px 20px;}
+.companychat_form_content{padding:0;width:100%;}
+.case_study_outer{width:100%;padding:10px;}
+.download_docu .pricing_list1{position:absolute;width:52.5%;}
+.key_block_right{margin-left:0;width:45%;float:left;}
+.awesome_clients_inner{float:left;margin:0;width:100%;text-align:center;}
+.awesome_clients{padding:25px 0;}
+.awesome_clients_lft, .awesome_clients_rgt{float:none;display:inline-block;width:46%;text-align:left;}
+.video_popup_outer video{width:90% !important;height:auto !important;}
+.form_bottom .input_bx{width:93%;}
+.country_list.country_list_rgt.usa, .country_list, .country_list.country_list_india{width:33%;margin:0;box-sizing:border-box;}
+.partener_ship_block{margin:25px auto;}
+.footer_products.footer_rgt .we_hire,.footer_products.footer_rgt .become_a_partner{position:inherit;margin:50px 0 15px;display:block;}
+.copy_r_outer_inner{width:100%;}
+.copy_r{margin-left:15px;}
+.skype_add{float:left;font-size:14px;margin:30px 0 10px 15px;width:100%;}
+.swiper-button-prev, .swiper-container-rtl .swiper-button-next{left:0;}
+.swiper-button-next, .swiper-container-rtl .swiper-button-prev{right:0;}
+.about_bottom_common .meet_our_team_outer ul li{width:33% !important;}
+.case_study_outer #container{width:98%;text-align:center;}
+.case_study_inner > li{width:30%;}
+.alert-success{width:100%;}
+#messagedisplay, .success_float_tt{width:100%;margin-left:0;}
+.success_float_tt label{margin:0 !important;}
+.alert .close{position:relative;top:8px;right:2px;line-height:0;}
+.demo_fc_block.demo_fc_block_fullview .fc_image{width:93%;}
+.demo_fc_block.demo_fc_block_fullview .fc_image{display:inline-block;float:none;margin-right:0;width:90%;margin-left:0 !important;}
+.skype_add{width:90%;}
+.feature_bannner.feature_bannner_vehicle .feature_banner_block{width:100%;}
+.feature_sec.feature_sec_taxi .feature_banner_block{text-align:center;}
+.feature_sec.feature_sec_taxi .feature_banner_left{width:87%;display:inline-block;}
+.feature_sec .feature_bannner.feature_bannner_vehicle{padding:0;}
+.feature_bannner.feature_bannner_vehicle .feature_banner_block .feature_banner_left{display:inline-block;width:85%;float:none;}
+.feature_sec.feature_sec_taxi .featuer_banner_info span, .feature_bannner.feature_bannner_vehicle .featuer_banner_info span{color:#333;}
+.feature_sec.feature_sec_taxi .feature_ban_title{color:#000;}
+.feature_sec .feature_bannner.feature_bannner_delivery{padding:0;}
+.feature_sec .feature_bannner.feature_bannner_delivery .feature_banner_block{width:100%;text-align:center;}
+.feature_sec .feature_bannner.feature_bannner_delivery .feature_banner_left{float:none;width:80%;display:inline-block;}
+.case_study_details_rgt{float:left;width:30%;}
+.taxi_mobility_banner:before,.technology_banner:before,.feature_bannner:before,.pricing_banner:before,.portfolio_banner:before{top:0;}
+.land_thumb{width:70%;}
+.our_client_says{width:53%;padding-left:15px;}
+.taxi_mobility_homepage_banner .banner_button_new{margin-right:2%;}
+.orange_butt,.blue_butt{width:200px;}
+.hclient_description{height:auto;}
+.our_greatwork,.customers_latest_news{background-position:right top;background-size:cover;}
+.Button.Block{padding:59px 14px;width:245px;background-size:100%;height:512px;}
+.flipster-carousel .flip-current a{background-size:100% !important;}
+.sld_lft_content{width:46%;left:2%;}
+.sld_lft_content h1{font-size:28px;}
+.sld_rgt_img{width:48%;right:2%;top:80px;}
+.sld_rgt_img_1{width:60%;right:2%;top:30px;}
+.sld_rgt_img_1 img,.sld_rgt_img img{max-width:100%;}
+.res_view{display:block;}
+.nor_view,.txt_1,.txt_2,.txt_3,.sld_rgt_img p{display:none;}
+.form_bottom .chgcapchafont{width:auto;}
+.name2{float:left;width:100%;}
+.name2 b.security_contact_us{margin:0;padding:0 0 10px 0;}
+.name2.empty{display:none;}
+.footer_rgt ul li{margin:0 0 0 4px;}
+}
+@media screen and (max-width:1000px){.team_name{display:none;}
+.about_bottom_common .meet_our_team_outer ul li{text-align:center;}
+.meet_our_team_outer .member_one .team_pic, .meet_our_team_outer .member_two .team_pic, .meet_our_team_outer .member_three .team_pic, .meet_our_team_outer .member_five .team_pic,.meet_our_team_outer .member_six .team_pic,.meet_our_team_outer .member_seven .team_pic,.meet_our_team_outer .member_eight .team_pic,.meet_our_team_outer .member_nine .team_pic, .meet_our_team_outer .member_four .team_pic{width:65%;margin-bottom:20px;display:inline-block;float:none;}
+}
+@media screen and (max-width:980px){.video_wrapper #sho > iframe{width:100% !important;}
+.taxi_service_outer{padding:35px 0 0;}
+.home_subtitle{font-size:45px;}
+.g_step_destitle{font-size:30px;}
+.feature_sec.feature_sec_taxi .feature_bannner, .taxi_service_content{padding:0;}
+.fservice_list{padding:30px 0 0;}
+.key_block.feature_bottom .support_info,.key_block.feature_bottom .support_info_last{width:47%;}
+.portfolio_info, .feature_sec .feature_banner_block{width:100%;}
+.portfolio_info{margin-top:20px;}
+.about_bottom_common .portfolio_list li{text-align:center;}
+.about_bottom_common .portfolio_list p, .portfolio_info .title3{text-align:left;}
+.feature_sec br{display:none;}
+.video_outer{position:relative;left:3px;margin:0;width:99%;}
+.taxi_service_content li{width:100%;padding:0 1% 15px;}
+.fb_like{position:absolute;right:0;top:18%;z-index:1;}
+.taxi_service_content{text-align:center;}
+.taxi_bussiness_right, .taxi_bussiness_left{width:48%;}
+.taxi_bussiness_right .taxi_service_content li{text-align:center;}
+.taxi_bussiness_right .taxi_service_content li, .taxi_service_content li{width:80%;}
+.taxi_bussiness_app{display:none;}
+.support_info{width:47%;padding:0 1% 30px;}
+.partnership_center,.center,.banner_inner{width:96%;margin:0 auto;}
+.pricing_table_outer{float:left;margin:0 auto 0;width:100%;}
+.pricing_table_inner ul li span{font-size:14px;}
+.pricing_table_inner ul.pricing_table_feature span{position:relative;}
+.pricing_table_inner ul.pricing_table_feature span:before{position:absolute;display:inline-block;top:-4px;right:25px;content:'';background:url(../images/available.png) no-repeat 0 0;width:41px;height:40px;}
+.top_right{display:none;}
+.pricing_table_inner{text-align:center;}
+.top_left{width:95%;float:none;display:inline-block;border-radius:5px;border:1px solid #d7d7d7;}
+.pricing_table_inner ul.pricing_table_feature li{width:98%;}
+.pricing_table_inner ul.pricing_table_feature .pricing_contact_feature span:before{display:none;}
+.specifications_responsive{display:block;}
+.pricing_table_inner h1{padding:10px 0 0;margin:0;}
+.specifications_responsive{padding-bottom:15px;}
+.specifications_responsive h1{padding:0;}
+.pricing_contact_feature a{display:inline-block;margin-top:-30px;float:right;margin-right:15px;}
+.pricing_table_inner ul.pricing_table_feature li.pricing_contact_feature{padding:30px 10px;}
+.align_center{width:100%;}
+.portfolio_img, .portfolio_info{padding:0;width:40%;margin:20px;}
+.about_bottom_common .portfolio_list li{padding:2% 0;width:100% !important;}
+.partnership_center{width:100%;margin:15px 0;}
+.partener_ship_block{background:none;}
+.partener_ship_block p{font-size:30px;}
+.case_study_inner > li{float:left;position:inherit !important;width:31%;transform:translate(0px, 0px) !important;margin:15px 1% 10px;}
+.case_study_outer #container{height:auto !important;}
+.service_sub_title a{min-height:55px;}
+.taxi_servicing ul li{width:33.33%;}
+.rgt_lst.last_lay ul.three li{padding:20px 10px;box-sizing:border-box;-webkit-box-sizing:border-box;height:135px;}
+.rgt_lst.last_lay ul.three li img{max-width:100%;}
+.feature_lft ul{width:100%;}
+.rgt_lst li img{max-width:100%;}
+.taxi_mobility_homepage_banner .ban_title{font-size:30px;}
+.taxi_mobility_homepage_banner .ban_txt{font-size:22px;}
+.taxi_mobility_homepage_banner .banner_button_new{margin-right:10px;}
+.pav .bg_slid{width:95%;background-position:right top;}
+.land_thumb{width:65%;}
+.footer_products{width:33%;}
+.footer_products:nth-child(3){min-height:200px;}
+.mob_support{width:80%;}
+.feature_sec .feature_bannner.feature_bannner_delivery{background-position:0 top;}
+.feature_bannner.feature_bannner_delivery .banner_left{width:60%;}
+}
+@media screen and (max-width:970px){.awesome_clients_rgt ul{margin-left:0;}
+.awesome_clients_lft, .awesome_clients_rgt{width:90%;margin:0 0 20px 0;}
+.awesome_clients_rgt ul li{margin:0 15px 15px 0;}
+.ver_mobile, .app_improvements{width:40%;margin:0 15px;}
+.about_bottom_common .taximobility_outer .about_fact_list{float:left;margin-right:0;width:100%;}
+.about_bottom_common .taximobility_outer ul li{width:80% !important;text-align:left;}
+.testimonial_taxi_inner h4{font-size:34px;}
+.subscribe strong{width:20%;}
+.subscribe p{width:70%;}
+.foot_subscribe{float:left;width:100%;margin-top:10px;}
+.sub_err{width:41%;}
+.Button.Block{padding:60px 13px;width:230px;background-size:100%;height:492px;}
+.fc_block_arrange .fc_image{width:100%;margin:0;}
+.demo_page .fc_info{width:100%;margin:10px 0;padding:0;}
+.demo_page .fc_info.align_right{text-align:center;}
+.latest_video ul li{width:30%;margin-left:4%;}
+.our_work_right h2,.business_tit h2,.business_needs h2,.as_see_on h4,.out_latest_news h3,.feature_title{font-size:28px;}
+}
+@media screen and (max-width:900px){.video_demo{width:98%;}
+.video_blc{width:96%;}
+.video_imgblc img{max-width:100%;}
+.footer_products.footer_rgt{float:left;}
+.fc_info.fc_info_release_notes{margin:0;}
+.banner_right{width:100%;padding:50px 0 0;height:auto;}
+.banner_right_image{position:static;display:block;text-align:center;}
+.header_menus_common ul li.language{position:absolute;right:10px;margin-top:0;top:55px;}
+.header_menus_common ul li.language{position:relative;right:0;top:0;}
+.goog-te-gadget-simple{width:100%;padding:5px 0 !important;border:none !important;}
+.goog-te-gadget-simple span{float:none;width:auto;}
+.fc_block{margin:0 auto;padding:20px 0;width:100%;text-align:center;}
+.fc_image,.fc_info{width:40%;display:inline-block;float:none;}
+.fc_block_center, .fc_block_center_bg{padding:0;}
+.fc_image.fc_image_passenger_img a{width:100%;}
+.country_list.country_list_rgt.usa, .country_list, .country_list.country_list_india{float:left;text-align:left;}
+.global_country_list{text-align:center;}
+.partener_ship_block{margin-bottom:30px;}
+.feature_banner_left{width:95%;}
+.goog-te-gadget-simple .goog-te-menu-value{padding:0;}
+.client_logos ul li a{width:95%;float:left;}
+.client_logos ul li img{max-width:100%;}
+.testimonial_taxi_inner h4{font-size:30px;}
+.testimonial_taxi_inner .clinet_says_rgt p{font-size:16px;}
+.taxi_mob_img{display:none;}
+.home_blog_img{width:23%;}
+.home_blog_det{width:75%;}
+.our_greatwork{height:auto;}
+.orange_butt,.blue_butt{width:auto;padding:0 20px;}
+.taxi_mobility_homepage_banner .ban_title{font-size:28px;}
+.pav .bg_slid{width:72%;}
+.land_thumb{width:62%;}
+.Button.Block{padding:60px 12px;width:210px;background-size:100%;height:454px;}
+.feature_bannner .banner_left{width:75%;}
+.features_banner .fc_image, .features_banner .fc_info, .features_banner .fc_image_1{padding:0;}
+.technology_banner,.pricing_banner,.limosion_banner,.feature_sec .feature_bannner.feature_bannner_delivery,.portfolio_banner{background-position:25% top;}
+}
+@media screen and (max-width:850px){}
+@media screen and (max-width:840px){.meet_our_team_outer .member_one .team_pic, .meet_our_team_outer .member_two .team_pic, .meet_our_team_outer .member_three .team_pic, .meet_our_team_outer .member_five .team_pic, .meet_our_team_outer .member_six .team_pic, .meet_our_team_outer .member_seven .team_pic, .meet_our_team_outer .member_eight .team_pic, .meet_our_team_outer .member_nine .team_pic, .meet_our_team_outer .member_four .team_pic{width:73%;}
+}
+@media screen and (max-width:820px){.case_study_inner > li{left:0 !important;width:47%;}
+}
+@media screen and (max-width:800px){.company_chat{position:absolute;}
+.thank_you_block{padding:30px;}
+.hnav li:hover .product_list_nav ul{height:auto;}
+.release_notes_inner .release_ver_7, .release_notes_inner .release_ver_6, .release_notes_inner .release_ver_1{display:none;}
+.release_ver_2 a{left:65px;}
+.release_ver_3 a{left:195px;}
+.release_ver_4 a{left:350px;}
+.release_ver_5 a{left:470px;}
+.release_ver_8 a{left:570px;}
+.release_ver_9 a{left:665px;}
+.header_left_menu{margin:0;}
+.hnav .hmenu.product, .header_menus_common ul li:first-child{padding:0;}
+.header_menus_common .header_demo{margin:0;padding:0;}
+.root_header_left_menu{margin:0px;float:right;}
+.header_menus_common .hnav{margin-right:0;}
+.goog-te-gadget-simple .goog-te-menu-value{padding:0;}
+.goog-te-gadget-simple .goog-te-menu-value span{float:none;}
+.clinet_says_video iframe, .goog-te-menu-frame.skiptranslate{width:100% !important;}
+.goog-te-menu2{width:98% !important;}
+.header_menus_common .header_demo a:hover{color:#ffc000;}
+.fc_block_arrange .fc_image{padding:20px 0 0;}
+.demo_detail_list, .demo_fc_block{text-align:center;}
+.demo_detail_list p{text-align:left;}
+.fc_block{background:url("../images/step_shadow1.png") no-repeat center bottom;}
+.fc_info.align_right{float:none;text-align:left;width:auto;}
+.demo_contact_position .demo_contact_links{margin:0;position:static;}
+.error404_info_block,.error404_img_block{width:47%;padding:0 1%;}
+.product_list_nav{opacity:1;visibility:visible;display:none;}
+.header_menus_common .product_list_nav.submenu_sec ul li{margin-bottom:15px;width:100%;}
+.header_menus_common .hnav .hmenu.product.hover .product_list_nav{display:block;float:left;position:static;top:0;z-index:777;}
+.header_menus_common ul li a.hlink.mm_link.submenu_arrow.parent{background:url("../images/res_arrow.png") no-repeat 380px 16px;}
+.download_docu .pricing_list1{position:absolute;width:53.5%;}
+.header_menus_common ul li.language{top:0;position:relative;}
+.Button.Block{padding:45px 11px;width:188px;background-size:100%;height:396px;}
+#client_video{top:14%;width:80%;margin-left:-40%;height:350px;}
+.taxi_mobility_banner{background-position:65% top;}
+.toggleMenu{display:inline-block;width:30px;margin:15px 0 0;position:relative;}
+.toggleMenu:before{position:absolute;width:100%;border-top:4px solid #000;border-bottom:4px solid #000;content:"";top:0;left:0;height:5px;}
+.toggleMenu:after{position:absolute;width:100%;background:#000;content:"";top:17px;left:0;height:4px;}
+.header_bg_trans .header_outer_cont .toggleMenu:before{position:absolute;width:100%;border-top:4px solid #fff;border-bottom:4px solid #fff;content:"";top:0;left:0;height:5px;}
+.header_bg_trans .header_outer_cont .toggleMenu:after{position:absolute;width:100%;background:#fff;content:"";top:17px;left:0;height:4px;}
+.header_outer_cont.sticky .toggleMenu:before{border-top:4px solid #000;border-bottom:4px solid #000;}
+.header_outer_cont.sticky .toggleMenu:after{background:#000;}
+.hnav{position:absolute;right:11px;top:38px;background:#fff;box-shadow:0px 1px 2px 1px rgba(0, 0, 0, 0.35);-webkit-box-shadow:0px 1px 2px 1px rgba(0, 0, 0, 0.35);-o-box-shadow:0px 1px 2px 1px rgba(0, 0, 0, 0.35);}
+.header_menus_common .hnav{width:250px;display:none;}
+.header_menus_common ul{margin-right:0;}
+.header_menus_common ul li{float:left;display:block;padding:0;margin:0;border-top:1px solid #e7e7e7;width:100%;}
+.header_menus_common ul li a{float:none;display:block;width:auto;color:#000;position:relative;z-index:888;text-align:center;}
+.header_menus_common .header_demo a{display:block;width:auto;background:none;color:#999;}
+.header_bg_trans .header_menus_common ul li a{color:#000;}
+ul.drop_down,.solution_tab ul.drop_down{display:block;position:relative;top:0;left:0;float:left;width:100%;border:none;}
+.taxi_mobility_homepage_banner .banner_left{padding:0;width:58%;}
+}
+@media screen and (max-width:768px){.about_bottom_common .team_info p{text-align:left;}
+.country_list,.country_list.country_list_rgt.usa, .country_list, .country_list.country_list_india{width:48%;}
+.country_list.country_list_india{margin-top:15px;border:none;}
+.footer_products{width:23%;}
+.feature_sec .feature_banner_block{width:95%;}
+.feature_sec.feature_sec_delivery .feature_banner_left{width:75%;}
+.ban_title span{font-size:50px;}
+.ceo_info_block .team_info, .ceo_info_block .team_img, .team_info, .greay_bg1.greay_bg1_home .center, .home_appstore_lft, .home_appstore_rgt{width:100%;}
+.feature_banner_left{width:94%;}
+.team_info_block, .home_appstore{text-align:center;}
+.key_block_outer{margin:0;}
+.key_block_tab li{background:none;border-right:1px solid #ccc;}
+.key_block_tab li.active,.key_block_tab li.key_tab_bg.active{background:none;}
+.key_block{padding-top:0;}
+.key_block_tab li:last-child{border:none;}
+.key_bottom_shadow{background-size:contain;}
+.key_block_img img{max-width:100%;}
+.support_block_outer{margin:0;}
+.price_bannner .feature_banner_block, .feature_banner_block{padding:40px 0;}
+.reg_form_left, .price_bannner .feature_banner_left, .calculate_frm{width:100%;padding:0;}
+.key_block_right{width:40%;}
+.calculate_frm_info{width:100%;padding:0;}
+.footer_products{width:48%;padding:0 2% 20px 0;min-height:1px;}
+.feature_bannner{background-size:cover;}
+.price_bannner{background:#C7D7DE url(../images/price_banner_res.png) no-repeat center top;}
+.about_bottom_common h3.home_subtitle{text-align:center;font-size:45px;}
+.team_img{background-size:auto;background-position:center top;width:100%;margin:0 0 8px;}
+.feature_sec.feature_sec_home .feature_banner_left{width:65%;margin-right:2%;}
+.feature_sec.feature_sec_home .feature_ban_title{font-size:28px;line-height:40px;}
+.release_notes_inner{text-align:center;width:100%;height:auto;padding-top:100px;}
+.release_notes_inner div{width:auto;display:inline-block;}
+.release_notes_inner div > a{position:inherit;float:none;margin:10px;display:inline-block;}
+.form_bottom .input_bx{width:100%;}
+.testimonial_taxi_inner h4 span{font-size:20px;}
+.testimonial_taxi_inner h4{font-size:26px;}
+.testimonial_taxi_inner .clinet_says_rgt p{font-size:15px;line-height:22px;}
+.taxi_servicing ul li{width:50%;}
+.clinet_says_video{width:18%;margin-right:2%;}
+.clinet_says_rgt{width:79%;}
+.feature_lft,.feature_rgt{width:100%;}
+.feature_rgt{margin-top:50px;}
+.feature_rgt ul li{margin-bottom:50px;padding-left:80px;}
+.step_lft{display:inherit;width:100%;}
+.step_lft:before{display:none;}
+.step_rgt{display:inherit;}
+.rgt_lst{width:100%;margin-top:20px;padding:20px;}
+.lft_tit{width:100%;margin-top:20px;}
+.lft_tit p{width:100%;}
+.rgt_lst.last_lay{margin:20px 0 30px;padding:0 20px;}
+.land_thumb,.pav .bg_slid,.our_work{width:100%;}
+.category_show_slider{float:none;margin:0 auto;}
+.our_client_says{width:100%;padding:0;border-right:0;float:none;margin:0 auto;}
+.out_latest_news{width:100%;}
+.taxi_mobility_homepage_banner .banner_left{bottom:auto;width:56%;}
+.laddy_img{width:48%;left:50%;margin-left:-24%;}
+.pav .out_class{width:175% !important;}
+.Button.Block{padding:60px 9px;width:160px;background-size:100%;height:354px;}
+.mob_support{width:410px;}
+.pricing_banner .banner_left,.technology_banner .banner_left,.portfolio_banner .banner_left{width:100%;}
+.footer_products:nth-child(3){min-height:1px;}
+.footer_products:nth-child(4){min-height:150px;}
+.mob_support{width:80%;}
+.limousine_mobile_app ul li{width:44%;margin:5px 0;}
+}
+@media screen and (max-width:750px){.feature_sec.feature_sec_delivery .feature_banner_left{width:85%;}
+.video_outer{width:98%;}
+.fc_info h2{line-height:31px;}
+.fc_image_6 img, .fc_image{margin:0;}
+.case_study_inner p, .case_study_inner h2, .read_more{text-align:left;}
+.case_study_inner{text-align:center;width:100%;}
+}
+@media screen and (max-width:740px){.ban_title span{font-size:40px;}
+.ban_txt{font-size:20px;}
+.key_block_tab li b{font-size:20px;}
+.features_banner .fc_image, .features_banner .fc_info, .features_banner .fc_image_1{width:100%;margin:0;}
+.feature_content_inner .fc_block .fc_image.fc_image_1.fc_image_5 img, .feature_content_inner .fc_block .fc_image.fc_image_1.fc_image_3 img{float:none;}
+.demo_contact_links{margin-top:15%;}
+.fc_block.fc_block_full_view .demo_contact_links .view_demo_but{padding:10px 10%;}
+ul.three li,ul.four li{padding:0 10px;box-sizing:border-box;-webkit-box-sizing:border-box;float:none;display:inline-block;height:auto;line-height:normal;}
+ul.three li{width:32%;}
+ul.four li{width:23.5%;}
+ul.three li img,ul.four li img{max-width:100%;}
+.rgt_lst.last_lay ul.three li{height:auto;line-height:normal;}
+.download_docs a{width:auto;padding:0 15px;}
+.feature_bannner.feature_bannner_delivery .banner_left{width:67%;}
+.ver_mobile, .app_improvements{width:100%;margin:10px 0;}
+}
+@media screen and (max-width:685px){.solution_content li{text-align:center;}
+#info1{position:absolute;}
+.ver_mobile > img, .about_ndot_info{width:100%;}
+.banner_button{margin-bottom:10px;}
+.footer_products.footer_rgt{float:left;}
+.price_infotitle{font-size:25px;line-height:35px;}
+.about_bottom_common .portfolio_list .portfolio_info a.pricing_app{margin-right:8px;}
+.partener_ship_block p{margin:10px 0 0 0;}
+.partener_ship_block a{margin:0 0 30px 60px;}
+.solution_desc{display:block;width:auto;padding:0;}
+.home_appstore_lft, .home_appstore_rgt{float:left;width:100%;}
+.case_study_details_lft{float:left;margin-right:4%;width:55%;}
+.download_docu .pricing_list1{position:absolute;width:57%;}
+.taxi_service_outer.taxi_service_outer_home .home_subtitle1{width:100%;}
+.key_list li{width:90%;}
+.partener_ship_block a{margin:0;}
+.partener_ship_block a::before{background:none;}
+.case_study_inner > li{clear:both;float:none;display:inline-block;width:50%;margin:15px 1% 10px;}
+.footer_top_out,.mob_support strong{text-align:center;}
+.mob_support{float:none;display:inline-block;}
+.social_share{float:none;display:inline-block;margin-top:20px;}
+.pav .bg_slid::after{width:100%;}
+.pav .out_class{width:164% !important;}
+.mob_support a{float:none;display:inline-block;}
+.subscribe strong,.subscribe p{width:100%;text-align:center;margin:0;}
+.feature_sec .list_block.three li{width:48%;}
+.business_tit h2,.business_needs h2,.as_see_on h4{font-size:28px;}
+.latest_video ul li,.latest_video ul li:first-child,.home_blog_list,.home_blog_list:first-child{width:48%;margin:5px 1%;}
+.business_tit ul li{width:50%;margin:5px 0;}
+}
+@media screen and (max-width:620px){.hero-video{height:100%;display:none;}
+.taxi_bussiness_inner_bg{background:none;}
+.service_sub_title a{font-size:16px;}
+.meet_our_team_outer .member_one .team_pic, .meet_our_team_outer .member_two .team_pic, .meet_our_team_outer .member_three .team_pic, .meet_our_team_outer .member_five .team_pic, .meet_our_team_outer .member_six .team_pic, .meet_our_team_outer .member_seven .team_pic, .meet_our_team_outer .member_eight .team_pic, .meet_our_team_outer .member_nine .team_pic, .meet_our_team_outer .member_four .team_pic{width:85%;}
+.fb_like{top:60%;}
+.feature_banner_left{width:93%;}
+.mob_support{width:100%;}
+.social_share{width:100%;margin-top:15px;}
+.pav .out_class{width:150% !important;}
+.Button.Block{padding:60px 7px;width:130px;background-size:100%;height:300px;}
+.sld_rgt_img_1{width:66%;right:50%;top:20px;text-align:center;margin-right:-33%;}
+.sld_rgt_img{width:66%;left:50%;top:20px;text-align:center;margin-left:-33%;}
+.res_view{display:inline-block;}
+.sld_lft_content{width:96%;bottom:26px;}
+.feature_bannner .banner_left{width:94%;}
+.feature_bannner .banner_cont{margin-top:105px;}
+.feature_bannner.feature_bannner_delivery .banner_left{width:75%;}
+}
+@media screen and (max-width:600px){.case_study_details_rgt{width:40%;}
+.video_outer{top:0;}
+.feature_sec .key_block_outer{margin:0;}
+.feature_sec .list_block.three li{width:45%;}
+.inner_demo{margin-top:10px;}
+.feature_bannner.feature_bannner_medical .feature_banner_left{width:80%;}
+.feature_sec.feature_sec_delivery .featur_title{font-size:20px;line-height:34px;}
+.case_study_outer{width:95%;}
+.about_bottom_common .portfolio_list .portfolio_info a.pricing_app{margin-right:5px;}
+.country_list{width:100%;padding:20px 0 0;min-height:0;}
+.key_block.feature_bottom .support_info, .key_block.feature_bottom .support_info_last{width:auto;}
+.error404_info_block,.error404_img_block{width:98%;padding:0 1%;display:block;vertical-align:top;}
+.feature_bannner.feature_bannner_vehicle .feature_banner_block .feature_banner_left{width:80%;}
+.pricing_des{padding:5px 7px;font-size:12px;}
+.home_subtitle{font-size:35px;line-height:48px;}
+.country_list.country_list_rgt.usa, .country_list, .country_list.country_list_india{width:100%;margin:0;height:auto !important;margin-bottom:25px;border:none;}
+.country_list.country_list_aust{border-top:1px solid #ddd;border-bottom:1px solid #ddd;padding-bottom:20px;margin:0;}
+.country_list.country_list_rgt.usa .contact_with_partner, .country_list .contact_with_partner, .country_list.country_list_india .contact_with_partner{margin-top:25px;}
+.skype_add{margin:30px 0 30px 15px;}
+.portfolio_img{width:60%;}
+.portfolio_info{width:90%;}
+.taxi_bussiness_left,.taxi_bussiness_right{width:100%;margin:0;}
+.ban_title{font-size:34px;line-height:40px}
+.client_logos ul li{width:32%;margin-bottom:15px;}
+.pav .out_class{width:140% !important;}
+#client_video{top:14%;width:90%;margin-left:-45%;height:300px;}
+.feature_sec .left_sec, .feature_sec .right_sec{width:100%;margin:5px 0;padding:0;}
+.download_docs p{background:rgba(0, 0, 0, 0) url("../images/download_arr.png") no-repeat scroll right 6px/28% auto;padding-right:56px;}
+.limousine_mobile_app ul li{width:100%;padding:10px;box-sizing:border-box;}
+.limousine_passenger_det_lft, .limousine_passenger_det_rgt{width:100%;}
+.limousine_passenger_det_rgt.align-left,.limousine_passenger_det_rgt.align-center,.limousine_passenger_det_rgt.align-right{text-align:center;padding:10px 0;}
+.demo_page{width:53%;}
+.demo_contact_form{width:44%;padding:10px;right:5px !important;}
+.banner_left{width:100%;}
+.limosion_banner{background-position:left top;}
+}
+@media screen and (max-width:568px){.portfolio_img{margin-bottom:15px;}
+.feature_sec.feature_sec_home .feature_ban_title{font-size:25px;}
+.feature_bannner.feature_bannner_vehicle .feature_banner_block .feature_banner_left{width:80%;}
+.feature_sec .feature_bannner.feature_bannner_vehicle .feature_ban_title{font-size:25px;line-height:35px;}
+.case_study_details_lft{width:53%;}
+.product_list_nav ul li p{padding:0 20px;}
+.about_bottom_common .portfolio_list{text-align:center;}
+.about_bottom_common .portfolio_list li{width:100% !important;}
+.portfolio_list span{margin-top:10%;}
+.key_ben_icon{display:none;}
+.partnership_column p{width:37%;}
+.home_subtitle{font-size:35px;}
+.g_step_destitle{font-size:25px;}
+.taxi_service_content li{width:100%;padding:0 0 40px;}
+.g_steps_list li, .support_info{width:100%;padding:0 0 30px;margin:0;}
+.footer_products{width:100%;padding:0 0 20px 0;min-height:0;}
+.footer_products h6, .subscribe strong{margin:0;}
+.footer_products.footer_products_contact, .footer_products h6::before{width:100%;}
+.price_contact{padding:0 10px;font-size:15px;line-height:30px;}
+.partnership_popup_inner{width:90%;margin:0 auto;}
+.partnership_column.chgcapchafont, .partnership_column.partnership_captcha{width:100%;display:block;}
+#info1 .partner_ship_form .partnership_captcha_input{display:inline-block;margin:5px 0 0 0;width:56%;padding:10px 2%;}
+.demo_contact_popup_outer{width:230px;margin:0 0 0 -135px;}
+.demo_popup_frm_left{width:100%;padding:0;}
+.portfolio_info{padding:0;width:100%;}
+.about_bottom_common .portfolio_list .portfolio_info.portfolio_info_taxius a.pricing_app.play_store, .about_bottom_common .portfolio_list .portfolio_info a.pricing_app{float:none;display:inline-block;}
+.portfolio_img, .portfolio_info{margin:20px 0;}
+.feature_banner_left{width:92%;}
+.pav .out_class{width:130% !important;}
+.sld_rgt_img_1{width:96%;margin-right:-48%;}
+.sld_rgt_img{width:80%;margin-left:-40%;}
+.download_docs p{width:100%;background:none;padding:0 0 15px 0;}
+.footer_products:nth-child(4){min-height:1px;}
+.corporate_doc,.white_paper{width:49%;}
+.business_tit ul li{width:100%;margin:10px 0;}
+.feature_bannner.feature_bannner_delivery .banner_left{width:100%;}
+.supports b{width:100%;padding:10px 0;}
+.taxi_mobility_homepage_banner .banner_left{width:100%;}
+.taxi_mobility_banner{background-position:0 top;}
+.header_menus_common ul li .drop_down li a,.header_menus_common ul li a{line-height:28px;}
+.feature_sec .feature_bannner.feature_bannner_delivery{background-position:0 top;}
+}
+@media screen and (max-width:540px){.taxi_bussiness_right, .taxi_bussiness_left{width:100%;}
+.key_block_tab li{width:46%;}
+.about_left h1{font-size:30px;line-height:65px;width:100%;padding:0;float:left;}
+.taximobility_office{margin-top:15px;}
+.meet_our_team_outer .member_one .team_pic, .meet_our_team_outer .member_two .team_pic, .meet_our_team_outer .member_three .team_pic, .meet_our_team_outer .member_five .team_pic, .meet_our_team_outer .member_six .team_pic, .meet_our_team_outer .member_seven .team_pic, .meet_our_team_outer .member_eight .team_pic, .meet_our_team_outer .member_nine .team_pic, .meet_our_team_outer .member_four .team_pic{width:90%;}
+.our_client_says{width:450px;}
+.as_see_on ul li,.as_see_on ul li:first-child{width:33%;padding:0 8%;}
+.pav .out_class{width:120% !important;}
+.Button.Block{padding:29px 6px;width:110px;background-size:100%;height:232px;}
+.show_top_con{width:400px !important;margin-left:-200px !important;}
+.Button.Block{margin-top:110px !important;}
+.feature_banner_sec.feature_banner_sec_common .about_left h1{font-size:30px;line-height:40px;}
+}
+@media screen and (max-width:480px){.thank_you_subtitle{font-size:16px;line-height:20px;}
+.price_infobut .yellow_but{margin:5px 0 5px 10px;}
+.ban_title{font-size:24px;line-height:35px;}
+.ban_txt{font-size:16px;line-height:20px;}
+.taxi_mobility_banner{height:600px;}
+.laddy_img{width:54%;margin-left:-27%;}
+.taxi_mobility_homepage_banner .ban_title{font-size:23px;}
+.feature_sec .list_block.three li{width:100%;}
+.equal_height{height:auto !important;}
+.portfolio_info{text-align:left;}
+.case_study_details{text-align:center;}
+.pricing_foot .guide_but{font-size:15px;}
+.home_appstore{margin:170px 0px 0;}
+.partener_ship_block a:before{top:5px;}
+.header_menus_common ul li a.hlink.mm_link.submenu_arrow.parent{background:url("../images/res_arrow.png") no-repeat 230px 16px;}
+.header_menus_common .hnav{width:250px;right:0;}
+.banner_right_image img{width:100%;height:100%;}
+.show_cal_value{display:block;margin:20px 0 0;}
+.partener_ship_block p{text-align:center;font-size:25px;}
+.partener_ship_block a{padding:10px 15px;font-size:20px;}
+.thank_you_banner_left,.thank_you_banner_right{display:block;width:100%;padding:0 0 10px 0;}
+.price_calleft{display:block;width:100%;}
+.feature_sec.feature_sec_delivery .list_block.three li{width:96%;padding-bottom:20px;}
+.case_study_details_lft{margin:0;width:96%;text-align:left;}
+.case_study_details_rgt{float:none;text-align:center;margin-top:2%;display:inline-block;}
+.download_docu .pricing_list1{position:absolute;width:59.5%;}
+.clinet_says_video{width:60%;float:none;display:inline-block;}
+.ban_title span{font-size:30px;}
+.key_block_tab li b{font-size:16px;}
+.awesome_clients_rgt ul{margin-left:0;text-align:center;width:100%;}
+.awesome_clients_rgt ul li{display:inline-block;float:none;margin:0 0 3px;}
+.fc_image, .fc_info{margin:10px 0;width:85%;}
+.fc_image{margin:0;}
+.taximobility_office, .about_bottom_common .taximobility_outer .about_fact_list{width:100%;}
+.meet_our_team_outer .member_one .team_pic, .meet_our_team_outer .member_two .team_pic, .meet_our_team_outer .member_three .team_pic, .meet_our_team_outer .member_five .team_pic, .meet_our_team_outer .member_six .team_pic, .meet_our_team_outer .member_seven .team_pic, .meet_our_team_outer .member_eight .team_pic, .meet_our_team_outer .member_nine .team_pic, .meet_our_team_outer .member_four .team_pic{width:35%;margin-bottom:0;}
+.about_bottom_common .meet_our_team_outer ul li{width:100% !important;}
+.case_study_inner > li{clear:both;float:none;display:inline-block;width:70%;}
+.pricing_center, .feature_banner_left{width:100%;}
+.features_banner .fc_image, .features_banner .fc_info, .features_banner .fc_image_1{margin:15px 0;}
+.case_study_details_rgt{width:75%;}
+.demo_content_outer .fc_info{display:inline-block;margin:5% 0;padding:0;width:85%;text-align:center;}
+.testimonial_taxi_outer{height:auto;}
+.clinet_says_rgt{width:98%;}
+.footer_products{padding-bottom:15px;}
+.steps{display:table-row;}
+.step_lft,.step_rgt{display:inherit;border:none;}
+.step_lft::before{display:none;}
+.rgt_lst{width:100%;margin-top:20px;}
+.feature_lft ul li,.feature_rgt ul li{padding-left:55px;}
+.feature_lft ul li strong, .feature_rgt ul li strong{font-size:20px;}
+.feature_lft ul li p, .feature_rgt ul li p{font-size:16px;line-height:26px;}
+.hnav{top:48px;}
+.header_menus_common{position:relative;}
+.pav .out_class{width:120% !important;}
+.pav .bg_slid::after{display:none;}
+.our_client_says{width:400px;}
+.taxi_mobility_homepage_banner .banner_left{width:96%;}
+.hclient_description{overflow:hidden;}
+.pav .out_class{width:110% !important;}
+.business_tit ul li{width:100%;margin:10px 0 10px 0;}
+.case_butt a.orange_butt, .case_butt a.blue_butt,.taxi_mobility_homepage_banner .orange_butt, .taxi_mobility_homepage_banner .blue_butt{padding:0 10px;height:40px;line-height:40px;}
+.demo_butt{margin:8px 0 0 15px;}
+.sub_email{width:100%;margin:5px 0;}
+.feature_sec .featur_title{font-size:24px;}
+.sld_rgt_img{margin-left:-48%;width:96%;}
+ul.four li,ul.three li,.six_lst li{width:100%;padding:10px;margin:0;}
+ul.four li img,ul.three li img,.six_lst li img{margin:0;}
+.portfolio_banner .banner_cont{margin-top:100px;}
+.demo_page{width:100%;}
+.demo_contact_form{width:100%;padding:10px;right:5px !important;position:relative !important;margin-top:15px;}
+.home_blog_list{width:100%;margin:10px 0;}
+.our_work_right ul li{width:49%;}
+.latest_video ul li{width:100%;margin:10px 0;text-align:center;}
+.latest_video ul li,.latest_video ul li:first-child,.home_blog_list,.home_blog_list:first-child{width:100%;margin:5px 0;}
+.fc_info h2{font-size:24px;}
+.fc_info.fc_info_release_notes .pricing_des b{font-size:16px;padding:0;}
+}
+@media screen and (max-width:445px){.awesome_clients_rgt ul li{margin-bottom:10px;}
+.awesome_clients_lft, .awesome_clients_rgt{margin:0 0 35px;}
+.pricing_table_inner ul.pricing_table_feature span{padding-left:0;}
+.pricing_table_inner ul.pricing_table_feature span::before{right:20px;}
+.about_ceo, .about_cto{display:inline-block;margin:0 25px 20px;width:60%;}
+.form_bottom .input_bx textarea{width:96%;}
+.six_lst li{width:100%;margin:5px 0;}
+ul.four li{width:48%;margin:5px 0;}
+.pav .out_class{width:110% !important;}
+.bg_slid{padding:10px 30px 10px 0;}
+.our_client_says{width:380px;}
+.hclient_description{overflow:hidden;}
+.our_client_says h3, .out_latest_news h3,.business_tit h2,.business_needs h2,.as_see_on h4{font-size:24px;}
+.pav .out_class{width:100% !important;}
+.Button.Block{padding:23px 5px;width:90px;background-size:100%;height:190px;}
+}
+@media screen and (max-width:400px){.home_appstore .home_appstore_rgt a.iphone_passicon.last{margin-left:10px;}
+.home_appstore_lft, .home_appstore_rgt{width:93%;}
+.release_notes_inner{padding-top:20px;}
+.release_notes_outer .ddetail_title{font-size:25px;}
+.about_bottom_common .release_notes_outer .about_fact_list li{font-size:14px;}
+.about_ndot_info{width:auto;}
+.release_notes_inner{padding-top:100px;}
+.fc_info.fc_info_release_notes .pricing_des b{font-size:16px;}
+.home_appstore a:before{background:url(../images/home_appstore_res.png) -64px 0 no-repeat;width:60px;height:60px;margin:0 0 0 -30px;}
+.home_appstore .home_appstore_rgt a:before{background:url("../images/home_appstore_res.png") no-repeat 0 0;width:60px;height:60px;margin:0 0 0 -7px;}
+.home_appstore a{width:auto;padding-top:60px;}
+.taxi_service_outer.taxi_service_outer_home .home_subtitle1{margin-top:10px;width:100%;}
+.key_block_right, .key_block_left{margin:0;width:100%;}
+.key_list li{width:80%;}
+.fc_image{margin:20px 0;}
+.fc_info.fc_info_admin{margin-right:0;width:85%;}
+.about_bottom_common .key_list1 li{width:85% !important;}
+.meet_our_team_outer .member_one .team_pic, .meet_our_team_outer .member_two .team_pic, .meet_our_team_outer .member_three .team_pic, .meet_our_team_outer .member_five .team_pic, .meet_our_team_outer .member_six .team_pic, .meet_our_team_outer .member_seven .team_pic, .meet_our_team_outer .member_eight .team_pic, .meet_our_team_outer .member_nine .team_pic, .meet_our_team_outer .member_four .team_pic{width:40%;}
+.portfolio_img{width:80%;}
+.feature_banner_left{width:89%;}
+.feature_ban_title{font-size:25px;}
+.fc_block.fc_block_full_view .fc_image{width:90%;}
+.fc_block.fc_block_full_view{width:85%;}
+.body_non_bg.features_banner .feature_banner_left{width:87%;}
+.taxi_servicing ul li{width:100%;}
+.ban_title,.ban_title span{font-size:24px;line-height:35px;}
+.client_logos ul li{width:46%;margin:0 2% 15px 0;}
+.feature_txt{font-size:18pt;line-height:36px;padding:85px 0 0 80px;}
+.feature_txt::before{font-size:150pt;line-height:145px;left:0;}
+.pav .out_class{width:90% !important;}
+.our_work_right ul li{width:100%;margin:10px 0;}
+.our_client_says{width:350px;}
+.logo{width:170px;}
+.show_top_con{width:300px !important;margin-left:-150px !important;}
+.Button.Block{margin-top:120px !important;}
+.show_top_con h3{font-size:24px !important;}
+.show_top_con p{font-size:13px !important;}
+.blog_list_det{height:auto;padding:5px 10px;}
+#client_video{height:250px;}
+.download_docs a{font-size:14px;height:40px;margin-left:5px;line-height:40px;}
+.limousine_passenger_det_lft h3, .limousine_passenger_det_rgt h3{font-size:26px;}
+.limousine_mobile_app h2{font-size:28px;}
+.limousine_mobile_app ul li h4{font-size:16px;}
+.sld_lft_content h1{font-size:24px;}
+.case_study_inner > li{width:96%;}
+}
+@media screen and (max-width:380px){.key_block_tab li b{font-size:12px;}
+.feature_sec .right_sec h3, .feature_sec .left_sec h3{font-size:25px;}
+.pricing_table{width:99%;}
+.home_appstore{margin:110px 10px 0;}
+.key_block_tab li b{line-height:22px;}
+.home_appstore .iphone_passicon{margin:0 10px;}
+.feature_sec .list_block.three li{width:95%;}
+.partnership_column.partnership_captcha,.partnership_column.chgcapchafont{margin:5px 0;}
+#pemail_error{margin:0;}
+.partner_ship_form input[type="submit"]{margin:10px 0 0 0;}
+.price_callabel{width:150px;}
+.feature_sec .feature_bannner.feature_bannner_vehicle .feature_ban_title{font-size:20px;line-height:30px;}
+.feature_sec .feature_bannner.feature_bannner_vehicle .featuer_banner_info li{font-size:15px;}
+.feature_bannner.feature_bannner_vehicle .feature_banner_block .feature_banner_left{width:90%;}
+.feature_sec.feature_sec_delivery .feature_banner_left, .feature_bannner.feature_bannner_medical .feature_banner_left{width:100%;}
+.pricing_foot .guide_but{font-size:12px;}
+.testimonial_taxi_inner h4{font-size:30px;line-height:45px;}
+.testimonial_taxi_inner p{font-size:18px;line-height:26px;}
+.home_subtitle, .home_subtitle1{font-size:30px;}
+.release_notes_inner{padding-top:20px;}
+.pricing_head .pricing_des b, .pricing_head .pricing_list1 b, .pricing_head .pricing_list2 b{font-size:17px;line-height:30px;}
+.pricing_head .show_price_month b{font-size:25px;}
+.company_chat{top:100px;}
+.partner_ship_form li, .company_chat_form .company_chat_title:hover{padding:0;}
+.company_chat_form input.chat_submit, .company_chat_form_right{width:250px;}
+.about_bottom_common .portfolio_list .portfolio_info a.pricing_app{margin-right:15px;}
+.feature_sec .inner_demo .yellow_but{margin-bottom:15px;margin:0 10px;padding:0 20px;line-height:35px;}
+.feature_sec .center_inner .featur_title{font-size:20px;margin:0;}
+.feature_sec .left_sec, .feature_sec .right_sec{margin-bottom:25px;width:95%;}
+.pricing_foot .guide_but{font-size:14px;padding:5px 10px;line-height:20px;}
+.pricing_list1, .pricing_head .pricing_list2{padding:10px 3px;}
+.company_chat_form .company_chat_title{left:auto;right:0;}
+.partnership_column{display:block;width:100%;}
+#info1 .partnership_column input{margin:10px 0;width:89%;}
+.download_docu .pricing_list1{position:absolute;width:59%;}
+.clinet_says_video img, .testimonial_taxi_inner, .claculate_popup{padding:0 10px;width:96%;}
+.clinet_says_video{display:inline-block;float:none;padding:0;width:90%;margin:15px 0;}
+.pricing_table_inner ul.pricing_table_feature li{width:95%;}
+.pricing_table_inner ul.pricing_table_feature span::before{right:-100px;}
+.pricing_table_inner ul.pricing_table_feature span{width:80%;}
+.pricing_table_inner ul li span{font-size:11px;}
+.about_left h1{font-size:25px;width:100%;padding:0;float:left;line-height:65px;}
+.awesome_clients_lft h5{font-size:34px;}
+.taxi_service_outer.taxi_service_outer_home .home_subtitle1, .key_block.key_block_featured h2{font-size:16px;width:85%;line-height:25px;}
+.feature_bannner.feature_bannner_vehicle .featuer_banner_info span{color:#333333;font-size:12px;}
+.mob_support a{width:100%;margin:0 0 10px 0;display:inline-block;box-sizing:border-box;}
+.mob_support a img{max-width:98%;}
+ul.three li,ul.four li{width:100%;margin:5px 0;}
+.lft_tit p{text-align:center;}
+.pav .out_class{width:100% !important;}
+.pav .bg_slid{width:75%;}
+.bg_slid{width:85%;}
+.taxi_mobility_homepage_banner .ban_title{font-size:20px;}
+.taxi_mobility_homepage_banner .ban_txt{font-size:16px;}
+.laddy_img{width:72%;margin-left:-36%;}
+.Button.Block{padding:17px 4px;width:70px;background-size:100%;height:147px;}
+.captcha_box{width:35%;}
+.contact_captcha .captcha_box input[type="text"]{width:100%;box-sizing:border-box;height:40px;}
+.our_client_says h3, .out_latest_news h3,.business_tit h2,.business_needs h2,.as_see_on h4{font-size:21px;}
+.contact_captcha #chgcapcha{padding:0;}
+}
+@media screen and (max-width:360px){.meet_our_team_outer .member_one .team_pic, .meet_our_team_outer .member_two .team_pic, .meet_our_team_outer .member_three .team_pic, .meet_our_team_outer .member_five .team_pic, .meet_our_team_outer .member_six .team_pic, .meet_our_team_outer .member_seven .team_pic, .meet_our_team_outer .member_eight .team_pic, .meet_our_team_outer .member_nine .team_pic, .meet_our_team_outer .member_four .team_pic{width:45%;}
+.pricing_table_inner ul.pricing_table_feature span::before{right:-70px;}
+.feature_banner_left{width:88%;}
+.feature_sec .feature_ban_title{color:#000000;font-size:24px;text-align:center;}
+.our_client_says{width:300px;}
+.logo{width:150px;}
+}
+@media screen and (max-width:330px){.price_calleft{width:100%;}
+.price_callabel{width:100%;text-align:left;}
+.price_calinput{width:100%;text-align:right;padding:0 0 5px 0;}
+.feature_banner_left{width:87%;}
+}
+@media screen and (max-width:320px){.pricing_table_inner ul.pricing_table_feature span::before{right:-70px;}
+.pricing_table_inner ul.pricing_table_feature span{width:200px;}
+}

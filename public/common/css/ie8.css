@@ -1,0 +1,42 @@
+.span10{float:left; width: 970px;}
+.row-fluid[class*="span"]{min-height: 0px;}
+#taxi_detail{width: 35.5%;}
+.feature_bannner > img{display: block; height: 100%;}
+.feature_sec.feature_sec_taxi .feature_banner_block{padding: 0; margin: -350px auto;} 
+.feature_sec.feature_sec_home .feature_banner_block .feature_banner_left{display: none;}
+.feature_bannner{background-image: url("../images/features_banner.jpg");}
+.feature_sec .feature_bannner .feature_banner_left .featuer_banner_info li, .feature_sec .feature_bannner .feature_banner_left .feature_ban_title{color:#fff;}
+
+.body_non_bg.features_banner .feature_banner_left{background:#fff;}
+
+.about_left h1{line-height:65px;}
+
+.taxi_mobility_banner{background:url("../images/slider_bg.png") no-repeat;}
+.footer_rgt ul li a:hover{opacity: 0.7;filter:alpha(opacity=70);}
+#taxi_detail{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#eeeeee',GradientType=1 ); /* IE6-9 */}
+.taxt_response{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f4f4f4',GradientType=0 ); /* IE6-9 */}
+.taxt_response_det{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f4f4f4',GradientType=0 ); /* IE6-9 */}
+.price_contact{filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ecb600', endColorstr='#dd7a00',GradientType=0 ); /* IE6-9 */    }
+.thank_you_button:hover, .price_contact:hover, .view_demo_but:hover{filter:alpha(opacity=90);}
+.feature_sec .conta_link:hover, .popup_button_bg:hover, .home_appstore a:hover, .yellow_but:hover, .guide_but:hover{filter:alpha(opacity=80);}
+.product_right_content ul li .editor_bg_part select{margin-top:7px;}
+
+.key_block_right span{display: block;}
+
+.topelement, .portfolio_img, .banner_left, .banner_app, .key_block_right, .key_block_left{visibility:visible;}
+.pricing_table_inner ul.pricing_table_feature li{padding:12px;}
+.pricing_table_inner ul.pricing_table_feature span{padding-bottom:1px;}
+.pricing_table_inner ul li{width:96%;}
+.pricing_table_inner ul.pricing_table_feature li.pricing_contact{border-bottom:none;}
+
+.awesome_clients_inner, .case_study_outer{margin:6% auto 0;}
+
+.app_improvements .about_fact_list li:before{background:none;}
+
+.fade-in{opacity: 1 !important;}
+body{overflow: hidden;}
+
+.fb_like ul li .fb{background: #50689e;}
+.fb_like ul li .tw{background: #4e77a8;}
+.fb_like ul li .gp{background: #b4432e;}
+.fb_like ul li .in{background: #056699;}

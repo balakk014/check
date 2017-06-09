@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Splash Act -->
+    <string name="no_sufficient_amount">ليس لديك مبلغ كاف!</string>
+    <string name="up_coming">جاري التنفيذ</string>
+    <string name="english">English</string>
+    <string name="russian">русский</string>
+    <string name="arabic">العربية</string>
+    <string name="turkey">Türk</string>
+    <string name="frence">French</string>
+    <string name="german">Deutsch</string>
+    <string name="check_net_connection">تحقق من اتصال الإنترنت الخاص بك</string>
+
+    <string name="referal_code">أدخل رمز الإحالة رحلة</string>
+    <string name="Hreferal">كود الإحالة</string>
+    <string name="referal_amount">المبلغ Referal</string>
+    <string name="trip_amount">المبلغ رحلة</string>
+    <string name="payment_pending">طلب الدفع في Pending-</string>
+
+    <string name="please_choosedate">الرجاء اختيار التاريخ الصحيح</string>
+
+    <!-- Login Act -->
+    <string name="done"> موافق </string>
+    <string name="s_signin"> تسجيل الدخول</string>
+    <string name="signin"> تسجيل الدخول</string>
+    <string name="enter_your_mobile_number"> أدخل رقم هاتفك المحمول</string>
+    <string name="check_internet">اتصال ملقم المهلة</string>
+    <string name="text_ok"> موافق </string>
+    <string name="login_success">قمت بتسجيل الدخول بنجاح في لTaximobility.</string>
+    <string name="head_forgot_password"> نسيت كلمة المرور </string>
+    <string name="forgotpswd">  نسيت كلمة المرور? </string>
+    <string name="confirmlogout">هل أنت متأكد أنك تريد الخروج؟</string>
+    <string name="confirm_complete">هل أنت متأكد أنك تريد إكمال الرحلة؟</string>
+    <!-- Dashboard Act -->
+    <string name="app_name">Taximobility</string>
+    <string name="please_click_back_again_exit">الرجاء الضغط العودة مرة أخرى للخروج</string>
+    <string name="m_upcoming">رحلات أكد</string>
+    <string name="m_statistics"> الإحصائيات </string>
+    <string name="my_status">مكاني</string>
+    <string name="m_ongoing"> الرحلة الحالية </string>
+    <string name="m_me"> الملف الشخصي </string>
+    <string name="m_logout">تسجيل الخروج</string>
+
+    <!-- UpcomingtripAct -->
+    <string name="you_are_in_trip">آسف، انت في رحلة</string>
+    <string name="pickup_txt">امسك</string>
+    <string name="pickuploc"> مكان تحميل الركاب</string>
+    <string name="droploc"> حفظ الموقع </string>
+    <string name="book_time">حجز الوقت</string>
+    <string name="p_passname"> اسم الركاب </string>
+    <string name="p_nopass"> عدد الركاب </string>
+    <string name="p_pickdate"> لاقط تاريخ </string>
+    <string name="p_picktime"> الوقت </string>
+
+    <!-- Ongoing Trip Act -->
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="cancel_in_going_trip">في حالة إلغاء الرحلة، سوف يتم الكشف رسوم على إلغاء من بطاقتك!</string>
+
+    <!-- Profile Act -->
+    <string name="profile_image">صورة البروفيل</string>
+    <string name="choose_an_image">اختيار صورة</string>
+    <string name="gallery">رواق</string>
+    <string name="camera">كاميرا</string>
+    <string name="submit"> إرسال </string>
+    <string name="pwd_min">وينبغي أن تكون كلمة المرور الحد الأدنى 6 أحرف</string>
+    <string name="pwd_same">لا تطابق كلمة المرور وتأكيد كلمة المرور</string>
+    <string name="cancell"> إلغاء </string>
+    <string name="image_failed">يرجى اختيار صورة من مسار صالح (مجلد المعرض)!</string>
+    <string name="first"> الأول </string>
+    <string name="last"> الأخير </string>
+    <string name="email"> البريد الإلكتروني </string>
+    <string name="mobile"> رقم الجوال </string>
+    <string name="password"> كلمة المرور </string>
+    <string name="confimpswd"> تأكيد كلمة المرور </string>
+    <string name="bank"> البنك </string>
+    <string name="bankaccno"> رقم الحساب البنكي</string>
+    <string name="bankstmt">استخدام الحساب البنكي للدفع بدون عمولة</string>
+    <string name="no_changes">لم تحدث تعديلات جعلت!</string>
+
+    <!-- My Status Act -->
+    <string name="you_are_here">أنت هنا!</string>
+    <string name="current_location">الموقع الحالي</string>
+
+
+    <!-- invite friend -->
+    <string name="invite_sms">دعوة عن طريق الرسائل القصيرة</string>
+    <string name="invite_email">دعوة عبر البريد الإلكتروني</string>
+    <string name="invite_fb">الفيسبوك</string>
+    <string name="invite_whatsapp">ما التطبيق</string>
+    <string name="invite_twitter">تغريد</string>
+    <string name="invite_sharevia">سهم عن طريق</string>
+    <string name="invite_frdrides">عندما يركب أحد الأصدقاء مع التعليمات البرمجية</string>
+    <string name="invite_youearn">يمكنك كسب</string>
+    <string name="invite_friend">دعوة صديق</string>
+    <!-- Notification Act -->
+    <string name="name">الاسم</string>
+    <string name="min">دقيقة</string>
+    <string name="sec">ثانية</string>
+    <string name="minutestxt">دقيقة</string>
+    <string name="mins">دقائق</string>
+    <string name="secondstxt">ثواني</string>
+    <string name="accept"> موافق </string>
+    <string name="decline"> رفض </string>
+    <string name="Trip_Request">طلب رحلة</string>
+    <string name="seconds_to_left">ثانية من نهاية المباراة لقبول</string>
+
+    <!-- AssignTaxi Act -->
+    <string name="m_assigned"> بيانات سيارة الأجرة </string>
+    <string name="taxi_no">سيارات الأجرة لا</string>
+    <string name="taxi_capacity">القدرة سيارة أجرة</string>
+    <string name="taxi_speed">سيارات الأجرة سرعة / ساعة</string>
+    <string name="taxi_luggage">ماكس الأمتعة / كغ</string>
+
+    <!-- Fare calculator -->
+    <string name="actual_distance">المسافة الإجمالية</string>
+    <string name="waiting_cost"> تكلفة وقت الانتظار </string>
+    <string name="tax"> (الضرائب</string>
+    <string name="total_amount"> الإجمالي</string>
+    <string name="paymentby"> الدفع عن طريق </string>
+    <string name="cash"> نقداً </string>
+    <string name="card"> بطاقة الائتمان </string>
+    <string name="uncard"> بدون بطاقة الائتمان </string>
+    <string name="account"> حساب </string>
+    <string name="fare_calculator">حاسبة  الأجرة</string>
+    <string name="ent_valid_amt">أدخل كمية صحيح</string>
+    <string name="f_km"> كم </string>
+    <string name="discount">(خصم </string>
+    <string name="trip_fare">أجرة الرحلة</string>
+    <string name="wallet_amount">مبلغ المحفظة استخدام</string>
+    <string name="pay_amount">المبلغ لدفع</string>
+
+    <!-- payuncard_lay -->
+    <string name="p_cardno"> بطاقة لا **** **** **** XXXX</string>
+    <string name="p_expiry"> انتهاء MM / YY </string>
+    <string name="p_cvv"> CVV 3 أرقام </string>
+    <string name="heading_payuncard">دفع مع بطاقة غير مسجلة</string>
+    <string name="back"> موافق </string>
+    <string name="ent_ccard_no">بإدخال رقم بطاقة الائتمان لا</string>
+    <string name="ent_chk_ccard">يرجى التحقق من رقم بطاقة الائتمان الخاصة بك</string>
+    <string name="ent_exp_date">أدخل تاريخ انتهاء الصلاحية</string>
+    <string name="enter_the_valid_expiry_date">أدخل تاريخ انتهاء صحيح</string>
+    <string name="ent_exp_month_gt">وينبغي أن يكون الشهر انتهى المساواة وأعظم من الشهر الحالي</string>
+    <string name="ent_exp_year_gt">يجب أن تكون على قدم المساواة وانتهى العام أكبر من العام الحالي</string>
+    <string name="ent_cvv">أدخل CVV لا</string>
+    <string name="ent_chk_cvv">يرجى التحقق من عدد CVV الخاص بك</string>
+
+    <!-- Job Done Act -->
+    <string name="trip_completed">اكتملت الرحلة</string>
+    <string name="trip_id">رقم العملية</string>
+    <string name="p_congrats"> دفع الانتهاء </string>
+    <string name="p_main"> العودة إلى الرئيسية </string>
+
+    <!-- Statistics Act -->
+    <string name="total"> الانتهاء الكلي اليوم وظائف</string>
+    <string name="reject"> رفض</string>
+    <string name="timedriven"> بزمن</string>
+    <string name="earning">الوم العائد </string>
+    <string name="help"> مساعدة </string>
+    <string name="nodata"> لا توجد بيانات </string>
+    <string name="cancelled">إلغاء</string>
+    <string name="totalearning">إجمالي الأرباح</string>
+    <string name="totaltrip">مجموع رحلة</string>
+
+    <!-- Ongoing Act -->
+    <string name="device_not_support_map">جهاز لا يدعم خريطة إصدار!</string>
+    <string name="you_dont_have_passenger">لديك سيرة ذاتية للركاب</string>
+    <string name="invalid_mobile_number">رقم الجوال غير صالح</string>
+    <string name="stop_waiting">توقف الانتظار</string>
+    <string name="start_waiting">بداية الانتظار</string>
+    <string name="heading_ongoing">بانتظار الراكب</string>
+    <string name="pass_onboard">تبدأ رحلة</string>
+    <string name="ongoing_journey">رحلة في التقدم</string>
+    <string name="arvd_destination">نهاية رحلة</string>
+    <string name="pickup_passenger">ركاب بيك أب</string>
+    <string name="ive_arrived">السائق وصل</string>
+
+    <!-- activity main -->
+    <string name="connect_error">خطأ في اتصال الشبكة!</string>
+    <string name="please_wait">يرجى الانتظار</string>
+    <string name="app_namemanifest">Taximobility سائق</string>
+    <string name="m_acc"> حساب </string>
+    <string name="m_home"> منزل </string>
+    <string name="c_tryagain"> حاول مرة أخرى! </string>
+    <string name="select_language">اختر اللغة</string>
+
+    <!-- Splash Act -->
+    <string name="gps_is_settings">GPS هو إعدادات</string>
+    <string name="gps_is_not_enabled">لم يتم تمكين GPS. هل ترغب في الذهاب إلى قائمة الإعدادات؟</string>
+    <string name="menu_settings">الإعدادات</string>
+    <string name="location_disable">موقع خدمات المعاقين</string>
+    <string name="location_enable">يرجى تمكين خدمات الموقع.</string>
+    <string name="enable">تمكين</string>
+    <string name="cancel"> إلغاء </string>
+
+    <!-- Login Act -->
+    <string name="phone"> رقم الهاتف المحمول </string>
+    <string name="t_ok"> حسنا </string>
+    <string name="t_success"> النجاح </string>
+    <string name="enter_mobile_number">أدخل رقم الجوال</string>
+    <string name="enter_the_password">أدخل كلمة المرور</string>
+
+    <!-- HomeActivity -->
+    <string name="trackmytrip">تتبع رحلتي</string>
+    <string name="myjobs">بلدي وظائف</string>
+    <string name="locating_you">تحديد مكان لك ...!</string>
+    <string name="currenttxt">موقعك الحالي</string>
+    <string name="statistics">إحصائيات</string>
+    <string name="language_settings">إعدادات اللغة</string>
+
+    <!-- Profile Act -->
+    <string name="bankcomm"><nowiki>*</nowiki></string>
+    <string name="changeimage"><u>تغيير صورة</u></string>
+
+    <!-- JobsAct -->
+    <string name="trip_history">التاريخ رحلة</string>
+    <string name="trip_details">تفاصيل الرحلة</string>
+    <string name="taxi_detailsu"><u>فاصيل الرحلة</u></string>
+    <string name="pending_booking">في انتظار الحجز</string>
+    <string name="past_booking">الحجز الماضي</string>
+    <string name="no_booking">لا يوجد الحجوزات</string>
+    <string name="accepter_txt">قبلت</string>
+    <string name="time_txt">مرة</string>
+    <string name="drop_txt">انخفاض</string>
+
+    <!-- Notification Act -->
+    <string name="accept_time">30 ثانية من نهاية المباراة لقبول</string>
+
+    <!-- Ongoing Act -->
+    <string name="waiting_time_txt">بداية الانتظار</string>
+    <string name="picklocation"> وانيت الموقع </string>
+    <string name="notes">لاندمارك</string>
+    <string name="you">أنت</string>
+
+    <!-- Fare calculator -->
+    <string name="Tax"> الضرائب(0%) </string>
+    <string name="tax_percent"> %) </string>
+
+    <!-- trip details -->
+    <string name="amount"> كمية </string>
+    <string name="payment"> دفع </string>
+    <string name="jobref"> المرجع وظيفة </string>
+    <string name="t_passname">اسم الركاب</string>
+    <string name="t_pickloc">اختر موقعا</string>
+    <string name="t_picktime">الوقت بيك اب</string>
+    <string name="t_droploc">قطرة الموقع</string>
+    <string name="t_droptime">قطرة وقت</string>
+    <string name="t_distance">بعد</string>
+    <string name="t_tripduration">مدة الرحلة</string>
+    <string name="message"> رسالة </string>
+    <string name="ok">حسنا</string>
+    <string name="waiting_time">وقت الانتظار</string>
+    <string name="upload_your_image"> تحميل الصور الخاصة بك </string>
+    <string name="file_upload">تحميل الملفات؟</string>
+    <string name="choose">اختر صورة</string>
+    <string name="please_choose">اختر صورة</string>
+    <string name="call_passeneger">ركاب\n الدعوة</string>
+    <string name="total_km">مجموع KM</string>
+    <string name="taxi_details">سيارات الأجرة تفاصيل</string>
+    <string name="taxi_model">سيارات الأجرة نموذج</string>
+    <string name="taxi_number">عدد سيارات الأجرة</string>
+    <string name="taxi_assigndate">سيارات الأجرة الموعد المحدد</string>
+    <string name="taxi_assignfrom">سيارات الأجرة المخصصة من التسجيل</string>
+    <string name="taxi_assignto">سيارات الأجرة المخصصة إلى تاريخ</string>
+    <string name="waiting_fare">انتظار أجرة</string>
+
+    <!-- version upadte -->
+    <string name="version_up_message">هناك نسخة جديدة من Taximobility المتاحة، هذا الإصدار لم يعد معتمدا.</string>
+    <string name="version_up_title">التحديث</string>
+    <string name="version_up_now">تحديث الان</string>
+    <string name="version_up_later">فيما بعد</string>
+
+    <!-- add newly -->
+    <string name="hide">إخفاء</string>
+    <string name="show">تبين</string>
+    <string name="ontxt">على</string>
+    <string name="offtxt">إيقاف</string>
+    <string name="z_req_amount">المبلغ المطلوب</string>
+    <string name="z_req_date">تاريخ طلب</string>
+    <string name="z_status">الحالة</string>
+    <string name="z_history">التاريخ محفظة</string>
+    <string name="z_view">رأي</string>
+    <string name="z_datetime">التاريخ والوقت</string>
+    <string name="withdraw">سحب</string>
+    <string name="withdrawu">سحب</string>
+    <string name="with_draw">هل أنت متأكد تريد الانسحاب </string>
+    <string name="invitefriends">ادعو أصدقاء</string>
+    <string name="invitefriendsu"><u>ادعو أصدقاء</u></string>
+    <string name="save">حفظ</string>
+    <string name="pickup1">امسك</string>
+    <string name="passenger_details">تفاصيل الركاب</string>
+    <string name="enough_wallet">والتوازن محفظتك منخفض جدا</string>
+    <string name="wallet_history">التاريخ محفظة</string>
+    <string name="no_data">لاتوجد بيانات</string>
+    <string name="back_home">العودة إلى المنزل</string>
+    <string name="forgotpassw">هل نسيت كلمة المرور</string>
+    <string name="enter_the_mobile_number">الرجاء إدخال رقم هاتفك المحمول
+</string>
+    <string name="excuse_me_brevity"> لي عذر الإيجاز ، اشترك مع إحالة قانون </string>
+    <string name="and_earn"> وكسب</string>
+    <string name="download_from">حمل التطبيق من :</string>
+
+    <string name="referral">إحالات</string>
+    <string name="trip">رحلة</string>
+
+
+    <!-- Withdraw view -->
+    <string name="withdraw_view">سحب طلب مشاهدة</string>
+    <string name="request_id">طلب معرف</string>
+    <string name="brand_type">نوع العلامة التجارية</string>
+    <string name="company_name">اسم الشركة</string>
+    <string name="withdraw_amount">سحب مبلغ</string>
+    <string name="waiting_tcost">وقت الانتظار التكلفة (1 ساعة)</string>
+    <string name="status_details">تفاصيل الوضع</string>
+    <string name="status">الحالة</string>
+    <string name="payment_mode">طريقة الدفع</string>
+    <string name="transaction_id">رقم المعاملات</string>
+    <string name="Comments">تعليقات</string>
+
+    <string name="Referalwithdraw_request">Referal سحب طلب</string>
+    <string name="payment_availed">دفع نفع</string>
+    <string name="payment_request">طلب الدفع في الانتظار</string>
+
+    <string name="filter">فلتر</string>
+    <string name="l_fromdate"> من التاريخ </string>
+    <string name="l_todate"> ان يذهب في موعد </string>
+
+    <string name="a_delete">حذف</string>
+    <string name="a_enterexpense">الرجاء إدخال النفقة هنا</string>
+    <string name="above">فوق</string>
+    <string name="accountmsg">نحن OLY استخدام البريد الإلكتروني ورقم الهاتف المحمول لإرسال التحديثات على التطبيق والبدء في ركوب.</string>
+    <string name="add">إضافة</string>
+    <string name="addcard">إضافة بطاقة جديدة</string>
+    <string name="address">عنوان:</string>
+    <string name="address_output_string">٪ 1 $ s من٪ 2 $ s من٪ 3 $ الصورة</string>
+    <string name="amount_left">المبلغ المتبقي:</string>
+    <string name="app_buildversion">الإصدار</string>
+    <string name="bankmsg">هناك حاجة إلى البنك الذي تتعامل معه A / C لا لدفع اللجنة التي كنت قد حصلت عن طريق بطاقة.</string>
+    <string name="below">أدناه</string>
+    <string name="c_chnpwd">تغيير كلمة السر</string>
+    <string name="c_conpwd">تأكيد كلمة المرور</string>
+    <string name="c_newpwd">كلمة السر الجديدة</string>
+    <string name="c_oldpwd">كلمة المرور القديمة</string>
+    <string name="call">مكالمة</string>
+    <string name="canceling_taxi">طلب إلغاء</string>
+    <string name="Colon">:</string>
+    <string name="confirm_call">هل أنت متأكد من انك تريد الاتصال الركاب؟</string>
+    <string name="confirmation_password_mismatch_with_password">كلمة المرور وتأكيد كلمة المرور لا تتطابق</string>
+    <string name="dist_fare">المسافة أجرة</string>
+    <string name="droplocnew">قطرة الموقع (اختياري)</string>
+    <string name="earnings">أرباح</string>
+    <string name="edit">تحرير</string>
+    <string name="end_trip">نهاية رحلة</string>
+    <string name="ent_remarks">أدخل تصريحات</string>
+    <string name="enter_dest">أدخل الوجهة</string>
+    <string name="enter_pickup">أدخل لاقط</string>
+    <string name="enter_the_card_number">الرجاء إدخال رقم بطاقتك</string>
+    <string name="enter_the_confirmation_password">يرجى إدخال كلمة السر تأكيد الحجز</string>
+    <string name="enter_the_email">يرجى إدخال البريد الإلكتروني الخاص بك</string>
+    <string name="enter_the_expiry_date">يرجى إدخال تاريخ انتهاء الصلاحية الخاص بك</string>
+    <string name="enter_the_first_name">الرجاء إدخال الاسم الأول</string>
+    <string name="enter_the_last_name">رجاء ادخل اسمك الاخير</string>
+    <string name="enter_the_new_password">يرجى إدخال كلمة المرور الجديدة</string>
+    <string name="enter_the_old_password">يرجى إدخال كلمة المرور القديمة</string>
+    <string name="enter_the_valid_card_number">الرجاء إدخال رقم بطاقة سارية المفعول</string>
+    <string name="enter_the_valid_email">الرجاء إدخال بريد إلكتروني صحيح</string>
+    <string name="Estimated">القيمة المقدرة</string>
+    <string name="even_charge">رسوم مساء</string>
+    <string name="f_currsymbol">$</string>
+    <string name="f_float">0.0</string>
+    <string name="f_forgotpwd">هل نسيت كلمة المرور</string>
+    <string name="f_hello">مرحبا :</string>
+    <string name="f_sampledate">الجمعة 11 أبريل، 2013</string>
+    <string name="f_timetoreach">الوقت للوصول</string>
+    <string name="facebook_app_id">1571712899825293</string>
+    <string name="facebook_app_name">Taximobility</string>
+    <string name="fare2">123</string>
+    <string name="fare_details">تفاصيل أجرة</string>
+    <string name="farecal">أجرة</string>
+    <string name="fblink">facebook.com/Taxi التنقل ركوب</string>
+    <string name="fetching_address">عنوان جلب</string>
+    <string name="followtw">اتبعنا على تويتر</string>
+    <string name="get_address">الحصول على عنوان</string>
+    <string name="get_location">الحصول على الموقع</string>
+    <string name="goal">هدف</string>
+    <string name="headtitle">بطاقة من أي مكان / ن تاكسي التنقل Ride.com</string>
+    <string name="history">التاريخ</string>
+    <string name="Historystatus">اختيار الوضع</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="hour">ساعة</string>
+    <string name="IO_Exception_getFromLocation">استثناء IO في Geocoder.getFromLocation ()</string>
+    <string name="Last2trip">مشاركة 2 رحلات</string>
+    <string name="Last3trip">مشاركة 3 رحلات</string>
+    <string name="Lasttrip">الرحلة الأخيرة</string>
+    <string name="latitude_longitude">٪ 1 $ .8f،٪ 2 $ .8f</string>
+    <string name="latlng">خطوط الطول / العرض:</string>
+    <string name="legal">قانوني</string>
+    <string name="likefb">اعجب بنا على الفيسبوك</string>
+    <string name="link">صلة</string>
+    <string name="m_about">حول</string>
+    <string name="m_help">مساعدة</string>
+    <string name="m_payment">خيار الدفع</string>
+    <string name="m_sales">إدارة المبيعات</string>
+    <string name="m_target">هدف</string>
+    <string name="m_tellfrd">اخبر صديق</string>
+    <string name="m_timer">00.00.00</string>
+    <string name="min_fare">دقيقة أجرة</string>
+    <string name="nit_fare">رسوم يلة</string>
+    <string name="nit_fare_to">إلى</string>
+    <string name="offline">غير متصل</string>
+    <string name="old_password_and_newpassword_are_same">كلمة المرور القديمة وكلمة المرور الجديدة هي نفس</string>
+    <string name="online">على الانترنت</string>
+    <string name="otherdiverlist">قائمة السائقين أخرى</string>
+    <string name="OTP">مكتب المدعي العام (المرسلة عبر الرسائل القصيرة)</string>
+    <string name="p_confirm">أكد</string>
+    <string name="paid_by">دفعت من قبل</string>
+    <string name="password_min_character">يجب أن تكون كلمة المرور على الأقل 6 أحرف</string>
+    <string name="pickup">اختر موقعا</string>
+    <string name="pickup_">امسك</string>
+    <string name="plateno">لوحة لا</string>
+    <string name="please_check_internet">الرجاء التحقق من اتصال الإنترنت الخاص بك</string>
+    <string name="policy">سياسة الخصوصية</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="promo_code">رمز ترويجي</string>
+    <string name="promo_code_empty">كنت دون  ر تطبيق أي الر  مز الترويجي</string>
+    <string name="r_date">تاريخ</string>
+    <string name="r_distance">المسافة في KM</string>
+    <string name="r_drop">قطرة الموقع</string>
+    <string name="r_fare">أجرة</string>
+    <string name="rateapp">معدل لنا في المتجر</string>
+    <string name="referal">Refferal</string>
+    <string name="remarks">ملاحظات</string>
+    <string name="resend">لم تحصل إعادة إرسال</string>
+    <string name="round_trip">جولة</string>
+    <string name="s_amount">يرجى إدخال الكمية</string>
+    <string name="s_fromdate">من التاريخ</string>
+    <string name="s_hypen">-</string>
+    <string name="s_pass_max">يجب أن تكون كلمة المرور أقل من 32 حرفا</string>
+    <string name="s_period">فترة</string>
+    <string name="s_recurring">تناوبي</string>
+    <string name="s_register">تسجيل</string>
+    <string name="s_settarget">لديك مجموعة هدفا يوميا</string>
+    <string name="s_todate">ان يذهب في موعد</string>
+    <string name="s_viewtarget">مشاهدة الهدف</string>
+    <string name="seconds">00</string>
+    <string name="select_date_time">حدد التاريخ الوقت</string>
+    <string name="selectacc">حدد حساب</string>
+    <string name="sendmail">ارسل بريد</string>
+    <string name="sendme">ارسل لي الإخطار</string>
+    <string name="shift">تغير</string>
+    <string name="spanish">الاسبانية</string>
+    <string name="start_trip">تبدأ رحلة</string>
+    <string name="start_updates">بداية التحديثات</string>
+    <string name="stop_updates">توقف التحديثات</string>
+    <string name="street_pickup">الشارع بيك أب</string>
+    <string name="string_tips">نصائح</string>
+    <string name="sub_total">المجموع الفرعي</string>
+    <string name="t_sreferral">شكرا لك على الإحالة</string>
+    <string name="taxicompany">شركة سيارات الأجرة</string>
+    <string name="taxitype">نوع التاكسي</string>
+    <string name="tdvlno">TDVL NO</string>
+    <string name="termcond">البنود و شرط</string>
+    <string name="there_is_no_email_client_installed">لا يوجد عميل بريد إلكتروني مثبت</string>
+    <string name="tips">سالك</string>
+    <string name="track_now">تتبع الآن</string>
+    <string name="TravelDate">تاريخ السفر</string>
+    <string name="trip_Amount">كمية رحلة</string>
+    <string name="tripdetail">تفاصيل رحلة</string>
+    <string name="tripdetails">تفاصيل رحلة</string>
+    <string name="tripfare_pop">إيابا أجرة</string>
+    <string name="tripprogress">رحلة في التقدم</string>
+    <string name="trips">8 رحلات</string>
+    <string name="trips1">رحلات</string>
+    <string name="twlink">twitter.com/Taxi التنقل ركوب</string>
+    <string name="unknown">--غير معروف--</string>
+    <string name="unused">unLater</string>
+    <string name="up_coming">القادمة</string>
+    <string name="vehicle_dist">سيارة القطر أجرة</string>
+    <string name="vehicle_min">أجرة سيارة مين  ق</string>
+    <string name="vehicle_wait">السيارة وقت الانتظار</string>
+    <string name="waiting">انتظار</string>
+    <string name="waitingpassenger">انتظار الركاب</string>
+    <string name="wallet">محفظة</string>
+    <string name="Week">هذا الاسبوع</string>
+    <string name="zero">0</string>
+
+
+
+
+    <string name="domain_hint">أدخل النطاق الفرعي</string>
+    <string name="domain_validation">يجب أن يحتوي على اسم النطاق أتلست 3 أحرف</string>
+    <string name="server_error">خطأ اتصال الخادم</string>
+
+
+
+
+
+
+
+</resources>

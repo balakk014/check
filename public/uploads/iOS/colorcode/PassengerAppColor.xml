@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><AppColors>
+    <AppColor id="5">
+    <getApplicationHeaderColor>#ffffff</getApplicationHeaderColor>
+    <getApplicationHeaderColorAlpha>1.0</getApplicationHeaderColorAlpha>
+    <getApplicationHeaderTitleColor>#000000</getApplicationHeaderTitleColor>
+    <getApplicationHeaderTitleColorAlpha>1.0</getApplicationHeaderTitleColorAlpha>
+    <getShadedBgColor>#1a1a1a</getShadedBgColor>
+    <getShadedBgColorAlpha>0.5</getShadedBgColorAlpha>
+    <getBlackTextColor>#000000</getBlackTextColor>
+    <getBlackTextColorAlpha>1.0</getBlackTextColorAlpha>
+    <getWhiteTextColor>#ffffff</getWhiteTextColor>
+    <getWhiteTextColorAlpha>1.0</getWhiteTextColorAlpha>
+    <getDarkGrayColor>#A9A9A9</getDarkGrayColor>
+    <getDarkGrayColorAlpha>1.0</getDarkGrayColorAlpha>
+    <getGrayColor>#666666</getGrayColor>
+    <getGrayColorAlpha>1.0</getGrayColorAlpha>
+    <getTextFieldTextColor> #343434</getTextFieldTextColor>
+    <getTextFieldTextColorAlpha>1.0</getTextFieldTextColorAlpha>
+    <getBorderColor>#cecece</getBorderColor>
+    <getBorderColorAlpha>1.0</getBorderColorAlpha>
+    <getShadowColor>#d6d6d6</getShadowColor>
+    <getShadowColorAlpha>1.0</getShadowColorAlpha>
+    <getAlertTitleColor>#000000</getAlertTitleColor>
+    <getAlertTitleColorAlpha>1.0</getAlertTitleColorAlpha>
+    <getAlertViewColor>#ffffff</getAlertViewColor>
+    <getAlertViewColorAlpha>1.0</getAlertViewColorAlpha>
+    <getTextFieldUnderLineColor>#c2c2c2</getTextFieldUnderLineColor>
+    <getTextFieldUnderLineColorAlpha>1.0</getTextFieldUnderLineColorAlpha>
+    <getPlaceHolderColor>#666666</getPlaceHolderColor>
+    <getPlaceHolderColorAlpha>1.0</getPlaceHolderColorAlpha>
+    <getApplicationSubmitColor>#00FF00</getApplicationSubmitColor>
+    <getApplicationSubmitColorAlpha>1.0</getApplicationSubmitColorAlpha>
+    <getApplicationCancelColor>#8e1f16</getApplicationCancelColor>
+    <getApplicationCancelColorAlpha>1.0</getApplicationCancelColorAlpha>
+    <getCellGrayColor>#f5f5f5</getCellGrayColor>
+    <getCellGrayColorAlpha>1.0</getCellGrayColorAlpha>
+    <getMenuDefaultColor>#1c1c24</getMenuDefaultColor>
+    <getMenuDefaultColorAlpha>1.0</getMenuDefaultColorAlpha>
+    <getMenuProfileheaderColor>#3d4044</getMenuProfileheaderColor>
+    <getMenuProfileheaderColorAlpha>1.0</getMenuProfileheaderColorAlpha>
+    <myBookingBtnBgColor>#eeeeee</myBookingBtnBgColor>
+    <myBookingBtnBgColorAlpha>1.0</myBookingBtnBgColorAlpha>
+    <getGreenColor>#66b800</getGreenColor>
+    <getGreenColorAlpha>1.0</getGreenColorAlpha>
+    <getCashColor>#48be2a</getCashColor>
+    <getCashColorAlpha>1.0</getCashColorAlpha>
+    <getCardColor>#1db7cf</getCardColor>
+    <getCardColorAlpha>1.0</getCardColorAlpha>
+    <getBackgroundColor>#f5f5f5</getBackgroundColor>
+    <getBackgroundColorAlpha>1.0</getBackgroundColorAlpha>
+    <getRootColor>#1db7cf</getRootColor>
+    <getRootColorAlpha>1.0</getRootColorAlpha>
+    <getShadedBlackColor>#1a1a1a</getShadedBlackColor>
+    <getShadedBlackColorAlpha>0.7</getShadedBlackColorAlpha>
+    <getTextFieldUnderLineColor>#cecece</getTextFieldUnderLineColor>
+    <getTextFieldTextColor>#343434</getTextFieldTextColor>
+    <getTextFieldTextColorAlpha>1.0</getTextFieldTextColorAlpha>
+    <getRideLaterCancelBtnColor>#8e1f16</getRideLaterCancelBtnColor>
+    <getRideLaterCancelBtnColorAlpha>1.0</getRideLaterCancelBtnColorAlpha>
+    <getRideLaterSelectBtnColorC>#ee3324</getRideLaterSelectBtnColorC>
+    <getRideLaterSelectBtnColorAlphaC>1.0</getRideLaterSelectBtnColorAlphaC>
+</AppColor>
+</AppColors>

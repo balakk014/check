@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="header_bgcolor">#f5f5f5</color>
+
+    <color name="header_text">#404041</color>
+
+    <color name="linebottom_light">#c2c2c2</color>
+    <color name="linebottom_dark">#646464</color>
+
+    <color name="hintcolor">#666666</color>
+
+    <color name="pickupheadertext">#48bf27</color>
+    <color name="pastbookingcashtext">#48bf27</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent">#66000000</color>
+
+    <color name="button_accept">#EE3324</color>
+    <color name="button_reject">#8E1F16</color>
+
+    <!--<color name="button_accept">#1d3248</color>
+    <color name="button_reject">#f7ab28</color>-->
+
+    <color name="paymentcard">#00BFFF</color>
+    <color name="MatThemectrlActive">#ecbe2a</color>
+
+    <!-- <color name="cancelbtntxtcolor">#1d3248</color>
+     <color name="submitbtntxtcolor">#1d3248</color>
+     <color name="checkboxtxtcolor">#1d3248</color>
+     <color name="highlighttxtcolor">#1d3248</color>-->
+
+    <color name="cancelbtntxtcolor">#fe0000</color>
+    <color name="submitbtntxtcolor">#fe0000</color>
+    <color name="checkboxtxtcolor">#fe0000</color>
+    <color name="highlighttxtcolor">#fe0000</color>
+
+
+    <color name="buttonnormaltheme">#ff6666</color>
+
+    <color name="textviewcolor_dark">#666666</color>
+    <color name="textviewcolor_light">#a2a2a2</color>
+
+    <color name="buttontextcolor">#ffffff</color>
+    <color name="edittextcolor">#00000F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="home_drawer_bg">#1C1C24</color>
+    <color name="home_drawer_head_bg">#333333</color>
+</resources>

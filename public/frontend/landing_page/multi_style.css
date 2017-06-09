@@ -1,0 +1,99 @@
+/************************************************************************************
+smaller than 1024
+*************************************************************************************/
+@media screen and (max-width: 1200px) {    
+.inner{width: 86%;}
+body{padding: 0 !important;}    
+.contact_det input[type=submit],.sub_butt input[type=submit], .sub_butt input[type=button]{-webkit-appearance: none;}    
+}
+/************************************************************************************
+smaller than 1024
+*************************************************************************************/
+@media screen and (max-width: 1024px) {    
+.inner{width: 96%;}
+#home .inner{width: 96%;left: 2%;}    
+    
+}
+
+/************************************************************************************
+smaller than 900
+*************************************************************************************/
+@media screen and (max-width: 900px) {      
+nav li a{margin-right: 15px;}
+}
+
+/************************************************************************************
+smaller than 768
+*************************************************************************************/
+@media screen and (max-width: 768px) {
+.about_lft{width: 100%;}
+.about_rgt{text-align: center;width: 100%;}
+.address_det, .contact_det{width: 50%;padding: 0;}
+.follow_det{width: 100%;padding: 0;}
+#home p,#join-us-driver p,#home p *{font-size: 16px;}
+#home p br{display: none;}
+#toggle_menu{position: relative;float: right;width: 25px;height: 20px;}
+#toggle_menu:before{position: absolute;top: 0;right: 0;width: 25px;height: 5px;border-top: 3px solid #fff;border-bottom: 3px solid #fff;content: "";}
+#toggle_menu:after{position: absolute;top: 16px;right: 0;width: 25px;height: 3px;content: "";background: #fff;}
+.header_right{position: relative;margin-top: 21px;}
+.header_right *{transition-duration: 0s;}
+.header_right nav{width: 165px;background: #222;border: 1px solid #000;display: none;position: absolute;right: 0;top: 19px;}
+.header_right nav li{width: 100%;text-align: center;}
+.header_right nav li a{margin: 0;float: none;display: inline-block;padding: 7px 0;line-height: normal;font-size: 14px;}
+.signin_form, .forgot_form, .facebook_info_popup, .fare_estimate_popup,.signup_form{position: absolute;width: 60%;left: 50%;margin-left: -30%;top: 25%;}
+.header.sticky{height: 60px;}
+.header_left img{height: auto;display: inline-block;}
+.header_left{padding-top: 13px;}
+#home h1{font-size: 34px;}
+#home{height: 500px;}
+#home img{max-height: 100%;}
+#home .inner{top: 120px;}
+
+}
+/************************************************************************************
+smaller than 685
+*************************************************************************************/
+@media screen and (max-width: 685px) {
+#join-us-driver h2,.about_lft h2{font-size: 40px;line-height: 50px;}
+.about_lft b{font-size: 20px;}
+.about_lft p,.address h4,address,.contact_det label,#home p, #join-us-driver p{font-size: 14px;line-height: 20px;}
+.address_det h3, .contact_det h3, .follow_det h3{font-size: 24px;}
+#home h1,#home h1 b{font-size: 34px;}
+
+}
+/************************************************************************************
+smaller than 650
+*************************************************************************************/
+@media screen and (max-width: 600px) {    
+
+
+}
+/************************************************************************************
+smaller than 568
+*************************************************************************************/
+@media screen and (max-width: 568px) {  
+.address_det, .contact_det{width: 100%;}
+.follow_det{margin-top: 15px;}
+.signup_form ul, .signin_form ul, .forgot_form ul.facebook_info_popup ul{background-size: 100%;}
+#home p,#join-us-driver p,#home p *{font-size: 14px;}
+.header_left {padding-top: 16px;width: 150px;}
+
+}
+/************************************************************************************
+smaller than 480
+*************************************************************************************/
+@media screen and (max-width: 480px) {
+#join-us-driver h2,.about_lft h2{font-size: 34px;line-height: 42px;}
+#home h1,#home h1 b{font-size:28px;}
+.signin_form, .forgot_form, .facebook_info_popup, .fare_estimate_popup,.signup_form{position: absolute;width: 90%;left: 50%;margin-left: -45%;top: 25%;}
+#home a{width: 160px;height: 40px;line-height: 40px;}
+}
+/************************************************************************************
+smaller than 380
+*************************************************************************************/
+@media screen and (max-width: 390px) {
+#join-us-driver h2,.about_lft h2{font-size: 36px;line-height: 44px;}
+#join-us-driver a,#home .passenger_app a{width: 47%;margin: 0 1%;}
+#join-us-driver a img,#home .passenger_app a img{max-width: 100%;}
+#home h1,#home h1 b{font-size:26px;}
+}

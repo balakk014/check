@@ -1,0 +1,544 @@
+/************************************************************************************
+smaller than 2048  iPad Retina
+*************************************************************************************/
+@media screen and (max-width: 2048px) { }
+
+/************************************************************************************
+smaller than 1536 iPad Retina
+*************************************************************************************/
+@media screen and (max-width: 1536px) { }
+
+/************************************************************************************
+smaller than 1280 Android Resolution , BB10
+*************************************************************************************/
+@media screen and (max-width:1280px) {
+.dashboard_detail_right{width: 70%;}   
+.new_input_field1,.new_input_field2{width:100%;} 
+.new_input_field2 div.selector,.new_input_field2 div.selector select{width:100%;box-sizing:border-box;min-height:30px;}
+.wids_100, .form input[type="text"], .form input[type="password"], .form textarea{box-sizing:border-box;min-height:30px;}
+ div.selector,.more_selection,.export_me_menu_div .input_box .records_type2_select,.records_type2_select2{ position:relative}
+ /*div.selector:before, .more_selection:before,.export_me_menu_div .input_box .records_type2_select:before,.records_type2_select2:before{position:absolute;top:45%;right:10px;border-top:5px solid #333;border-left:5px solid transparent;border-right:5px solid transparent;content:"";z-index:99;}*/
+
+}
+
+/************************************************************************************
+smaller than 1220 Android Resolution , BB10
+*************************************************************************************/
+@media screen and (max-width:1220px) {
+.withdraw_count_box ul li{width: 32%;margin: 20px 2% 0 0;}
+.withdraw_count_box ul li:nth-child(4n+4) {margin-right: 2%;float: left;}
+.withdraw_count_box ul li:nth-child(3n+3) {float: left;margin-right: 0;}
+
+}
+
+/************************************************************************************
+smaller than 1136 iPhone5
+*************************************************************************************/
+@media screen and (max-width:1160px) {
+
+.dashboard_detail_right{width: 65%;}
+.content_middle  > form > table.list_table1 > tbody > tr  > td:first-child,.content_middle  > form > table.list_table1 > tbody > tr  > td{display:inline-block !important;width:48% !important;box-sizing:border-box;}
+.list_table1 > tbody,.list_table1 tr{float:left;width:100%;}
+.list_table1{width:100% !important;display:inline-block !important;}
+.disp_shows{display:table-cell;}
+.disp_nones{display:none;}
+.content_middle.promos_code  > form > table.list_table1 > tbody > tr  > td.empty_cells{display:none !important;}
+.content_middle.promos_code  > form > table.list_table1 > tbody > tr  > td.wid100{width:100% !important;display:inline-block ;}
+.content_middle.promos_code  > form > table.list_table1 > tbody > tr  > td.wid100 label{font-weight:bold;}
+.wids_100,.form input[type="text"], .form input[type="password"], .form textarea{width:100% !important;}
+/* #phone{width:155px !important;} */
+.site_settingss .new_setin.selector select{width:415px ;}
+input[type="checkbox"]{margin-right:5px !important;}
+.loginPage #messagedisplay > div{width:100% !important;box-sizing:border-box;}
+.reviewerprofile{margin-right:2%;}
+.revieweright{width:85%;}
+.rating{margin-top:0;width:100%;box-sizing: border-box;}
+.promo_rgt{text-align: left;}
+.drv_rat{float: left;width: 85%;}
+}
+
+@media screen and (max-width: 1130px) {
+.dashboard_calender_in_header.with_select_box.driver_revenue{margin-top:10px;width:100%; text-align:center;}
+.account_lft_det,.account_rgt_det{padding: 0 10px;}
+
+
+}
+
+
+
+/************************************************************************************
+smaller than 1024 The New iPad
+*************************************************************************************/
+@media screen and (max-width: 1024px) {
+.dashboard_page_top_list ul li{width: 49%;}    
+.dashboard_page_top_list ul li:nth-child(3n+3) {float: left;margin-right: 2%;}    
+.dashboard_page_top_list ul li:nth-child(2n+2) {float: left;margin-right: 0;}    
+.withdraw_seach ul li,.withdraw_seach ul li:first-child{width: 32.3%;margin: 3px 1% 3px 0;} 
+.withdraw_seach ul li:last-child{width: 12%;}
+.select_all{margin:-10px 0 10px;}
+.pagination{float:left;width:100%;padding:0 10px;box-sizing:border-box;}
+.new_pagination{float:left;width:100%;}
+ .new_pagination b{float:left;width:auto;margin:0 10px 0 0;text-align:left;line-height:15px;}   
+ .copyrights{width:100%;text-align:center;}
+ .form textarea{height:100px;resize:none;}
+ .new_pagination ul{float:left;}
+ #driver_transactions{ width:100%; overflow:auto;}
+ .export_me_menu_div{left:59%}
+.dashboard_widget_row .lg-4, .dashboard_widget_row .lg-6{width:100%;margin: 0 0 15px;} 
+.dashboard_map_outer{min-height:402px;}
+.dashboard_calender_in_header{margin-top: 10px;}
+.withdrow_reuestpopinner{margin-left:-166px}
+.user-menu{height: 40px;}
+.paymentByCompanyChartAjax .dashboardpayment,.paymentByCompanyChartAjax.payment_by_company .dashboardpayment{position: relative;bottom: 0;padding: 5px 2%;width: 96%;}
+.rgt_field_det{width: 100%;margin-top: 5px;}
+.widget.comp_journy .title {height: 72px;}
+.small_field_det{width: 45%;}
+
+.account_lft_det,.account_rgt_det,.next_card .account_lft_det,.next_card .account_rgt_det{width: 100%;}
+.small_col span br,.mid_col span br,.enter_col span br{display: none;}
+.responsive_price_tab {display: block;}
+.enter_col, .mid_col, .small_col {width: 50%;}
+.enter_col, .mid_col {display: none;}
+}
+
+/************************************************************************************
+smaller than 960 iPhone4
+*************************************************************************************/
+@media screen and (max-width:960px) {
+.withdraw_count_box ul li{width: 49%;margin: 20px 2% 0 0;}
+.withdraw_count_box ul li:nth-child(4n+4),.withdraw_count_box ul li:nth-child(3n+3) {margin-right: 2%;float: left;}
+.withdraw_count_box ul li:nth-child(2n+2) {float: left;margin-right: 0;}    
+.dashboard_calender ul li, .dashboard_calender_in_header ul li{margin:0 0 5px;}
+.new_input_field1{width: 100%;}
+.new_input_field_transaction{width:185px;}
+.dashboard_calender_in_header{margin-top: 10px;}
+.dashboard_calender_in_header,.dashboard_calender_in_header ul{width: 100%;}
+.dashboard_calender_in_header ul li{width: 25%;}
+.dashboard_top_search_part .new_dash_calender_input, .new_dash_calender_select, .bottom_selection_select{width: 100%;}
+.dashboard_widget_row .lg-4, .dashboard_widget_row .lg-6{margin: 0 0 15px 0;width: 100%;}
+.dashborad_widget_box.lg-12 .new_dash_calender_input, .dashborad_widget_box.lg-12 .new_dash_calender_select, .dashborad_widget_box.lg-12 .bottom_selection_select{width: 100%;}
+.dashboard_map_outer{min-height: 400px;}
+.dashboard_widget_row .nodata_found { margin-top: 160px;}
+.dashboard_calender_in_header.with_select_box.payment_box.payment_by_company ul li,.dashboard_widget_row.company_wise_trip ul li{width: 33.33%;}
+.payment_box.payment_by_company ul li .new_dash_calender_input,.payment_box.payment_by_company ul li .new_dash_calender_select,.payment_box.payment_by_company ul li .bottom_selection_select{width: 100%;}
+.dashboard_widget_row.company_wise_trip ul li .new_dash_calender_input,.dashboard_widget_row.company_wise_trip ul li .new_dash_calender_select,.dashboard_widget_row.company_wise_trip ul li .bottom_selection_select{width: 100%;}
+.responsive_table{float: left;width: 100%;overflow-x: auto;overflow-y: hidden;}
+.withdraw_table table{width: 100%;}
+.table_bottom_control ul.select_all_part .bottom_selection_select{width: 130px;}
+ 
+}
+/************************************************************************************
+smaller than 920
+*************************************************************************************/
+@media screen and (max-width:920px) {
+.title.passengerinfo_title{height:auto; float: left;width:100%}
+.widget .title.passengerinfo_title .titleIcon{border-bottom:1px solid #cdcdcd}
+
+.widget.comp_journy .title{height: 72px;}
+.rgt_field_det .small_butt{float: left;}
+input[readonly], input[disabled]{padding: 4px 5px;}
+}
+
+/************************************************************************************
+smaller than 900
+*************************************************************************************/
+@media screen and (max-width:900px) {
+.widget  .title.driverinfo_title{ height:85px}
+.widget .title.driverinfo_title .titleIcon{ border-bottom:1px solid #d5d5d5}
+.driverinfo_chattop{width:100%; text-align:right;padding:5px; box-sizing: border-box;}
+.small_field_det{width: 44%;}
+.small_field_det label{float: left;}
+.small_field_det input[readonly],.small_field_det input[disabled]{width: 65%;}
+
+}
+
+/************************************************************************************
+smaller than 850 Android Resolution , windows Resolution
+*************************************************************************************/
+@media screen and (max-width: 850px) {
+.driver_revenue{margin-top: 10px;}
+.dashborad_widget_box.lg-12 .driver_revenue .new_dash_calender_input, .dashborad_widget_box.lg-12 .driver_revenue .new_dash_calender_select{width: 100%;}
+.driver_revenue ul li{width: 30%;}
+#job_title, #paypal_api_username, #paypal_api_password, #paypal_api_signature, #live_paypal_api_username, #live_paypal_api_password, #live_paypal_api_signature{width:300px;}
+}
+
+/************************************************************************************
+smaller than 800 Android Resolution , windows Resolution
+*************************************************************************************/
+@media screen and (max-width: 800px) {
+.main_header .sidebar-toggle{display: none;}    
+.main-sidebar{width: 80px;position: absolute;height: 100%;}
+.sidebar{position: relative;}    
+.menu{height: auto;overflow-y: visible;position: static;top: 71px;width: 100%;}
+.export_me_menu_div{left:50%}
+.menu > ul > li > a {margin-left: 18px;width: 44px;}    
+.menu > ul > li > a {overflow: hidden;}
+.main_header .logo {width: 80px;}
+.main_header .logo .logo-lg {display: none;}
+.main_header  .logo .logo-mini {display: block;margin-top: 14px;}
+#content{margin: 0 0 0 80px;}
+.menu ul li ul.menu_drop_down{position:absolute;left:80px;z-index:99;width:175px;}
+#container{position:relative;z-index:2;}
+.dashboard_widget_row .lg-4, .dashboard_widget_row .lg-6{width:100%;margin: 0 0 15px;}
+.dashboard_map_outer{min-height:402px;}
+.dashboard_widget_title  h2{margin:0 0 10px;}
+.menu_drop_down > li > a{padding:5px 5px 5px 10px;font:12px/15px OpenSansRegular;}
+.sidebar-menu > .treeview > .treeview-menu li.treeview > a:after,.sidebar-menu > .treeview.active > .treeview-menu li.treeview.active > a:after{top:8px;}
+.menu ul li ul.menu_drop_down li ul.menu_drop_down{left:100%;}
+.content_middle > form > table > tbody > tr > td:first-child{width:40% !important;box-sizing:border-box;}
+.content_middle > form > .sec_tables  > table > tbody > tr > td:first-child{width:40% !important;box-sizing:border-box;}
+#footer{padding:0 0 0 80px;}
+.menu ul > li.active > .menu_drop_down{display:none;}
+.new_input_field,div.selector, .select_box{width: 100%;}
+#messagedisplay label{float: left;width: 85%;}
+.site_settingss .new_setin.selector select{width: 100%;}
+
+.account_outer,.account_lft_det, .account_rgt_det{padding: 0;}
+.acc_tit{padding: 20px 0;}
+.acc_det{padding: 0 0 20px;}
+
+}
+
+/************************************************************************************
+smaller than 768  BB10  , The New iPad
+*************************************************************************************/
+@media screen and (max-width: 768px) {
+.sidebar_hide .menu ul li a span{display: none;}
+.user-menu > span, .top-menu .dropdown .caret{display: block;}
+.widget{float:left;width:100%;margin: 0 0 10px;}
+.widget.chartWrapper{overflow-x:auto;overflow-y:hidden;}
+.sTable.responsive.upgrate_cmppack{width:100%}
+.select_all.manage_fag{text-align:center;width:100%;margin-bottom:0}
+.bottom_contenttot .new_pagination{text-align:center;width:100%}
+.bottom_contenttot .pagination{width:100%}
+.bottom_contenttot .new_pagination b{margin:0;width:100%;text-align:center;}
+.bottom_contenttot .new_pagination ul{float:none!important;}
+.bottom_contenttot .select_all ul{display:inline-block;margin-right:0;float:none; vertical-align:top;}
+.bottom_contenttot .select_all ul li{display:inline-block;}
+.bottom_contenttot .select_all span{display:inline-block;float:none;}
+.withdrow_reuestpopinner{margin-top:0;top:20%;width:50%}
+.widget .title.passengerinfo_title{height: 70px;}
+.driverinfo_chattop ul li .date_txt{width: 140px;}
+
+
+
+}
+
+/************************************************************************************
+smaller than 720 Android Resolution
+*************************************************************************************/
+@media screen and (max-width: 720px) {
+.dashboard_calender_in_header{margin-top: 10px;}    
+.driver_revenue ul li{width: 50%;margin: 2px 0;}   
+.withdraw_seach ul li:last-child {width: 15%;}
+.mobile_codetxt #phone{margin-left:0;width:100%!important}
+ .form textarea{padding: 7px 3%;width: 100%;box-sizing: border-box;height: 70px;resize: none;}
+.search_info_label{min-width:10px;}
+.dashboard_calender_in_header ul li,.dashboard_calender_in_header.with_select_box.payment_box.payment_by_company ul li,.dashboard_widget_row.company_wise_trip ul li{width: 50%;}
+.withdraw_detail_table,.withdraw_activity_log_list{padding: 10px;}
+.withdraw_detail_table table td{width: 50%;padding: 5px;}
+.withdraw_activity_log_list ul,.withdraw_activity_log_list ul{margin-left: 6%;width: 94%;}
+.withdraw_activity_log_list ul li,.withdraw_activity_log_list ul li{padding: 10px;min-width: 90%;}
+.withdraw_activity_log{padding: 0 10px 10px;}
+.withdraw_activity_log_list ul li{margin: 0 1% 10px 20px;}
+}
+
+@media screen and (max-width: 685px) {
+.dashboard_calender ul li, .dashboard_calender_in_header ul li{width: 50%;}   
+.taxi_info_common{width: 100%;}
+.taxi_info_rgt{width: 100%;}
+.driverinfo_chattop{float: left;width: 100%;margin: 0;}
+.driverinfo_chattop ul li{margin: 0;}
+.widget .title.passengerinfo_title{height: 100px;}
+#drivercompleted_logs{float: left;width: 100%;overflow-x:auto;}
+#drivercompleted_logs table{width: 900px;}
+.home_greeting_heading{font-size: 26px;}
+.new_home_det .page_content{padding: 20px 0 30px;}
+}
+
+
+
+/************************************************************************************
+smaller than 640 Blackberry Resolution ,iPad2 ,iPhone5, iPhone4
+*************************************************************************************/
+@media screen and (max-width: 640px) {
+.dashboard_detail_right {width: 62%;}
+.dashboard_calender_in_header{margin-top: 10px;}
+.dashborad_widget_box.lg-12 .new_dash_calender_input, .dashborad_widget_box.lg-12 .new_dash_calender_select, .dashborad_widget_box.lg-12 .bottom_selection_select{width: 100%;}
+.loginPage #messagedisplay > div{width:90%;}
+.loginPage #messagedisplay > div .error_flash,div.selector.selector_timezone{width:100%;box-sizing:border-box;}
+div.selector.selector_timezone span{width:100%}
+.new_input_field, #job_title, #paypal_api_username, #paypal_api_password, #paypal_api_signature, #live_paypal_api_username, #live_paypal_api_password, #live_paypal_api_signature,div.selector select,.select2-container{width:100% !important;}
+.new_input_field.input-mob-box{padding-left:39px;box-sizing:border-box;}
+div.selector{width: 100%;box-sizing:border-box;}
+.widings,#driver_list select,#taxi_list select,.new_input_field select,.new_input_field_transaction{width:100% !important;}
+.create_loginouter div.selector{width:100%}
+.new_input_field_charge{width:98% !important;}
+.greyishB input{padding:3px 5px;margin:0 !important;}
+.ser_input_field, .selector.ser_input_field{width: 100%;}
+.driverinfo_chattop ul li{width: 32.3%;text-align: left;vertical-align: bottom;}
+.driverinfo_chattop ul li label{width: 100%;}
+.withdraw_detail_table table tr td ul li{width: 100%;box-sizing: border-box;}
+.withdraw_detail_table table tr td ul li select, .withdraw_detail_table table tr td ul li input[type="text"], .withdraw_detail_table table tr td ul li textarea{width: 100%;}
+.small_field_det {width: 42%;}
+.small_field_det label{width: 100%;text-align: left;}
+.small_field_det input[readonly], .small_field_det input[disabled]{width: 100%;box-sizing: border-box;}
+.widget.comp_journy .title {height: 94px;}
+.widget.comp_journy .small_butt{margin-top: 24px;float: left;}
+.drv_rat{float: left;width: 80%;}
+}
+
+/************************************************************************************
+smaller than 600
+*************************************************************************************/
+@media screen and (max-width: 600px) {
+.dashboard_page_top_list ul li,.withdraw_count_box ul li{width: 100%;margin: 15px 0 0;}
+.dashboard_detail_right {width: 70%;}
+.copyrights{width: 100%;text-align: center;}
+.dashboard_top_search_part .new_dash_calender_input, .new_dash_calender_select, .bottom_selection_select{width: 100%;}
+.common_search{margin: 17px 0 0 10px;}
+.crumbs,.new_page_title{padding: 0 10px;}
+.new_inner_page_outer,.withdraw_count_box{padding: 10px;}
+.withdraw_seach{padding: 10px 10px 0;}
+.withdraw_count_box ul li{padding: 10px 0 10px 10px;}
+.withdraw_table{padding: 10px;}
+.dashboardpayment{margin-top:0;}
+.widget .title{height:auto;border-right:solid 1px #cdcdcd;border-left:solid 1px #cdcdcd;float:left;width:100%; box-sizing: border-box;}
+.widget .title .titleIcon{border-bottom:solid 1px #cdcdcd;}
+.driverinfo_chattop ul li{width:100%;margin-bottom:1.5%}
+.driverinfo_chattop ul li label{width:20%;}
+.driverinfo_chattop ul li .date_txt{width:75%;}
+.driverinfo_chattop ul li .date_txt input[type=text]{ width:100%; box-sizing: border-box;}
+.widget .title.driverinfo_title{height:140px}
+.driverinfo_chattop ul li:last-child{ text-align:left;}
+.driverinfo_chattop ul li:last-child .button.blackB{margin-left:21%}
+#driverWithdrawReqs{width:100%;overflow:auto;}
+.withdrow_reuestpopinner{width:65%;margin-left:0;left:23%;position:absolute;}
+.cke_skin_kama .cke_toolgroup{background-color:#f7f7f7;background-image:none !important;}
+.driverinfo_common ul li label{width: 52%;box-sizing: border-box;}
+.driverinfo_common{float: left;width: 100%;}
+.driverinfo_common p{float: left;width: 46%;word-wrap:break-word;}
+.driverinfo_common ul li,.taxi_info_common ul li{margin: 0;padding: 5px;border: 1px solid #ddd;border-bottom: none;box-sizing: border-box;}
+.driverinfo_common ul li:nth-child(odd),.taxi_info_common ul li:nth-child(odd){background: #f6f6f6;}
+.driverinfo_common ul li:last-child,.taxi_info_common ul li:last-child{border-bottom: 1px solid #ddd;}
+.taxi_info_common ul li label{width: 48%;}
+.contact_view p label::before, .driverinfo_common ul li label::before, .taxi_info_common ul li label::before{right: 10px;}
+.loginWrapper_inner{margin:50px auto 0;width: 90%;}
+.formRow,.loginWrapper .widget,.loginControl{width: 100%;box-sizing: border-box;-webkit-box-sizing: border-box;}
+.sms_mid_lft,.sms_mid_rgt,.div_lft{width: 100%;}
+}
+
+
+
+
+/************************************************************************************
+smaller than 568 iPhone5
+*************************************************************************************/
+@media screen and (max-width: 568px) {
+.content_middle > form > table.list_table1 > tbody > tr > td:first-child, .content_middle > form > table.list_table1 > tbody > tr > td{width:100% !important;display:inline-block !important;}
+.content_middle > form > .widget > table > tbody > tr > td:first-child, .content_middle > form > .widget > table  > tbody > tr > td{width:100% !important;display:inline-block !important;box-sizing:border-box;}
+.content_middle > form > .sec_tables > table > tbody > tr > td:first-child, .content_middle > form > .sec_tables > table > tbody > tr > td{width:100% !important;display:inline-block !important;box-sizing:border-box;padding:5px 0;}
+.driverinfo_common table  tr  td{width:100% !important;display:inline-block !important;box-sizing:border-box;}
+.content_middle > form > table.list_table1 > tbody > tr:last-child > td:first-child{display:none !important;}
+.right_lay{padding:15px 10px;}   
+.content_middle table br,.empt_cel{display:none !important;}
+.common_search{width: 50%;margin: 17px 0 0 5px;}    
+.new_dash_calender_input{padding: 0 5px;}
+.dashboard_calender ul li, .dashboard_calender_in_header ul li{width: 100%;padding: 0;margin: 5px 0;}
+.wrapper{margin: 0;}
+.dashboard_calender_in_header,.dashboard_calender_in_header ul{float: left;width: 100%;margin-bottom:10px;}
+.new_dash_calender_input{background-position: 95% center;}
+.main_header .sidebar-toggle{margin: 29px 0 0 10px;}  
+.main_dashboard_page{padding: 10px 10px 0;}
+.mid_ser,.crumbs,.navbar-inner{padding: 0 10px;}
+.dashboard_widget_title.with_calender,.widget .title{padding: 10px;}
+.dashboard_page_top_list ul li{padding: 10px 0 10px 10px;}
+.withdraw_seach ul li, .withdraw_seach ul li:first-child{width: 100%;margin: 3px 0;}
+.withdraw_seach ul li:last-child {width: 25%;}
+.withdraw_count_box ul li{width: 100%;margin: 5px 0;}
+.payment_gtes .new_input_field{width:150px !important;}
+.content_middle > form > table > tbody > tr > td:first-child,.content_middle > form > table > tbody > tr > td,#charge_det tr td{width:100% !important;display:inline-block;box-sizing:border-box;padding: 5px 0 !important;}
+.content_middle.content_middle_addfare > form > table > tbody > tr:last-child > td:first-child{display:block;}
+.export_me_menu_div{width:70%;margin-left:-32%}
+.export_me_menu_div ul li label{width: 80px;}
+.export_me_menu_div .input_box { width: 60%;}
+.dashboard_calender_in_header ul li,.dashboard_calender_in_header.with_select_box.payment_box.payment_by_company ul li,.dashboard_widget_row.company_wise_trip ul li{width: 100%;}
+.dashborad_widget_box.lg-6 .new_dash_calender_input, .dashborad_widget_box.lg-6 .new_dash_calender_select, .dashborad_widget_box.lg-6 .bottom_selection_select{width: 100%;margin: 0 !important;}
+optgroup{max-height:300px;}
+.content_middle{padding: 0 10px 10px;}
+.add_content td{display: block;width: 100%;}
+.content_middle > form > table > tbody > tr > td.empty_cell,#editmotor_form td.empty_cell{display: none !important;}
+.new_input_field_charge.errorvalid{margin: 0 !important;}
+.withdraw_detail_table table tr td label,.withdraw_detail_table table tr td p{padding: 0;}
+.withdraw_detail_table table tr td ul li{padding: 5px 0;}
+.scroll_inner{width: 100%;overflow-x: auto;}
+#assigned_unassigned_graph,#cityByCount,#payment_by_company,.shift_history{width: 568px;}
+
+.panel_head{display: block;}
+.small_dot{display: inline-block;}
+.notification_title{flex:0 0 0;display: inline-block;margin: 0;vertical-align: top;}
+.action_butt{display: block;margin-top: 5px;text-align: left;}
+.action_butt .small_butt{float: none;}
+
+}
+
+/************************************************************************************
+smaller than 500
+*************************************************************************************/
+@media screen and (max-width:500px) { 
+.reviewerprofile{ width:12%}
+.revieweright{ width:80%}
+
+
+}
+
+/************************************************************************************
+smaller than 480  iPhone4 ,Android Resolution ,windows Resolution, Blackberry Resolution
+*************************************************************************************/
+@media screen and (max-width:480px) { 
+.header_rgt ul li.rgt_down_1 a span.log_user{display: none;}
+.header_rgt ul li.rgt_down_1 a span.down_arr{padding-bottom: 15px;}    
+.header_profile_drop_down{top: 37px;}
+.breadcrumb{display: block;}
+.dashboard_detail_right {width: 65%;}
+.dashboard_map_outer #company_revenue_chart,.dashboard_map_outer #driver_revenue_chart{width: 100% !important;min-width: 100% !important;}
+.withdraw_seach ul li:last-child {width: 30%;}
+
+.main-sidebar,.main_header .logo{width:60px;}
+.menu > ul > li > a{margin-left:7px;width:50px;}
+.menu ul li ul.menu_drop_down{left:60px;}
+#content{margin:0 0 0 60px}
+#footer{padding:0 0 0 60px;}
+.content_middle > form > table.payment_gtes > tbody > tr > td:first-child, .content_middle > form > table.payment_gtes > tbody > tr > td{display:table-cell;}
+.new_input_field,#job_title, #paypal_api_username, #paypal_api_password, #paypal_api_signature, #live_paypal_api_username, #live_paypal_api_password, #live_paypal_api_signature{width:100% !important;}
+.formRight{float: left;width: 100%;}
+div.selector{padding: 0;width: 100%;}
+div.selector select,#s2id_time_zone{width: 100% !important;}
+.select2-container .select2-choice > .select2-chosen{line-height: 28px !important;}
+.pagination_outer .page_mid{padding:0 5px;}
+.driverinfo_chattop ul li label{width:30%;}
+.driverinfo_chattop ul li .date_txt{width:60%;}
+.driverinfo_chattop ul li:last-child{ text-align:left;}
+.driverinfo_chattop ul li:last-child .button.blackB{margin-left:31%}
+.shifty_history{ width:100%; overflow:auto;}
+.account_report{font-size:11px;}
+.export_me_menu_div ul li label{width:30%;}
+.export_me_menu_div ul li  .input_box{width:50%}
+.export_me_menu_div ul li  .input_box .records_from_select2{width:100%}
+.upgrate_cmppackout{width:100%;overflow:auto;margin-bottom:10px;}
+.sTable.responsive.upgrate_cmppack{width:500px}
+.admin_show_packageinner{width:500px}
+.withdraw_detail_table{padding: 10px;}
+input[type=file]{width: 100%;}
+.widget .title h6{font-size: 14px;}
+.breadcrumb li p,.breadcrumb li a{font:11px/30px OpenSansRegular;}
+.breadcrumb li a:after{font:13px/16px OpenSansRegular;}
+.tabs-nav, .crumbs{height:auto;}
+.withdrow_reuestpopinner{top:6%}
+.bottom_contenttot .select_all span select{width: 110px;}
+.driverinfo_chattop{margin: 0;}
+.withdraw_detail_table table tr td label,.withdraw_detail_table table tr td p{padding: 0;font-size: 12px;}
+.new_button input[type=submit], .new_button input[type=button], .new_button input[type=reset]{padding: 10px 12px;}
+.taxi_info_common ul li label{width: 52%;}
+.withdraw_detail_table table tr td {display: inline-block;padding: 5px;width: 100%;border-left: none;}
+.small_field_det {margin: 0;width: 100%;}
+.widget.comp_journy .small_butt {float: left;margin: 5px 0 0 0;}
+.widget.comp_journy .title {height: 163px;}
+#map{height: 250px;}
+
+
+.form_control{font-size: 14px !important;}
+.panel_head,.home_card_content,.tab-content,.sms_top_sec,.sms_mid_sec, .sms_bot_sec{padding: 10px;}
+.small_dot{display: inline-block;padding: 0}
+.notification_title{flex:0 0 0;display: inline-block;margin: 0;vertical-align: top;padding: 0;}
+.language_note{width: 99%;margin-left: 1%;}
+}
+
+
+/************************************************************************************
+smaller than 420
+*************************************************************************************/
+@media screen and (max-width:420px) { 
+.menu_drop_down ul{left:30%;top:26px;}
+ul.menu_drop_down li ul.menu_drop_down{background:#303030;border:solid 1px #fff;}
+.search_info_label{min-width: 100%;}
+.export_me_menu_div{width:70%;margin-left:-27%;top:15%;padding:2%;}
+
+.export_me_menu_div ul li label{width:100%;margin:0 0 5px 0}
+.export_me_menu_div ul li:last-child label{display:none}
+.export_me_menu_div ul li  .input_box{width:100%}
+.export_me_menu_div ul li  .input_box .records_from_select2,.export_me_menu_div ul li  .input_box .records_from_select1{width:100%}
+
+.export_me_menu_div .input_box{width:100%; box-sizing: border-box;}
+.export_me_menu_div select.records_from_select2{width:100%; box-sizing: border-box;}
+.export_me_menu_div ul li b{display:none}
+.errorvalid{width:100%}
+.home_greeting_heading{font-size: 22px;}
+.select_language{width:100%;}
+.select_language label{width:100%;line-height:normal;margin-bottom:3px;}
+.select_language .formRight{float:left;width:100%;}
+
+
+}
+
+
+/************************************************************************************
+smaller than 390
+*************************************************************************************/
+@media screen and (max-width:380px) {
+#companyWiseTrip{ min-width:100% !important}
+#cityByCount .highcharts-container{ width:100% !important}
+.radio_primary.lang_sett{display: block;}
+}
+
+/************************************************************************************
+smaller than 380
+*************************************************************************************/
+@media screen and (max-width:380px) { 
+.header_rgt img{width: 30px;height: 30px;}
+.sidebar_hide #content{margin: 0 0 0 80px;}
+.dash_active_left{display: inline-block;float: none;}
+.dashboard_detail_right,.withdraw_detail_right{width: 100%;margin: 15px 0 0 0;}
+.dashboard_page_top_list ul li,.withdraw_count_box ul li{padding: 10px;text-align: center;}
+.withdraw_seach ul li:last-child {width: 35%;}
+.new_pagination ul li a, .new_pagination ul li p,.new_pagination ul li.active p{padding:0 5px;}
+.greyishB{margin:8px 5px;}
+.userNav ul li a{padding:4px 8px;}
+
+.loginWrapper .widget,.loginControl{width:100%;box-sizing:border-box;}
+.loginPage .formRow,.loginControl{padding:10px;box-sizing:border-box;}
+.select_all{margin: -36px 0 10px 0;padding: 10px;}
+.widget > .title > div{margin:2px !important;}
+.reviewerprofile { display: inline-block;width: 15%;}
+.review-text{text-align:center;}
+.revieweright{width:75%;text-align:left;}
+.review{float: left;min-height: auto;width: 100%;}
+.widget .title.driverinfo_title{height:130px	}
+.upgrate_cmppack h1{font-size:12px;}
+.select_all.manage_fag{width:100%; box-sizing: border-box;}
+.select_all.manage_fag select{width:100%}
+.select_all.manage_fag{margin:0}
+.new_pagination ul li a, .new_pagination ul li p{font-size:11px;}
+.new_pagination b, .pagination p small{font-size:12px!important;}
+.table_bottom_control{padding: 10px;}
+.table_bottom_control ul.select_all_part .bottom_selection_select {width: 110px;}
+.table_bottom_control ul.select_all_part .bottom_selection_select select{font-size: 11px;}
+.review-head{height: 42px;}
+.drv_rat{float: left;width: 75%;}
+}
+
+/************************************************************************************
+smaller than 320 iPhone4,iPhone5,Android Resolution
+*************************************************************************************/
+@media screen and (max-width:320px) { 
+.withdrow_reuestpopinner{width:70%}
+    
+
+}
+
+/************************************************************************************
+smaller than 240 Android Resolution
+*************************************************************************************/
+@media screen and (max-width:240px) {}
+
+

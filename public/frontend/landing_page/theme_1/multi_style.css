@@ -1,0 +1,117 @@
+/************************************************************************************
+smaller than 1200
+*************************************************************************************/
+@media screen and (max-width: 1200px) {    
+.inner{width: 86%;}
+body{padding: 0 !important;}    
+.contact_det input[type=submit],.sub_butt input[type=submit], .sub_butt input[type=button]{-webkit-appearance: none;}    
+#home img{width: auto;}
+}
+/************************************************************************************
+smaller than 1024
+*************************************************************************************/
+@media screen and (max-width: 1024px) {    
+.inner{width: 94%;}
+#home .inner{width: 96%;left: 2%;}    
+.about_left img{max-width: 100%;}
+    
+}
+
+
+/************************************************************************************
+smaller than 900
+*************************************************************************************/
+@media screen and (max-width: 900px) {      
+nav li a{margin-right: 15px;}
+.about_right{padding-right: 2%;}
+.join_usleft{padding-left: 2%;width: 55%;}
+.about_right h2,.join_usleft h2{font-size: 26px;}
+.about_right h2::before,.join_usleft h2:before{height: 20px;}
+.join_usright{float: right;width: 45%;padding-right: 2%;}
+.inner_contact,.footer_inner{width: 96%;}
+.contact_btmleft{width: 40%;}
+.contact_det{width: 58%;margin-left: 2%;}
+.contact_det form{width: 100%;}
+}
+/************************************************************************************
+smaller than 800
+*************************************************************************************/
+@media screen and (max-width: 800px) {
+.join_social a{width: 45%;display: inline-block;}
+.join_social a:first-child{margin-right: 2%;}
+.join_social a img{max-width: 100%;}
+}
+/************************************************************************************
+smaller than 768
+*************************************************************************************/
+@media screen and (max-width: 768px) {
+#toggle_menu{position: relative;float: right;width: 25px;height: 20px;}
+#toggle_menu:before{position: absolute;top: 0;right: 0;width: 25px;height: 5px;border-top: 3px solid #fff;border-bottom: 3px solid #fff;content: "";}
+#toggle_menu:after{position: absolute;top: 16px;right: 0;width: 25px;height: 3px;content: "";background: #fff;}
+.header_right{position: relative;margin-top: 21px;}
+.header_right *{transition-duration: 0s;}
+.header_right nav{width: 165px;background: #222;border: 1px solid #000;display: none;position: absolute;right: 0;top: 19px;}
+.header_right nav li{width: 100%;text-align: center;}
+.header_right nav li a{margin: 0;float: none;display: inline-block;padding: 7px 0;line-height: normal;}
+.signin_form, .forgot_form, .facebook_info_popup, .fare_estimate_popup,.signup_form{position: absolute;width: 60%;left: 50%;margin-left: -30%;top: 25%;}
+.header.sticky{height: 60px;}
+.header_left img{height: auto;display: inline-block;}
+.header_left{padding-top: 13px;}
+
+
+
+}
+/************************************************************************************
+smaller than 685
+*************************************************************************************/
+@media screen and (max-width: 685px) {
+.banner_content{width: 100%;}
+.banner_content p br{display: none;}
+.banner_content h1 ,.contact_head h4{font-size: 24px;margin-bottom: 15px;padding-bottom: 15px;}
+.banner_content h1::before,.contact_head h4::before {left: 50%;position: absolute;width: 60%;margin-left: -30%;background-size: 100%;}
+.start_now_free {height: 45px;line-height: 45px;margin-top: 25px;text-align: center;width: 160px;}
+.app_outer ul li{width: 53px;height: 53px;}
+.app_outer ul li img{max-width: 100%;}
+.banner_content p{font-size: 13px;}
+.app_outer{margin-top: 25px;}
+#join-us-driver{padding-bottom: 20px;}
+.about_left,.join_usright{width: 100%;}
+.join_usright{padding: 0 2%;}
+.about_right{width: 100%;padding: 0 2%;}
+.join_usleft{width: 100%;padding: 0 2%;margin-top: 30px;}
+#home{height: 490px;}
+#home img{max-height: 100%;}
+.join_social a{width: auto;}
+}
+
+/************************************************************************************
+smaller than 568
+*************************************************************************************/
+@media screen and (max-width: 568px) {  
+.signup_form ul, .signin_form ul, .forgot_form ul.facebook_info_popup ul{background-size: 100%;}
+.contact_det{width: 100%;margin: 0;padding: 15px;min-height: 1px;}
+.contact_btmleft{width: 100%;margin-top: 15px;min-height: 1px;padding: 15px;}
+.join_social a{width: 46%;}
+.address h4{font-size: 16px;}
+address{font-size: 13px;}
+.footer_social ul li{padding-right: 8px;}
+.contact_det input[type="submit"]{margin-top: 30px;width: 140px;}
+.about_right h2,.join_usleft h2{font-size: 20px;}
+.about_right h2::before,.join_usleft h2:before{height: 17px;top: 5px;}
+.contact_det em{bottom:-20px;}
+
+}
+/************************************************************************************
+smaller than 480
+*************************************************************************************/
+@media screen and (max-width: 480px) {
+.signin_form, .forgot_form, .facebook_info_popup, .fare_estimate_popup,.signup_form{position: absolute;width: 90%;left: 50%;margin-left: -45%;top: 25%;}
+.banner_content h1,.contact_head h4{font-size: 20px;}
+.join_usright img{height: auto;}
+}
+/************************************************************************************
+smaller than 380
+*************************************************************************************/
+@media screen and (max-width: 390px) {
+
+}

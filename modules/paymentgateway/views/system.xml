@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2017 Ndot. All rights reserved. 
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:kohana:module:Payment_Config:etc/system_file.xsd">
+    <system>
+        <section id="payment_gateway_type">
+            <field name="payment_gateway_list" type="list" default="" required="true" label="Select an option" description="">
+                <option value="">Select Provider</option>
+                <option value="2">Braintree</option>
+                <option value="3">Authorize</option>
+                <option value="4">Stripe</option>                                
+            </field>
+            <group id="common_settings" translate="label" type="select" value="2">				                               
+                <field id="payment_gateway_id" translate="label" type="hidden" value="" showInPosition="0">
+                    <label>Payment gateway name</label>  
+                    <span class="star">*</span>                                                  
+                </field>
+                <field id="payment_gateway_name" translate="label" type="text" value="T" showInPosition="0" required="true">
+                    <label>Payment gateway name</label>    
+                    <span class="star">*</span>                                                  
+                </field>
+                <field id="description" translate="label" type="text" value="L" showInPosition="0" required="true">                                      
+                    <label>Payment description</label>  
+                    <span class="star">*</span>                 
+                </field>
+                <field id="currency_code" translate="label" type="text" value="L" showInPosition="0" readonly="readonly">                                      
+                    <label>Currency code</label>                  
+                </field>
+                <field id="currency_symbol" translate="label" type="text" value="L" showInPosition="0" readonly="readonly">                                      
+                    <label>Currency symbol</label>                  
+                </field>
+                
+                <field id="payment_method" translate="Test Mode" type="radio" value="T" showInPosition="3" required="true">
+                    <label class="form_group">Payment method</label>  
+                    <span class="star">*</span>                                                   
+                </field>
+                <field id="payment_method" translate="Live Mode" type="radio" value="L" showInPosition="3" required="true">
+                    <label id="end_form_group"></label>                              
+                </field>
+            </group>                             
+            
+        </section>
+    </system>
+</config>

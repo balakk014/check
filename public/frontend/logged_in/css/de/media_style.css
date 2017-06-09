@@ -1,0 +1,140 @@
+@media screen and (max-width: 1180px) {
+.inner,.footer_outer_inner{width: 97%;}
+.trip_mor_det p label, .rate label{width: 42%;}
+.trip_mor_det p span,.rating{width: 56%;margin-left: 2%;}      
+.recent_trip{width: 49%;}
+.toggleMenu{background:url(../../images/togglemenu_icon.png) no-repeat;display:inline-block;width:25px;height:25px;margin:19px 0 0;background-size: 100%;}
+#language{padding-right: 15px;}
+.hnav li:first-child p span{position: relative;}
+.hnav li:first-child p span:before{position: absolute;content: "";border-top: 4px solid #333;border-left: 4px solid transparent;border-right: 4px solid transparent;right: 6px;top: 7px;}
+#menu_icon i{font-size: 21px;}
+.select_box{position: relative;}
+.select_box:before{position: absolute;content: "";border-top: 10px solid #cccac4;border-left: 10px solid transparent;border-right: 10px solid transparent;right: 10px;top: 45%;}
+.driver_img{width: 25%;margin-right: 2%;}
+.triver_det{width: 73%;}
+.triver_det .rating{width: 100%;}
+.submit input[type=submit],.full_name input[type=password], .full_name input[type=text],.add_card,.promo_code input[type=button], .card_details ul li input[type=submit]{-webkit-appearance: none;}  
+}
+@media screen and (max-width: 1100px) {
+.fa_tags{margin-top: 15px;}
+.user{width: 12%;}
+.user img{max-width: 95%;height: auto;}
+.hnav{position:absolute;right:12px;top:40px;background:#fff;box-shadow:0px 1px 2px 1px rgba(0, 0, 0, 0.35);-webkit-box-shadow:0px 1px 2px 1px rgba(0, 0, 0, 0.35);-o-box-shadow:0px 1px 2px 1px rgba(0, 0, 0, 0.35);width: 230px;display: none;z-index: 99;}
+.header_rgt ul.hnav li{margin: 0 10px 0 10px;}
+.header_rgt ul li p{line-height: 40px;color: #333;}  
+.header_rgt ul li i{line-height: 40px;}   
+.header_rgt ul li.usr_pro a span{color: #333;}  
+}
+@media screen and (max-width: 1024px) {
+.view_trip_det{width: 14%;margin: 15px 2% 0 0;}
+.pluse_icon{float: right;}
+.toggleMenu{background:url(../../images/togglemenu_icon.png) no-repeat;background-size: 100%;}
+.add_card{padding: 0 15px;}  
+}
+@media screen and (max-width: 900px) {
+.recent_trip{width: 100%;}
+.upcoming_trip_det{margin-top: 10px;}  
+.scroll_div{overflow-x: auto;overflow-y: hidden;float: left;width: 100%;}
+.completed_trips table{width: 868px;}
+aside{width: 28%;}
+section{width: 72%;left: 28%;}
+#sidebar.open_sidebar{left: -28%;}
+.triver_det .rating > div:before{font-size: 26px;}
+.booking_buttons{padding: 0 10%;}
+.taxi_tab_images img{max-width: 100%;}
+}
+@media screen and (max-width: 768px) {
+.footer_top_out{text-align: center;}  
+.mob_support,.social_share{float: none;display: inline-block;}
+.dash_details{overflow: hidden;}
+aside{width: 240px;left: -240px;}
+section{width: 100%;left: 0%;}
+#sidebar.open_sidebar{left: 0;} 
+#right_side_part.open_sidebar{left: 240px;} 
+.white_bg{padding: 10px;}
+.booking_buttons {padding: 0 5%;}
+#messagedisplay,.bookingpage #messagedisplay {width: 96%;margin-left: 2%;}
+.promo_code input[type="button"], .card_details ul li input[type="submit"]{padding: 0 20px;}
+}
+@media screen and (max-width:680px){
+.bread_com,.trip_det_lft,.trip_det_rgt,.fare_det_lft{width: 100%;}   
+.trip_det_rgt img{max-width: 100%;}
+.trip_det_rgt{margin-top: 15px;text-align: center;}  
+.fare_det_rgt{margin-top: 15px;width: 100%;}
+.change_password ul{width: 75%;}    
+.book_taxi ul li{width: 47%;margin: 8px 1.5%;}
+.booking_buttons {padding: 0;}
+.scroll_tab{overflow-x: auto;overflow-y: hidden;}
+.scroll_tab table{width: 820px;}
+.banner_outer h1, .book_taxi h2{font-size: 35px;}
+}
+@media screen and (max-width: 600px) {
+.footer_products{width: 50%;}
+.change_password ul{width: 100%;}  
+.card_details ul li.cal_month{width: 25%;}
+.card_details ul li.cvv{width: 23%;}
+.booking_buttons{padding: 0 10%;}
+.tab_1,.tab_2,.tab_3,.banner_tab{width: 100%;}
+.banner_outer h1, .book_taxi h2{font-size: 30px;}
+.promo_code input[type="button"], .card_details ul li input[type="submit"]{padding: 0 20px;}
+.booking_buttons{padding: 0;}
+.google_map{height: 235px !important;}
+.about_bottom_inner{width: 90%;}
+.promo_box{width: 48%;margin: 0;}
+.banner_outer{height:auto;}
+.banner_tab .tab_1, .banner_tab .tab_2, .banner_tab .tab_3, .banner_tab .tab_4{position:inherit;width:100%; text-align:center;height:auto;}
+.banner_tab .tab_1 img,.banner_tab .tab_2 img,.banner_tab .tab_3 img,.banner_tab .tab_4 img{position:inherit;left:auto; bottom:0}
+}
+@media screen and (max-width: 480px) {
+.subscribe{width: 100%;}
+.subscribe input[type=text]{width: 76%;}
+.subscribe input[type=submit], .subscribe input[type=button]{width: 22%;padding: 0 2%;font-size: 14px;}
+.footer_products{width: 100%;padding-bottom: 15px;}
+.mob_support,.social_share,.recharge_amounts ul,.enter_amount{width: 100%;}  
+.mob_support ul li{float: none;display: inline-block;}
+.card_details ul li.cal_month{width: 50%;margin-left: 0;margin-bottom: 10px;}
+.card_details ul li.cvv{width: 48%;margin-bottom: 10px;}
+.card_details ul li.card_no, .card_details ul li.name_on_card,.select_box{width: 100%;margin-bottom: 10px;}
+.enter_amount{margin-top: 10px;}
+.booking_buttons{padding: 0;}
+.banner_tab ul li{margin: 0 8px;}
+.book_taxi ul li{width: 100%;margin: 8px 0;}
+.promo_box{width: 100%;margin: 0 0 10px 0;}
+.pay_tab ul li a{font-size: 20px;padding: 0 15px 0 45px;}
+.submit input[type="submit"]{padding: 0 20px;}
+.recent_trip h1, .completed_trips h2{width: 100%;}
+.ride_now,.ride_later{width: 100%;margin-top: 10px;}
+.ride_now input[type="button"], .ride_later input[type="button"]{width: 100%;}
+.signin_form, .fare_estimate_popup{width: 90%;margin-left: -45%;}
+.sub_butt input[type="button"]{padding: 8px 20px;}
+.recharge_amounts ul li a{height: 43px;line-height: 43px;}
+.enter_amount input[type="text"]{height: 43px;line-height: 43px;}
+.wallet_top_det h1{font-size: 50px;line-height: 70px;}
+.wallet_top_det b, .wallet_bot_det h2{font-size: 20px;margin-top:10px;}
+.payment_detail{margin-top: 20px;}
+.promo_code {margin: 10px 0 0;}
+.change_password ul li{padding-top: 10px;}
+.empty_tag{display: none;}
+.signup_form ul, .signin_form ul{background-size: 100%;}
+}
+
+@media screen and (max-width: 425px) {
+.banner_tab ul{height:auto;}
+.banner_tab ul li{margin:5px;}
+}
+@media screen and (max-width: 400px) {
+	.promo_code{margin-top:0}
+}
+@media screen and (max-width: 380px) {
+.pagination2{text-align: center;}
+.pagination p{width: 100%;padding-bottom: 10px;}	
+.pagination p small{float: none;display: inline-block;}
+.fare_det_lft ul li label{width: 43%;}
+.fare_det_lft ul li p{width: 54%;margin-left: 3%;}  
+.country_code{width: 20%;}
+.mobile_no{width: 80%;}
+.pay_tab ul li{width: 100%;border: none;}
+.fare_estimate_popup ul{width: 100%;padding: 0;}
+#modelImg{text-align: center;width: 100%;margin-top: 15px;}
+.tab_scroll{padding: 0;}
+}

@@ -1,0 +1,359 @@
+/* RESET CSS START*/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, tbody, tfoot, thead, article, aside, dialog, figure, footer, header, hgroup, nav, section { margin:0; padding:0; border:0; font-weight:inherit; font-style:inherit; font-size:100%;font-family: 'roboto_regular'; }
+article, aside, dialog, figure, footer, header, hgroup, nav, section { display:block; }
+table { border-collapse:separate; border-spacing:0; }blockquote:before, blockquote:after, q:before, q:after { content:""; }blockquote, q { quotes:"" ""; }
+a img { border:none; outline:none; }a span:hover, a:hover, a { text-decoration:none; outline:none; }ul, li { margin:0; padding:0; list-style:none; }
+input[type=button], input[type=submit], input[type=reset] { cursor:pointer;}input[type=text] { border:none; }
+body { font-family: 'roboto_regular'; font-size:13px; width:100%;font-weight: normal;}
+*, *:before, *:after{ -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
+/* RESET CSS END*/
+header,footer,section{display: block;}body *{transition-duration:0.5s;}
+/*font face*/
+@font-face {
+  font-family: 'roboto_regular';
+  src: url('../../fonts/roboto_regular/Roboto-Regular.eot?#iefix') format('embedded-opentype'),  
+       url('../../fonts/roboto_regular/Roboto-Regular.woff') format('woff'), 
+       url('../../fonts/roboto_regular/Roboto-Regular.ttf')  format('truetype'), 
+       url('../../fonts/roboto_regular/Roboto-Regular.svg#roboto_regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'roboto_light';
+  src: url('../../fonts/roboto_regular/Roboto-Light.eot?#iefix') format('embedded-opentype'),  
+       url('../../fonts/roboto_regular/Roboto-Light.woff') format('woff'), 
+       url('../../fonts/roboto_regular/Roboto-Light.ttf')  format('truetype'), 
+       url('../../fonts/roboto_regular/Roboto-Light.svg#roboto_light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/*header section*/
+.header_outer{float: left;width: 100%;height: 61px;background: #000;}
+.bookingpage .header_outer{box-shadow: 0 0 3px rgba(0,0,0,0.3);-webkit-box-shadow: 0 0 3px rgba(0,0,0,0.3);background: #000;}
+.header_inner{margin: 0 auto;width: 97%;}
+.inner{margin: 0 auto;width: 1080px;}
+#menu_icon{position: relative;float: left;margin:21px 15px 0 0;}
+#menu_icon i{font-size:19px;color: #fff;}
+.logo{width: 200px;float: left;padding: 0;margin-top: 15px;}
+.logo a {float: left;width: 100%;}
+.logo img {height: auto;max-width: 100%;}
+.header_rgt{float: right;width: auto;}
+.header_rgt ul{float: right;}
+.header_rgt ul li{float: left;list-style: none;margin-left: 20px;position: relative;}
+.header_rgt ul li p{float: left;font-size:13px;line-height: 61px;color: #fff;text-transform: uppercase;}
+.header_rgt ul li.ref_code span,.header_rgt ul li.acc_bln span{font-size:13px;color: #ee3324;}
+.header_rgt ul li.ref_code span{text-transform: none;}
+.header_rgt ul li.alert{padding-right: 10px;}
+.header_rgt ul li i{font-size: 16px;color: #e71818;float: left;line-height: 59px;margin-right: 7px;}
+.ico{background: url(../../images/sprite_ico.png) no-repeat;float: left;}
+.fa_tags{width: 16px;height: 16px;background-position:-24px -17px;margin-top: 23px; }
+.header_rgt ul li.alert a{background: #e71818;width: 23px;height: 23px;border-radius: 100%;font-size:13px;line-height: 23px;color: #fff;position: absolute;float: left;text-align: center;top: 10px;right: -3px;} 
+.header_rgt ul li.usr_pro a{float: left;}
+.header_rgt ul li.usr_pro a:hover span{color:#ee3324;}
+.header_rgt ul li.usr_pro img{float: left;border-radius: 100%;margin: 12px 10px 0 0;}
+.header_rgt ul li.usr_pro a span{font-size:13px;line-height: 61px;color: #fff;text-transform: uppercase;float: left;}
+.icons_1{float: left;margin: 21px 7px 0 0;}
+.icon_17{width: 17px;height: 17px;fill: #e71818;}
+/*Home page*/
+.banner_outer{float: left;width: 100%;background: url(../../images/banner_bg.png) left bottom no-repeat;height: 540px;padding-top: 35px;text-align: center;}
+.banner_outer h1,.book_taxi h2{float: left;width: 100%;font-size:46px;color: #000;letter-spacing: -2px;font-family: 'roboto_light';}
+.banner_outer h2,.book_taxi h3{float: left;width: 100%;font-size:25px;color: #696666;margin-top: 5px;letter-spacing: -1px;font-family: 'roboto_light';}
+.banner_tab{width: 550px;display: inline-block;margin-top: 40px;}
+.banner_tab *{transition-duration:0s;}
+.banner_tab ul{width: 100%;float: left;height: 80px;}
+.banner_tab ul li{display: inline-block;list-style: none;margin: 0 17px;vertical-align: top;}
+.banner_tab ul li a{display: inline-block;width: 80px;height: 80px;background: #f7f7f7;border:1px solid #cccac4;border-radius: 100%;-webkit-border-radius: 100%;padding-top: 25px;position: relative;}
+#tab_2{padding-top: 19px;}
+.taxi_ico_1{display: inline-block;width: 64px;height: 24px;}
+.taxi_ico_2{display: inline-block;width: 58px;height: 24px;}
+.taxi_ico_3{display: inline-block;width: 64px;height: 24px;}
+.banner_tab ul li a span{font-size:13px;width: 100%;margin-top: 15px;color: #666;margin:0;display: inline-block;}
+.banner_tab ul li a:hover,.banner_tab ul li a.active{background: #fff;border:1px solid #ee3324;}
+.banner_tab ul li a:hover span,.banner_tab ul li a.active span{color: #ee3324;}
+.taxi_tab_images{float: left;width: 100%;margin-top: 14px;position: relative;}
+.taxi_costdet{float: left;width: 100%;padding: 30px 0;}
+.taxi_costdet table{width: 100%;float: left;border-left: 1px solid #e7e7e7;border-bottom: 1px solid #e7e7e7;}
+.taxi_costdet table th{background: #f3f3f3;font-size:15px;color: #404041;text-align: center;padding: 13px 0;border-top: 1px solid #e7e7e7;border-right: 1px solid #e7e7e7;text-transform: capitalize;font-weight: normal;}
+.taxi_costdet table td{font-size:15px;color: #404041;text-align: center;padding: 13px 0;border-top: 1px solid #e7e7e7;border-right: 1px solid #e7e7e7;}
+.book_taxi{float: left;width: 100%;background: #f3f3f3;border-top: 1px solid #d3d3d3;border-bottom: 1px solid #d3d3d3;padding: 45px 0 30px;text-align: center;}
+.book_taxi ul{float: left;width: 100%;margin-top: 20px;text-align: left;}
+.book_taxi ul li{float: left;width: 30%;margin:18px 3% 18px 0;}
+.full_name{float: left;width: 100%;}
+.full_name input[type=text],.full_name input[type=password],.month input[type=text],.year input[type=text]{float: left;width: 100%;border:1px solid #cfcfcf;height: 43px;padding:5px 10px;font:16px arial;color: #cccac4;outline: none;}
+.full_name select{float: left;width: 100%;border:1px solid #cfcfcf;height: 43px;padding: 10px;font:16px arial;color: #cccac4;outline: none;}
+.full_name input[type=text]:focus,.full_name input[type=password]:focus,.mobile_num input[type=text]:focus{box-shadow: 0 0 6px #666;-webkit-box-shadow: 0 0 6px #666;}
+.full_name input[type=text].req-field{box-shadow: 0 0 6px #ee3324;-webkit-box-shadow: 0 0 6px #ee3324;border:1px solid #ee3324;}
+.mobile_num{float: left;width: 100%;height: 36px;}
+.mobile_num span{float: left;width: 20%;}
+.mobile_num span input[type=text]{float: left;width: 102%;border: 1px solid #cfcfcf;height:36px;font-size:13px;font-family: 'roboto_regular';color: #cccac4;text-align: center;background: #fff;border-right: none;border-radius: 4px 0 0 4px;-webkit-border-radius: 4px 0 0 4px;}
+.mobile_num input[type=text]{float: left;width: 80%;height: 36px;padding: 10px;font-size:13px;font-family: 'roboto_regular';color: #cccac4;outline: none;border: 1px solid #cfcfcf;border-radius: 0 4px 4px 0;-webkit-border-radius: 0 4px 4px 0;}
+.ride_now{width: 33%;background: #ee3324;height: 34px;border-left: 1px solid #fff;float: left;}
+.ride_later{width: 33%;background: #8e1f16;height: 34px;border-left: 1px solid #fff;float: left;}
+.ride_now input[type=button],.ride_later input[type=button]{float: left;width: 100%;height: 100%;text-align: center;font-size:15px;font-family: 'roboto_light';color: #fff;border:none;background: none;text-transform: capitalize;outline: none;}
+.ride_now input[type=button]:hover,.ride_later input[type=button]:hover,.sub_butt input[type=submit]:hover{opacity: 0.7;filter:alpha(opacity=70);}
+.google_map{float: left;width: 100%;overflow: hidden;}
+
+/*dash midd det*/
+.dash_details{float: left;width: 100%;border-top: 1px solid #ddd;}
+aside{background: #fff;width: 25%;height: auto;display: inline-block;float: left;position: absolute;left: 0%;z-index: 99;border-right: 1px solid #cccac4;box-shadow: 0 0px 11px -3px rgba(0,0,0,0.2);-webkit-box-shadow: 0 0px 11px -3px rgba(0,0,0,0.2);}
+section{background: #f3f1f1;width: 75%;float: left;left:25%;position: relative}
+#right_side_part.open_sidebar {width: 100%;left:0;}
+#sidebar.open_sidebar{left: -25%;}
+#sidebar ul{float: left;width: 100%;}
+#sidebar ul li{float: left;list-style: none;width: 100%;border-bottom: 1px solid #cccac4;}
+#sidebar ul li a{float: left;padding:15px;font-size:15px;color: #000;width: 100%;}
+.icons{float:left;margin-right:7px;}
+.icon_18{width:17px;height:18px;fill:#e71818;}
+/*sidebar*/
+#sidebar ul li.active{background:#e71818;}
+#sidebar ul li:hover a{color: #e71818;}
+#sidebar ul li.active a{color: #fff;}
+#sidebar ul li:hover a .icon_18{fill:#000;}
+#sidebar ul li.active a .icon_18{fill:#fff;}
+
+.plus_square{width: 16px;height: 16px;background: url(../../images/sprite_ico.png) -23px -190px no-repeat;display: inline-block;}
+.fa_cab{background-position:0 -172px;width: 18px;height: 16px;}
+.ico_edit{width: 16px;height: 16px;background: url(../../images/sprite_ico.png) -23px -208px no-repeat;display: inline-block;}
+.ico_delete{width: 14px;height: 16px;background: url(../../images/sprite_ico.png) -41px -208px no-repeat;display: inline-block;}
+.card_opt{position: relative;}
+.card_opt input[type=radio]{position: absolute;visibility: hidden;}
+.card_opt .check{display: block;position: absolute;border: 1px solid #ee3324;border-radius: 100%;height: 15px;width: 15px;top: -7px;left: 48%;z-index: 5;
+	transition: border .25s linear;-webkit-transition: border .25s linear;}
+.card_opt:hover .check {border: 1px solid #FFFFFF;}
+.card_opt .check::before {display: block;position: absolute;content: ''; border-radius: 100%;height: 7px;width: 7px;top: 3px;left: 3px;margin: auto;
+	transition: background 0.25s linear;-webkit-transition: background 0.25s linear;}
+.card_opt input[type=radio]:checked ~ .check { border: 1px solid #ee3324;}
+.card_opt input[type=radio]:checked ~ .check::before{background: #ee3324;}
+.top_part{float: left;width: 100%;border-top: 1px solid #fff;padding: 15px 2%;}
+
+/*bread com*/
+.bread_com{float: left;width: 50%;}
+.bread_com ul li{float: left;list-style: none;}
+.bread_com ul li a{font-size:15px;color: #333;}
+.bread_com ul li a:hover{color: #e71818;}
+.bread_com ul li i{margin: 0 8px;font-size:15px;color: #a2a2a2;}
+.bread_com ul li p{font-size:15px;color: #e71818;}
+.upcoming_trip{float: right;}
+.upcoming_trip p{font-size:13px;color: #ee3324;text-transform: uppercase;float: left;}
+.upcoming_trip p i{margin-right: 7px;color: #e71818;}
+.upcoming_trip p span{color: #000;}
+.white_bg{float: left;margin: 0 2%;width: 96%;background: #fff;padding: 20px;min-height: 450px;}
+.recent_upcoming{float: left;width: 100%;}
+.recent_trip{float: left;width: 48%;}
+.recent_trip h1,.completed_trips h2{float: left;width: 75%;font-size:25px;color: #000;padding-bottom: 15px;font-family: 'roboto_light';}
+.change_password h1{float: left;width: 100%;font-size:25px;color: #000;font-family: 'roboto_light';}
+.recent_trip ul{float: left;width: 100%;background: #f8f8f8;}
+.recent_trip ul li{float: left;width: 100%;padding: 20px 15px;border-top: 2px solid #fff;}
+.book_dat_time{padding: 0 12px 0 24px;}
+.passenger_current_location{border-left: 2px solid #68b800;padding-bottom: 5px;}
+.passenger_drop_location{border-left:2px solid #ee3324;padding-top: 5px;}
+.passenger_current_location,.passenger_drop_location{float: left;width: 100%;position: relative;padding-left: 24px;}
+.passenger_current_location:before{position:absolute;top: -1px;left: -7px;content: "";background: url(../../images/pickup_point.png) no-repeat;width: 12px;height: 31px;}
+.passenger_drop_location:before{position:absolute;bottom: 0px;left: -7px;content: "";background: url(../../images/drop_point.png) no-repeat;width: 12px;height: 35px;}
+.recent_trip ul li:first-child{border: 0;}
+.trip_lst{float: left;width: 80%;}
+.trip_lst p{float: left;width: 100%;font-size:15px;line-height: 21px;color: #a7a7a7;}
+.view_trip_det{float: right;margin:15px 20px 0 0;}
+.pluse_icon{width: 35px;height: 35px;display: inline-block;background: url(../../images/pluse_icon.png) no-repeat;}
+.minize_icon{width: 35px;height: 35px;display: inline-block;background: url(../../images/minize_icon.png) no-repeat;}
+.upcoming_trip_det{float: right;}
+.completed_trips{float: left;width: 100%;margin-top: 20px;}
+.completed_trips table{border:1px solid #cccac4;width: 100%;}
+.completed_trips table th{padding: 15px 10px;background: #f3f1f1;font-size:14px;color: #333;text-align: center;font-weight: normal;}
+.completed_trips table td{padding: 15px 10px;font-size:14px;color: #a7a7a7;text-align: center;border-top: 1px solid #cccac4;}
+.more_det i{font-size: 20px;color: #e71818;}
+.trip_mor_det{float: left;width: 100%;padding: 0 12px 10px 20px;}
+.user{float: left;width: 38px;}
+.trip_user_det{float: right;width: 87%;}
+.trip_mor_det p,.rate{float: left;width: 100%;margin: 3px 0;font-size:14px;color: #666;}
+.trip_mor_det p label,.rate label{float: left;width: 95px;padding-right: 10px;position: relative;}
+.trip_mor_det p label:before,.rate label:before{position: absolute;top: 0;right: 0;content: ":";font-size:14px;color: #666;}
+.trip_mor_det p span{float: left;width: 200px;margin-left: 10px;}
+
+/*rating*/
+.rating {border: medium none;float: left;width:50%;margin-left: 10px;}
+.rating > div:before {display: inline-block;font-family: FontAwesome;font-size: 18px;margin: 0 3px 0 0;content: "\f005";width: auto;padding: 0;}
+.rating > .half:before { content: "\f089"; position: absolute;}
+.rating > div {color: #999999;float: left;}
+
+/*wallet*/
+.wallet_top_det{float: left;width: 100%;padding:0 0 20px 0;text-align: center;border-bottom: 1px solid #cccac4;}
+.wallet_top_det h1{float: left;width: 100%;font-size:72px;color: #333;font-family: 'roboto_light';}
+.wallet_top_det b,.wallet_bot_det h2{float: left;width: 100%;font-size:25px;font-family:'roboto_light';line-height: 20px;color: #000;text-align: center;position: relative;font-weight: normal;}
+.wallet_top_det p{font-size:15px;line-height: 33px;color: #b2b2b2;display: inline-block;background: url(../../images/info.png) no-repeat;padding-left: 42px;margin-top: 25px;}
+.wallet_bot_det{float: left;width: 100%;padding: 20px 0 40px;}
+.recharge_amounts{float: left;width: 100%;margin-top: 35px;}
+.recharge_amounts ul{width: 50%;float: left;}
+.recharge_amounts ul li{float: left;width: 32%;margin-right:2%;}
+.recharge_amounts ul li:last-child{margin: 0;}
+.recharge_amounts ul li a{text-align: center;width: 100%;border: 1px solid #cccac4;border-radius: 3px;-webkit-border-radius: 3px;float: left;height: 60px;font-size:15px;line-height: 60px;color: #666;}
+.recharge_amounts ul li:hover a,.recharge_amounts ul li.active a{color: #ee3324;border: 1px solid #ee3324;}
+.enter_amount{float: right;width: 49%;}
+.enter_amount input[type=text],.promo_code input[type=text]{float: left;width: 100%;border: 1px solid #cccac4;border-radius: 3px;-webkit-border-radius: 3px;padding: 10px;height: 60px;font-size:13px;font-family:'roboto_regular' ;color: #666;outline: none;font-weight: normal;}
+.promo_code .promo_box input[type=text]{height:36px; font-size:13px;}
+.promo_code{float: left;width: 100%;margin-top: 20px;}
+.promo_code p{float: left;width: auto;font-size:15px;line-height: 32px;color: #ee3324;margin-right: 10px;cursor:pointer;}
+.promo_box{float: left;width: 29%;margin-right: 2%;}
+.promo_code input[type=button],.card_details ul li input[type=submit]{float: left;background: #ee3324;height: 34px;border:none;padding: 0 25px;font-size:15px;color: #fff;font-family:'roboto_light' ;border-radius: 4px;-webkit-border-radius: 4px;}
+.promo_code input[type=button]:hover,.card_details ul li input[type=submit]:hover,.submit input[type=submit]:hover{background:#000}
+.payment_detail{float: left;width: 100%;margin:30px 0 20px 0;}
+.pay_tab{float: left;width: 100%;}
+.pay_tab ul{width: 100%;float: left;height: 53px;}
+.pay_tab ul li{float: left;width: 50%;}
+.pay_tab ul li:first-child{border: none;}
+.pay_tab ul li a{float: left;width: 100%;padding: 0 20px 0 45px;font-size:18px;line-height: 51px;color: #000;}
+.paypal{background: url(../../images/paypal.png) 25px center no-repeat;}
+.brain_tree{background: url(../../images/brain.png) 25px center no-repeat;}
+.credit_crd{background: url(../../images/credit_card.png) 0 center no-repeat;}
+.card_details{float: left;width: 100%;}
+.card_details ul{float: left;width: 100%;}
+.card_details ul.paymentgateway_fields{padding-top:17px;}
+.card_details ul li{float: left;margin:0 0 17px 2%;}
+.card_details ul li.card_no,.card_details ul li.name_on_card{margin-left: 0;width: 50%;clear:both}
+.card_details ul li.cal_month{width: 32%;clear:both;}
+.card_details ul li:last-child{width: 32%;clear:both;margin-left:0}
+.card_details .paymentgateway_fields li.cal_month{margin-left: 0;}
+.card_details ul li.cvv{width: 16%;}
+.card_details ul li input[type=text]{float: left;width: 100%;border: 1px solid #cccac4;padding: 10px;height: 36px;font-size:13px;color: #b2b2b2;outline: none;border-radius: 4px;-webkit-border-radius: 4px;}
+.card_det_terms{float: left;width: 100%;}
+.card_det_terms p{float: left;width: auto;font-size:15px;color: #ee3324;margin-right: 10%;}
+.card_det_terms p a{font-size:15px;color: #ee3324;position: relative;}
+.card_det_terms p a:before{position: absolute;bottom: 0;left: 0;content: "";height: 1px;width: 100%;background: #ee3324;}
+.add_card{float: right;background: #ee3324;height: 34px;padding: 0 25px;font-size: 15px;line-height: 32px;color: #fff;border: none;outline: none;margin: 0 0 25px;font-family: 'roboto_light';border-radius: 4px;-webkit-border-radius: 4px;}
+.add_card:hover{background:#000}
+.triver_det .add_card{float: left;}
+.select_box{float: left;width:100%;}
+.select_box select{float: left;width: 100%;border: 1px solid #cccac4;padding:0 10px;height: 36px;font-size:13px;color: #b2b2b2;outline: none;border-radius: 4px;-webkit-border-radius: 4px;}
+
+/*details*/
+.trip_detail{float: left;width: 100%;}
+.trip_detail h1,.fare_det_lft h2{float: left;width: 100%;padding-bottom: 20px;font-size:25px;color: #000;font-family: 'roboto_light';}
+.trip_det_lft{float: left;width: 48%;background: #f8f8f8;}
+.det_lft_top{float: left;width: 100%;padding: 10px;border-bottom: 1px solid #cccac4;}
+.trip_det_lst{float: left;width: 83%;}
+.trip_det_lst p{float: left;width: 100%;font-size:15px;color: #a7a7a7;line-height: 21px;}
+.trip_det_rgt{float: right;width: 48%;overflow: hidden;}
+.download_trp_det{float: right;width: 25px;height: 22px;background: url(../../images/download.png) no-repeat;}
+.det_lft_bot{float: left;padding: 15px 0;width: 100%;text-align: center;}
+.taxi_icons{float: left;width: 100%;padding-bottom: 15px;}
+.taxi_icons a{display: inline-block;width: 80px;height: 80px;background: #fff;border-radius: 100%;-webkit-border-radius: 100%;padding-top: 18px;position: relative;border:1px solid #ee3324;}
+.icon_taxi{background: url(../../images/taxi_act.png) no-repeat;display: inline-block;width: 64px;height: 24px;}
+.taxi_icons a span {color: #ee3324;font-size: 14px;width: 100%;margin-top: 5px;display: inline-block;}
+.taxi_icons a:before {position: absolute;border-top: 7px solid #ee3324;border-left: 7px solid transparent;border-right: 7px solid transparent;bottom: -6px;left: 50%;margin-left: -7px;content: "";}
+.det_lft_bot ul{float: left;width: 100%;}
+.det_lft_bot ul li{float: left;width: 33.3%;border-left: 1px solid #cccac4;padding: 7px 0;}
+.det_lft_bot ul li:first-child{border: none;}
+.det_lft_bot ul li p{float: left;font-size:14px;color: #a7a7a7;width:100%;padding: 5px 0;}
+.det_lft_bot ul li span{float: left;font-size:14px;color: #333;width:100%;padding:5px 0;}
+.fare_details{float: left;width: 100%;margin-top: 35px;}
+.fare_det_lft{float: left;width: 48%;}
+.fare_det_lft ul{float: left;width: 100%;background: #f8f8f8;}
+.fare_det_lft ul li{float: left;width: 100%;padding: 12px 2%;border-bottom: 1px solid #cccac4;}
+.fare_det_lft ul li label{float: left;width: 35%;font-size:14px;color: #a7a7a7;position: relative;}
+.fare_det_lft ul li label:before{position: absolute;top: 0;right: 0;content: ":";font:15px arial;color: #a7a7a7;}
+.fare_det_lft ul li p{float: right;width: 60%;font-size:14px;color: #a7a7a7;}
+.fare_det_lft ul li.tot_amt label,.fare_det_lft ul li.tot_amt p,.fare_det_lft ul li.tot_amt label:before{color: #333;}
+.fare_det_lft ul li.tot_amt{border: none;}
+.fare_det_rgt{float: right;width: 48%;background: #f8f8f8;padding: 15px;min-height: 259px;}
+.driver_img{float: left;width: 80px;height: 80px;margin-top: 10px;}
+.driver_img img{border-radius: 100%;max-width: 100%;}
+.triver_det{float: left;width: 75%;}
+.triver_det h3{font-size:30px;color: #333;float: left;width: 100%;margin-top: 15px;font-family: 'roboto_light';}
+.triver_det p{font-size:18px;color: #929292;float: left;width: 100%;margin-top: 5px;padding-bottom: 15px;font-family: 'roboto_light';}
+.triver_det img{max-width: 99%;}
+.completed_trips.cancelled_trip{margin: 0;}
+
+/*change password*/
+.change_password{float: left;width: 100%;}
+.change_password ul{float: left;width: 50%;}
+.change_password ul li{float: left;width: 100%;list-style: none;padding-top: 15px;}
+.full_name{float: left;width: 100%;}
+.full_name input[type=password],.full_name input[type=text]{float: left;width: 100%;border: 1px solid #cccac4;padding:5px 10px;height:36px;font-size:13px;font-family: 'roboto_regular';color: #999;outline: none;border-radius: 4px;-webkit-border-radius: 4px;}
+.full_name input[type=password]:focus,.full_name input[type=text]:focus,.enter_amount input[type=text]:focus, .promo_code input[type=text]:focus,.card_details ul li input[type=text]:focus,.full_name textarea:focus,.country_code input[type=text]:focus,.mobile_no input[type=text]:focus{box-shadow: 0 0 6px #666;-webkit-box-shadow: 0 0 6px #666;}
+.full_name textarea{float: left;width: 100%;border: 1px solid #cccac4;padding: 10px;height: 100px;font-size:13px;font-family: 'roboto_regular';color: #999;outline: none;resize: none;border-radius: 4px;-webkit-border-radius: 4px;}
+.full_name input[type=file]{float: left;}
+.choose_profile_img{float: left;clear: both;margin-top: 25px;width: 58px;height: 58px;overflow: hidden;}
+.choose_profile_img img{border-radius: 100%;-webkit-border-radius: 100%;max-width: 100%;}
+.submit{float: left;}
+.submit input[type=submit]{float: left;background: #ee3324;height: 34px;padding: 0 35px;font-size:15px;color: #fff;border: none;outline: none;font-family: 'roboto_light';border-radius: 4px;-webkit-border-radius: 4px;}
+.change_password label.error,em{float: left;width: 100%;font-size:13px;color: #ff0000;margin-top: 3px;}
+.mobile_field{float: left;width: 100%;}
+.country_code{float: left;width: 15%;}
+.country_code input[type=text]{float: left;width: 100%;border: 1px solid #cccac4;padding: 10px;height: 36px;font:13px 'roboto_regular';color: #999;outline: none;text-align: center;border-right: 0;border-radius: 4px 0 0 4px;-webkit-border-radius: 4px 0 0 4px;}
+.mobile_no{float: left;width: 85%;}
+.mobile_no input[type=text]{float: left;width: 100%;border: 1px solid #cccac4;padding: 10px;height: 36px;font:13px 'roboto_regular';color: #999;outline: none;border-radius:0 4px 4px 0;-webkit-border-radius: 0 4px 4px 0;}
+
+/*transaction detail*/
+.transaction_det ul li label{float: left;width: 170px;padding-right: 10px;position: relative;font:14px arial;color: #333;}
+.transaction_det ul.left_prt li label{width: 130px;}
+.transaction_det ul.left_prt li p{width: 310px;}
+.transaction_det ul li label:before{position: absolute;top: 0;right: 0;content: ":";font-size:14px;color: #333;}
+.transaction_det ul li p{float: left;padding-left: 10px;font-size:14px;color: #666;width: 270px;}
+.transaction_det ul li b{float: left;font:18px arial;color: #000;width: 100%;}
+#on_going_trip_map{float: left;width: 100%;padding:10px 20px;}
+#on_going_trip_map h2{float: left;width: 100%;font-size:22px;color: #000;padding-bottom: 10px;}
+#on_going_trip_map #map{box-shadow: none !important;border:1px solid #cccac4;}
+.no_data{float: left;width: 100%;text-align: center;border:1px solid #cccac4;padding: 10px;font:13px arial;color: #666;}
+
+/*pagination*/
+.pagination {float: right;width: auto;margin-top: 10px;}
+.pagination b {float: left;margin:4px 10px 0 0;width: auto;color: #000;font-weight: normal;}
+.pagination ul {box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);float: left;margin-bottom: 0;margin-left: 0;}
+.pagination ul > li {float: left;font-size: 11px;margin-left: 3px;}
+.page_mid,.pagination ul > li{float: left;height: 24px;border: 1px solid #c6c9ce;background: #fafafa;margin-left: 3px; }
+.page_mid a,.pagination ul > li a {float: left;font-size:14px;padding: 0 8px;color: #666;cursor: pointer;line-height: 24px;}
+.pagination ul > li:hover,.pagination ul > li.active{border: 1px solid #e71818;}
+.pagination ul > li:hover p,.pagination ul > li:hover a,.pagination ul > li.active p{color:#e71818; }
+.pagination ul > li p{float: left;font-size:14px;padding: 0 8px;color: #666;cursor: pointer;line-height: 24px;}
+.page_mid a img {margin-top: 5px;}
+.page_mid strong {float: left;font-size:14px;font-weight: bold;padding: 4px 6px;color: #666;}
+.page_mid a strong {padding: 0;}
+#show_user_message{width: 100%;height: 100%;position: fixed;z-index: 9999;background: rgba(0,0,0,0.8);display: none;}
+.message_for_user_purpose{width: 50%;position: absolute;top: 200px;margin-left: -25%;z-index: 10000;text-align: center;left: 50%;}
+.message_for_user_purpose h1{display: inline-block;width:100%;font-size:30px;color: #fff;padding-bottom: 10px;}
+
+/**/
+.triver_det .add_card{margin: 15px 0 0 0;float: left;}
+.scroll_div{float: left;width: 100%;}
+.booking_buttons{width: 100%;text-align: center;float: left;padding: 0 20%;}
+.scroll_tab{float: left;width: 100%;}
+#availDrivers{float: left;width: 100%;margin-top: 18px;font-size: 14px;}
+.tab_scroll{float: left;width: 96%;overflow-x: auto;overflow-y: hidden;padding-bottom: 6px;}
+.bookingpage #messagedisplay {width:98%; margin-left:1%}
+
+/*session msg*/
+#messagedisplay {float: left;clear: both;position: relative;text-align: center;width: 72%;position: absolute;z-index: 99;top: 67px;margin-left: 26.5%;}
+.alert-success {float: left;width: 100%;}
+.success_float_tt {float: left;width: 100%;background-color: #DFF0D8;border-color: #fff;color: #468847; padding: 6px 1%;border:1px solid #7ae177;}
+.failure_float_tt,.error_float_tt {float: left;width: 100%;background-color: #f2dede;border-color: #fff;color: #8a6d3b; padding: 6px 1%;border:1px solid #ebcccc;}
+.alert .close {float: right;width: 20px;height: 20px;background: url(../../logged_in/images/close_butt.png) no-repeat;background-size: 100%;border:none;text-indent: -9999px;}
+.success_float_tt label,#message li{float: left;font-size: 14px;}
+.triver_det .rating{margin: 0;width: 100%;}
+.triver_det .rating > div:before{font-size: 29px;}
+.portfolio_banner{top:-1px;}
+.cancel_trp{float: left;background: #ee3324;font-size: 15px;line-height:32px;height: 34px;color: #fff;padding: 0 25px;margin: 5px 0 0 24px;font-family: 'roboto_light';border-radius: 4px;-webkit-border-radius: 4px;}
+.cancel_trp:hover{background:#000}
+
+/*footer*/
+.footer {float: left;width: 100%;background: #000;padding: 15px 0;text-align: center;position: relative;z-index: 100;}
+.footer p {font-size: 14px;color: #fff;}
+
+/*cms*/
+.about_outer,.about_bottom_common{float: left;width: 100%;}
+.about_baner{float: left;width: 100%;height: 65px;overflow: hidden;}
+.about_baner img{max-width: 100%;display: inline-block;}
+.about_bottom_outer{float: left;width: 100%;padding: 40px 0;}
+.about_bottom_inner{margin: 0 auto;width: 97%;}
+.about_bottom_common ul{float: left;width: 100%;}
+.about_bottom_common ul li{float: left;width: 100%;}
+.about_bottom_common p{font-size: 15px;color: #333;line-height: 22px;float: left;width: 100%;}
+.key_list{padding: 10px 0;}
+.key_list li{font-size: 14px;color: #666;line-height: 24px;float: left;width: 100%;}
+
+.banner_tab  .tab_1,.banner_tab  .tab_2,.banner_tab  .tab_3,.banner_tab  .tab_4{ position:relative;height:232px;width:550px;}
+.banner_tab  .tab_1 img{position:absolute;bottom:10px;left:4%;}
+.banner_tab  .tab_2 img{position:absolute;bottom:10px;left:8%;}
+.banner_tab  .tab_3 img{position:absolute;bottom:10px;left:16%;}
+.banner_tab  .tab_4 img{position:absolute;bottom:10px;left:0;}
